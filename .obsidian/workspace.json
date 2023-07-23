@@ -11,11 +11,8 @@
             "id": "be3b70471dbaba01",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "159669103febb794",
@@ -152,8 +148,8 @@
   },
   "active": "be3b70471dbaba01",
   "lastOpenFiles": [
-    "README.md",
     "Subjects.md",
+    "README.md",
     "mqdefault_6s.webp"
   ]
 }
