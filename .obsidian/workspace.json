@@ -11,8 +11,11 @@
             "id": "be3b70471dbaba01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "L 2di DA.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -148,6 +151,7 @@
   },
   "active": "be3b70471dbaba01",
   "lastOpenFiles": [
+    "L 2di DA.md",
     "Subjects.md",
     "README.md",
     "mqdefault_6s.webp"
