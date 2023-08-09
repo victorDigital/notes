@@ -21,6 +21,37 @@ $\sqrt[n]{3}$
 $\frac{2}{3}$
 $2/3$
 
-## kaligrafiske bokstaver
+## Kaligrafiske bokstaver
 
-$\mathsccr$
+$\mathscr{ABCDEFGHIJKLMNOPQRSTUVXYZ}$
+`\mathscr{...}`
+
+## Pile
+$$
+\Downarrow
+\longleftarrow
+\nwarrow
+\downarrow
+\Longleftarrow
+\Rightarrow
+\hookleftarrow
+\longleftrightarrow
+\rightarrow\hookrightarrow
+\Longleftrightarrow
+\searrow
+\leadsto
+\longmapsto
+\swarrow
+\leftarrow
+\Longrightarrow
+\uparrow
+\Leftarrow
+\longrightarrow
+\Uparrow
+\Leftrightarrow
+\mapsto
+\updownarrow
+\leftrightarrow
+\nearrow
+\Updownarrow
+$$
