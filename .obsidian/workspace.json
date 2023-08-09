@@ -4,21 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9505134d01dfa4",
+        "id": "8a7d03b2ef78b52d",
         "type": "tabs",
         "children": [
           {
-            "id": "be3b70471dbaba01",
+            "id": "c887edbd4072c027",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "L 2di DA.md",
-                "staged": false
+                "file": "Subjects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5f71abdfcad9276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "600c54b214664d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L 2di MA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab696dfb26a13668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note math syntax ref.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note math syntax ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Note math syntax ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Note math syntax ref.md"
+              }
             }
           },
           {
@@ -149,10 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be3b70471dbaba01",
+  "active": "ab696dfb26a13668",
   "lastOpenFiles": [
-    "L 2di DA.md",
+    "L 2di MA.md",
+    "Note math syntax ref.md",
     "Subjects.md",
+    "test page.md",
+    "L 2di DA.md",
     "README.md",
     "mqdefault_6s.webp"
   ]
