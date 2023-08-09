@@ -52,13 +52,18 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 
 ###Greek Letters:
 #####Capital:
+| LaTex |     | LaTex |     |
+| ----- | --- | ----- | --- |
+| te    | et  | et    | et  |
+
+
 | LaTex      |   | LaTex    |   |
-| ---------- | ---- | --------- |---- |
+| ---------: | - | -------: | : |
 | `\Gamma`   | Γ | `\Delta` | ∆ |
 | `\Lambda`  | Λ | `\Phi`   | Φ |
 | `\Pi`      | Π | `\Psi`   | Ψ |
 | `\Sigma`   | Σ | `\Theta` | Θ |
-| `\Upsilon`  | Υ | `\Xi`    | Ξ |
+| `\Upsilon` | Υ | `\Xi`    | Ξ |
 | `\Omega`   | Ω |          |   |
 
 #####Lowercase:
@@ -122,12 +127,12 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 |`\neg``\not` | ¬ |        |   |
 
 ####Cumulative operators
-|LaTex     |           | LaTex       |             |
-|---------:|-----------|------------:|------------:|
-|`\int`    | ∫         | `\iint`     | $\iint$     |
-|`\iiint`  | $\iiint$  | `\idotsint` | $\idotsint$ |
-|`\prod`   | $\prod$   | `\sum`      | $\sum$      |
-|`\bigcup` | $\bigcup$ | `\bigcap`   | $\bigcap$   |
+| LaTex     |           | LaTex       |             |
+| --------: | --------- | ----------: | ----------: |
+| `\int`    | ∫         | `\iint`     | $\iint$     |
+| `\iiint`  | $\iiint$  | `\idotsint` | $\idotsint$ |
+| `\prod`   | $\prod$   | `\sum`      | $\sum$      |
+| `\bigcup` | $\bigcup$ | `\bigcap`   | $\bigcap$   |
 
 ####Named operators
 $\arccos$,
