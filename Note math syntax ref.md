@@ -52,21 +52,18 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 
 ###Greek Letters:
 #####Capital:
-| LaTex |     | LaTex |     |
-| ----- | --- | ----- | --- |
-| te    | et  | et    | et  |
 
-
-| LaTex      |   | LaTex    |   |
-| ---------: | - | -------: | : |
-| `\Gamma`   | Γ | `\Delta` | ∆ |
-| `\Lambda`  | Λ | `\Phi`   | Φ |
-| `\Pi`      | Π | `\Psi`   | Ψ |
-| `\Sigma`   | Σ | `\Theta` | Θ |
-| `\Upsilon` | Υ | `\Xi`    | Ξ |
-| `\Omega`   | Ω |          |   |
+| LaTex      |     | LaTex    |     |
+| ---------- | --- | -------- | --- |
+| `\Gamma`   | Γ   | `\Delta` | ∆   |
+| `\Lambda`  | Λ   | `\Phi`   | Φ   |
+| `\Pi`      | Π   | `\Psi`   | Ψ   |
+| `\Sigma`   | Σ   | `\Theta` | Θ   |
+| `\Upsilon` | Υ   | `\Xi`    | Ξ   |
+| `\Omega`   | Ω   |          |     |
 
 #####Lowercase:
+
 |LaTex      |   | LaTex     |   |
 |----------:|--:|----------:|--:|
 |`\alpha`   | α | `\nu`     | ν |
@@ -83,6 +80,7 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 |`\omega`   | ω |           |   |
 
 #####Other:
+
 |LaTex       |   | LaTex       |   |
 |-----------:|---|------------:|--:|
 |`\digamma`  | ϝ | `varepsilon`| ε       |
@@ -94,6 +92,7 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 
 ###Other:
 ####Other Symbols
+
 |LaTex         |   | LaTex            |   |
 |-------------:|---|-----------------:|--:|
 |`\partial`    | ∂ | `\infty`         | ∞ |
@@ -106,6 +105,7 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 |`\exists`     | ∃ | `\nexists`       | ∄ |
 
 ####Relational Symbols
+
 |LaTex             |   | LaTex              |          |
 |-----------------:|---|-------------------:|---------:|
 |`\hookrightarrow` | ↪      | `\Rightarrow`     | ⇒         |
@@ -121,12 +121,14 @@ Further Reference and source: ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-g
 |`\vartriangle`     | $\vartriangle$
 
 ####Binary operators
+
 |LaTex        |   | LaTex  |   |
 |------------:|---|-------:|--:|
 |`\wedge`     | ∧ | `\vee` | ∨ |
 |`\neg``\not` | ¬ |        |   |
 
 ####Cumulative operators
+
 | LaTex     |           | LaTex       |             |
 | --------: | --------- | ----------: | ----------: |
 | `\int`    | ∫         | `\iint`     | $\iint$     |

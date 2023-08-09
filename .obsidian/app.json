@@ -2,5 +2,6 @@
   "spellcheckLanguages": [
     "en-US",
     "da"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

@@ -1,0 +1,1 @@
+se hvordan man formaterer matematik i obsidian jer: [[Note math syntax ref]]
