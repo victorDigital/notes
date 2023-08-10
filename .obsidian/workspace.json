@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a7d03b2ef78b52d",
+        "id": "4d9505134d01dfa4",
         "type": "tabs",
         "children": [
           {
-            "id": "c887edbd4072c027",
+            "id": "be3b70471dbaba01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.g års prøve noter.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.g års prøve noter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.g års prøve noter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.g års prøve noter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,20 +143,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f288e9c9f18c3097",
+  "active": "be3b70471dbaba01",
   "lastOpenFiles": [
+    "Note math syntax ref.md",
     "L 2di MA.md",
-    "1.g års prøve noter.md",
+    "L 2di DA.md",
     "How-to's.md",
+    "1.g års prøve noter.md",
     "Subjects.md",
     "README.md",
-    "Note math syntax ref.md",
-    "test page.md",
-    "L 2di DA.md",
     "mqdefault_6s.webp"
   ]
 }
