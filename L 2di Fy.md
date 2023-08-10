@@ -1,0 +1,2 @@
+## Noter
+[[bølger og lys]]
