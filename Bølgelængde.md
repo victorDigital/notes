@@ -1,0 +1,1 @@
+amplitude = A er aftanden fra $\Lamda$  

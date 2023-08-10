@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6fdd674d1317e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note math syntax ref.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fag.md",
+                "file": "Note math syntax ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fag.md",
+                "file": "Note math syntax ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fag.md"
+                "file": "Note math syntax ref.md"
               }
             }
           },
@@ -167,14 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f288e9c9f18c3097",
+  "active": "d6fdd674d1317e2e",
   "lastOpenFiles": [
-    "How-to's.md",
-    "Fag.md",
-    "bølger og lys.md",
     "Bølgelængde.md",
-    "L 2di Fy.md",
     "Note math syntax ref.md",
+    "Fag.md",
+    "How-to's.md",
+    "bølger og lys.md",
+    "L 2di Fy.md",
     "README.md",
     "L 2di MA.md",
     "1.g års prøve noter.md",
