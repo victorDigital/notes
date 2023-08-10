@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Note math syntax ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Note math syntax ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bølgelængde.md"
+                "file": "Note math syntax ref.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ba561514ebc59c8",
+  "active": "d6fdd674d1317e2e",
   "lastOpenFiles": [
-    "Note math syntax ref.md",
     "Bølgelængde.md",
+    "Note math syntax ref.md",
     "Fag.md",
     "How-to's.md",
     "bølger og lys.md",
