@@ -11,8 +11,12 @@
             "id": "be3b70471dbaba01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fag.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Fag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Fag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bølgelængde.md"
+                "file": "Fag.md"
               }
             }
           },
@@ -146,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,18 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ba561514ebc59c8",
+  "active": "f288e9c9f18c3097",
   "lastOpenFiles": [
-    "bølger og lys.md",
-    "L 2di Fy.md",
-    "Bølgelængde.md",
+    "How-to's.md",
     "Fag.md",
+    "bølger og lys.md",
+    "Bølgelængde.md",
+    "L 2di Fy.md",
     "Note math syntax ref.md",
     "README.md",
     "L 2di MA.md",
     "1.g års prøve noter.md",
     "L 2di DA.md",
-    "How-to's.md",
     "mqdefault_6s.webp"
   ]
 }
