@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Interferens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c6d726e350ed6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Bølgelængde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2304fd6c6f8dc3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysik opgave om bølger og interferens.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Fysik opgave om bølger og interferens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Fysik opgave om bølger og interferens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bølgelængde.md"
+                "file": "Fysik opgave om bølger og interferens.md"
               }
             }
           },
@@ -188,15 +212,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7bc7e887d944d55",
+  "active": "2304fd6c6f8dc3c3",
   "lastOpenFiles": [
-    "Pasted image 20230810091948.png",
-    "Note math syntax ref.md",
     "Bølgelængde.md",
-    "Fag.md",
-    "How-to's.md",
     "bølger og lys.md",
     "L 2di Fy.md",
+    "Fysik opgave om bølger og interferens.md",
+    "Interferens.md",
+    "Pasted image 20230810091948.png",
+    "Note math syntax ref.md",
+    "Fag.md",
+    "How-to's.md",
     "README.md",
     "L 2di MA.md",
     "1.g års prøve noter.md",

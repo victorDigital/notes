@@ -12,3 +12,4 @@ v = \frac {s}{t} = \frac {\lambda}{T} = \lambda \cdot \mathscr{f}
 $$
 ![[Pasted image 20230810091948.png]]
 
+[[Fysik opgave om bølger og interferens]]
