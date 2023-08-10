@@ -28,4 +28,22 @@ c)
 $\lambda$ = 0,33 m
 T = $\frac{\lambda}{v} =$ 0,75s
 f = $\frac {1}{T} =$ 1,333 $H_z$
-v = $\lambda\cdot f =$  m/s
+v = $\lambda\cdot f =$ 0,44 m/s
+
+d)
+$\lambda$ $\frac {v}{f}$=  2,6667m
+T = $\frac{\lambda}{v} =$ 0,0833s
+f = $\frac {1}{T} =$ 12 $H_z$
+v = $\lambda\cdot f =$  32 m/s
+
+e)
+$\lambda$ $\frac {v}{f}$=  0,4761m
+T = $\frac{\lambda}{v} =$ 2,8s
+f = $\frac {1}{T} =$  0,3571$H_z$
+v = $\lambda\cdot f =$   0,17m/s
+
+f)
+$\lambda$ $\frac {v}{f}$=  0,84m
+T = $\frac{\lambda}{v} =$ s
+f = $\frac {1}{T} =$  $H_z$
+v = $\lambda\cdot f =$   0,089m/s
