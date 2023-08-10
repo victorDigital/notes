@@ -10,3 +10,5 @@ hertz = $H_Z$ er lig $H_Z=\frac {1}{Sek}$
 $$
 v = \frac {s}{t} = \frac {\lambda}{T} = \lambda \cdot \mathscr{f}
 $$
+![[Pasted image 20230810091948.png]]
+

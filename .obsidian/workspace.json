@@ -161,9 +161,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c7bc7e887d944d55",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,8 +188,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ba561514ebc59c8",
+  "active": "c7bc7e887d944d55",
   "lastOpenFiles": [
+    "Pasted image 20230810091948.png",
     "Note math syntax ref.md",
     "Bølgelængde.md",
     "Fag.md",
