@@ -11,11 +11,26 @@
             "id": "be3b70471dbaba01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea1bef3eeed6a5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -129,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,14 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be3b70471dbaba01",
+  "active": "1ea1bef3eeed6a5d",
   "lastOpenFiles": [
-    "Note math syntax ref.md",
+    "Subjects.md",
     "L 2di MA.md",
+    "1.g års prøve noter.md",
+    "Note math syntax ref.md",
     "L 2di DA.md",
     "How-to's.md",
-    "1.g års prøve noter.md",
-    "Subjects.md",
     "README.md",
     "mqdefault_6s.webp"
   ]
