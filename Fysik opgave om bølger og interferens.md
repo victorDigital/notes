@@ -44,6 +44,6 @@ v = $\lambda\cdot f =$   0,17m/s
 
 f)
 $\lambda$ $\frac {v}{f}$=  0,84m
-T = $\frac{\lambda}{v} =$ s
-f = $\frac {1}{T} =$  $H_z$
+T = $\frac{\lambda}{v} =$ 0,9438s
+f = $\frac {1}{T} =$  1,0595$H_z$
 v = $\lambda\cdot f =$   0,089m/s
