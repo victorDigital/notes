@@ -6,6 +6,7 @@
       {
         "id": "1ea6c0dd85a1d757",
         "type": "tabs",
+        "dimension": 43.02176696542894,
         "children": [
           {
             "id": "8c6d726e350ed6a1",
@@ -24,6 +25,7 @@
       {
         "id": "4d9505134d01dfa4",
         "type": "tabs",
+        "dimension": 56.978233034571055,
         "children": [
           {
             "id": "be3b70471dbaba01",
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik opgave om bølger og interferens.md",
+                "file": "Bølgelængde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik opgave om bølger og interferens.md",
+                "file": "Bølgelængde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik opgave om bølger og interferens.md"
+                "file": "Bølgelængde.md"
               }
             }
           },
@@ -243,10 +245,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2304fd6c6f8dc3c3",
+  "active": "8c6d726e350ed6a1",
   "lastOpenFiles": [
-    "Bølgelængde.md",
     "Fysik opgave om bølger og interferens.md",
+    "Bølgelængde.md",
     "miljøvurdering.md",
     "L 2di Ti.md",
     "Fag.md",
