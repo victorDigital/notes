@@ -11,3 +11,5 @@ Anthropomorphism: the attribution of human characteristics or behavior to a god,
 
 Anthropocentric: regarding humankind as the central or most important element of existence, especially as opposed to God or animals.
 
+
+
