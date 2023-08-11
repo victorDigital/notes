@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "L 2di Fy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Fysik opgave om bølger og interferens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bølgelængde.md",
+                "file": "Fysik opgave om bølger og interferens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bølgelængde.md"
+                "file": "Fysik opgave om bølger og interferens.md"
               }
             }
           },
@@ -245,18 +245,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c6d726e350ed6a1",
+  "active": "2304fd6c6f8dc3c3",
   "lastOpenFiles": [
+    "L 2di Fy.md",
     "Fysik opgave om bølger og interferens.md",
-    "Bølgelængde.md",
-    "miljøvurdering.md",
-    "L 2di Ti.md",
     "Fag.md",
     "bølger og lys.md",
-    "L 2di Fy.md",
+    "Bølgelængde.md",
+    "Note math syntax ref.md",
+    "miljøvurdering.md",
+    "L 2di Ti.md",
     "Interferens.md",
     "Bølgelængde.png",
-    "Note math syntax ref.md",
     "How-to's.md",
     "README.md",
     "L 2di MA.md",
