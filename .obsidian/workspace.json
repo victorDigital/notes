@@ -207,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +224,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2304fd6c6f8dc3c3",
+  "active": "f288e9c9f18c3097",
   "lastOpenFiles": [
     "L 2di Fy.md",
     "Fysik opgave om bølger og interferens.md",
