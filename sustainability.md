@@ -1,3 +1,4 @@
+# Definitions of words
 Anthropos: is Greek for human.
 
 Anthropology: the study of human societies and cultures and their development.
@@ -9,6 +10,4 @@ Anthropogenic: (chiefly of pollution or environmental change) originating in 
 Anthropomorphism: the attribution of human characteristics or behavior to a god, animal, or object.
 
 Anthropocentric: regarding humankind as the central or most important element of existence, especially as opposed to God or animals.
-
-|col 1|col 2|
 
