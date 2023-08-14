@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fag.md",
+                "file": "Fag/Fag.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interferens.md",
+                "file": "Fysik/Interferens.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L 2di Ti.md",
+                "file": "Fag/L 2di Ti.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miljøvurdering.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fag.md",
+                "file": "Fag/Fag.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L 2di En.md",
+                "file": "Fag/L 2di En.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sustainability.md",
+                "file": "How-to's.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note math syntax ref.md",
+                "file": "Matematik/Note math syntax ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sustainability.md",
+                "file": "How-to's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sustainability.md",
+                "file": "How-to's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sustainability.md"
+                "file": "How-to's.md"
               }
             }
           },
@@ -250,23 +250,28 @@
   },
   "active": "5082450a81c870f0",
   "lastOpenFiles": [
-    "L 2di En.md",
-    "sustainability.md",
-    "Fag.md",
-    "Fysik opgave om bølger og interferens.md",
-    "L 2di Fy.md",
-    "bølger og lys.md",
-    "Bølgelængde.md",
-    "Note math syntax ref.md",
-    "miljøvurdering.md",
-    "L 2di Ti.md",
-    "Interferens.md",
-    "Bølgelængde.png",
-    "How-to's.md",
     "README.md",
-    "L 2di MA.md",
-    "1.g års prøve noter.md",
-    "L 2di DA.md",
+    "How-to's.md",
+    "Matematik/Note math syntax ref.md",
+    "Matematik/1.g års prøve noter.md",
+    "English/sustainability.md",
+    "Matematik",
+    "Teknologi",
+    "English",
+    "Fysik/Interferens.md",
+    "Fysik/Bølgelængde.md",
+    "Fag/L 2di DA.md",
+    "Fysik",
+    "Fag",
+    "Fag/L 2di En.md",
+    "Fag/Fag.md",
+    "Fysik/Fysik opgave om bølger og interferens.md",
+    "Fag/L 2di Fy.md",
+    "Fysik/bølger og lys.md",
+    "Teknologi/miljøvurdering.md",
+    "Fag/L 2di Ti.md",
+    "Fysik/Bølgelængde.png",
+    "Fag/L 2di MA.md",
     "mqdefault_6s.webp"
   ]
 }
