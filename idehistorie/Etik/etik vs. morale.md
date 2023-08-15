@@ -5,3 +5,7 @@ https://denstoredanske.lex.dk/moral
 
 
 ## etik er _bagtæppet_ 
+
+
+## Det etiske råd i Danmark
+der sidder en masse gamle læger og præster som tager sager op som 

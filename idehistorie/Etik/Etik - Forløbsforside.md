@@ -3,4 +3,5 @@
 
 ## Noter
 [[etik vs. morale]]
+[[Dilemma 1]]
 ## Materialer
