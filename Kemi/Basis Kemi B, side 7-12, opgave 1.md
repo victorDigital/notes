@@ -35,4 +35,4 @@ c)
 ![[Pasted image 20230815123709.png]]
 
 
-_Det tyder på at det rigtige udtryk er $[N_2 O_5]$ _
+_Det tyder på at det rigtige udtryk er $[N_2 O_5]$  da $[N_2 O_5]^2$ også er en ret linje. Derudover er "andengradsligningen" $ax^2 + bx + c$ har ekstra led vi ikke har i udtrykket $[N_2 O_5]^2$_
