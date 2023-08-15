@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b03a2dca54bb2e4",
+  "active": "a5a08c8391b7aaf5",
   "lastOpenFiles": [
     "idehistorie/Etik/Etik - Forløbsforside.md",
     "idehistorie/Etik/Dilemma 1.md",
