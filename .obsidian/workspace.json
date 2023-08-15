@@ -11,60 +11,28 @@
             "id": "1f6b581c5c26a923",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4adeed953fad3272",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Reaktionshastighed.md",
+                "file": "idehistorie/Etik/Etik - Forløbsforside.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d3400306a423bb1",
+            "id": "9503e823daf2d1d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "724b68b981e6d9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddee8df4baba54c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
+                "file": "idehistorie/Etik/etik vs. morale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
+                "file": "idehistorie/Etik/etik vs. morale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
+                "file": "idehistorie/Etik/etik vs. morale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md"
+                "file": "idehistorie/Etik/etik vs. morale.md"
               }
             }
           },
@@ -210,8 +178,15 @@
   },
   "active": "6a0333c127c0a043",
   "lastOpenFiles": [
-    "Kemi/Basis Kemi B, side 7-12.md",
+    "idehistorie/Etik/Etik - Forløbsforside.md",
+    "idehistorie/Etik/etik vs. morale.md",
+    "idehistorie/Idé_historie-B-htx-august-2017.pdf",
+    "idehistorie/Etik",
+    "idehistorie/Unconfirmed 441635.crdownload",
+    "Untitled.md",
+    "idehistorie",
     "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
+    "Kemi/Basis Kemi B, side 7-12.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
     "Kemi/Reaktionshastighed.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 1.md",
