@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "167d1b83648bd5f1",
+            "id": "4d3400306a423bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "724b68b981e6d9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddee8df4baba54c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12.md",
+                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12.md",
+                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kemi/Basis Kemi B, side 7-12.md"
+                "file": "Kemi/Basis Kemi B, side 7-12, opgave 4.md"
               }
             }
           },
@@ -184,12 +208,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "167d1b83648bd5f1",
+  "active": "6a0333c127c0a043",
   "lastOpenFiles": [
-    "Kemi/Reaktionshastighed.md",
-    "Kemi/Pasted image 20230815123709.png",
-    "Kemi/Basis Kemi B, side 7-12, opgave 1.md",
     "Kemi/Basis Kemi B, side 7-12.md",
+    "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
+    "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
+    "Kemi/Reaktionshastighed.md",
+    "Kemi/Basis Kemi B, side 7-12, opgave 1.md",
+    "Kemi/Pasted image 20230815123709.png",
     "Kemi/Pasted image 20230815112122.png",
     "Kemi",
     "Fag/Fag.md",

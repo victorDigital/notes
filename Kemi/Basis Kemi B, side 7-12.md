@@ -13,3 +13,5 @@ $v = Velocity [M/s]$
 større overfladeareal er vigtigt i at øge reaktionshastigheden
 _porøsitet spiller ind i dette_
 
+[[Basis Kemi B, side 7-12, opgave 2 + 3]] 
+[[Basis Kemi B, side 7-12, opgave 4]] 
