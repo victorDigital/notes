@@ -178,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df0762871ad77552",
+  "active": "6f794772d3c157ce",
   "lastOpenFiles": [
     "Kemi/Reaktionshastighed.md",
     "Kemi/Basis Kemi B, side 7-12.md",
