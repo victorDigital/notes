@@ -48,7 +48,7 @@ the silence was broken by the doctor's voice
 
 7. Hysterical fans surrounded the pop star (to surround).
 
-8. The children would been send to a children's home for a month during the trial (to send).
+8. The children would been sent to a children's home for a month during the trial (to send).
 
 9. The German forests was destroyed by pollution before our very eyes (to destroy).
 
