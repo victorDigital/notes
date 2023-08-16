@@ -32,6 +32,26 @@ the company was sold in 2003 by Johnson
 the secrets of her marriage were revealed by Kate
 the silence was broken by the doctor's voice
 
+## opgave 3
+
+1. The butter must be kept in the fridge (to keep).
+
+2. The boys had broken the windows (to break). 
+
+3. All my money had been stolen on the boat (to steal)
+
+4. Macbeth wrote by Shakespeare 400 years ago (to write).
+
+5. A big dog bit our child the other day (to bite),
+
+6. Fortunately nobody was killed in the accident (to kill).
+
+7. Hysterical fans surrounded the pop star (to surround).
+
+8. The children would been send to a children's home for a month during the trial (to send).
+
+9. The German forests was destroyed by pollution before our very eyes (to destroy).
+
 
 
 
