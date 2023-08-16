@@ -1,6 +1,6 @@
 # Programmerings logbog
 _Skrevet i Obsidian.md og hostes af GitHub_
-
+[link til hjemmeside](https://prog2di.github.io/)
 
 ## Logbog-opgave 1: Opret jeres logbog
 
