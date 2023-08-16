@@ -29,3 +29,10 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 	- bruges til af definerer sub-rutiner i koden
 - i programmering taler man om “variabel-scope” , prøv at se om du kan finde svaret på hvad det betyder og om det betyder noget i din kode?
 	- variabel-scope bruges til at holde styr på variable i sub-rutiner eller funktioner, dvs. hvis en variabel er defineret i en funktion er den kun tilgængelig i funktionen, den er altså en "lokal variable", det er i modsætning til en "global variable" 
+
+
+## Spørgsmål til creature aflevering
+- hvor anvendes argumenter og parametre?
+	-  parametre bruges når en funktion defineres, argumenter bruges når funktionen kaldes
+- hvor anvender du primitive datatyper - og hvor anvender du objekt-typer? Og hvad er forskellen?
+	- i min bruges objekt-typen "String" til at opbevare taleboblens tekst, hvor mine andre variabler bruger datatypen `int` som er en primitive datatyper
