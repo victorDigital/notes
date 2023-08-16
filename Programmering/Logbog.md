@@ -36,3 +36,4 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 	-  parametre bruges når en funktion defineres, argumenter bruges når funktionen kaldes
 - hvor anvender du primitive datatyper - og hvor anvender du objekt-typer? Og hvad er forskellen?
 	- i min bruges objekt-typen "String" til at opbevare taleboblens tekst, hvor mine andre variabler bruger datatypen `int` som er en primitive datatyper
+- 
