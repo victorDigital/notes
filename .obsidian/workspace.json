@@ -56,17 +56,6 @@
             }
           },
           {
-            "id": "acae387729381ac6",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Programmering/Logbog.md",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "a961c37a62122b90",
             "type": "leaf",
             "state": {
@@ -75,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acae387729381ac6",
+  "active": "f288e9c9f18c3097",
   "lastOpenFiles": [
     "Programmering/Logbog.md",
     "Programmering",

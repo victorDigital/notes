@@ -52,6 +52,9 @@ the silence was broken by the doctor's voice
 
 9. The German forests was destroyed by pollution before our very eyes (to destroy).
 
+## Spørgsmål til creature aflevering
+- hvor anvendes argumenter og parametre?  
+- hvor anvender du primitive datatyper - og hvor anvender du objekt-typer? Og hvad er forskellen?
 
 
 
