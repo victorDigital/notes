@@ -28,4 +28,4 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 - hvor har du brugt curly brackets (krølleparanteser) i din kode,- og hvilken betydning har de?
 	- bruges til af definerer sub-rutiner i koden
 - i programmering taler man om “variabel-scope” , prøv at se om du kan finde svaret på hvad det betyder og om det betyder noget i din kode?
-	- variabel-scope bruges til at holde styr på vari
+	- variabel-scope bruges til at holde styr på variable i sub-rutiner eller funktioner, dvs. hvis en variabel er defineret i en funktion er den kun tilgængelig i funktionen, den er altså en "lokal variable", det er i modsætning til en "global variable" 
