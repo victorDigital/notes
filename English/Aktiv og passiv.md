@@ -31,8 +31,6 @@ in prison the police has murdered Steve Biko
 the company was sold in 2003 by Johnson
 the secrets of her marriage were revealed by Kate
 the silence was broken by the doctor's voice
-...
-they should be locked away and the key thown away by the judge
 
 
 
