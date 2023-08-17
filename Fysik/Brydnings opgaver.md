@@ -18,7 +18,7 @@ Ved af løse for be kan vi beregne at brydningsvinklen er ca. **34.10°**
 # opg_2
 _En tynd lysstråle rammer fra luft ind mod et glasprisme med brydningsindekset 1,54. Brydningsvinklen er 28°. Bestem indfaldsvinklen i._
 
-Brydningsforholdet mellem vand til glasprisme er
+Brydningsforholdet mellem glasprisme til vander
 $$
 n_{1,2} = \frac{1,54}{1} = 1,54
 $$
@@ -74,12 +74,12 @@ Ved af løse for be kan vi beregne at brydningsvinklen er ca. **37.46°**
 
 Brydningsforholdet mellem diamant til luft er
 $$
-n_{1,2} = \frac{2,417}{1} = 1,33
+n_{1,2} = \frac{1}{2,417} ≈ 0,41373
 $$
-vi ved at brydningsforholdet er 1,33
+vi ved at brydningsforholdet er ca. 0,41373
 
 $$
-\frac{\sin(54°)}{\sin(b)}=1,33
+\frac{\sin(i)}{\sin(90°)}=\frac{1}{2,417}
 $$
 
-Ved af løse for be kan vi beregne at brydningsvinklen er ca. **37.46°**
+Ved af løse for be kan vi beregne at brydningsvinklen er ca. **24.43°**
