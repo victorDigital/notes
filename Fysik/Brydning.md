@@ -19,3 +19,5 @@ b=30,8
 $$
 
 b er altså lig 30,8 grader
+
+[[Brydnings opgaver]]

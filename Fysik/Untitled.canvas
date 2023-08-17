@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"type":"file","file":"Fysik/Brydning.md","id":"c59dc4c543f242c2","x":-500,"y":12,"width":785,"height":400},
-		{"id":"be487e99aa2dc77a","x":-500,"y":412,"width":785,"height":400,"type":"file","file":"Fysik/Refleksion.md"}
-	],
-	"edges":[]
-}

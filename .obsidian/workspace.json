@@ -11,18 +11,50 @@
             "id": "b08f6cfd9b1daa28",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Fysik/Untitled.canvas",
-                "viewState": {
-                  "x": -81.89450850510802,
-                  "y": 408.0460481518846,
-                  "zoom": 0.33692364018410453
-                }
+                "file": "Fysik/Brydning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e9f079cbc4b7fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysik/Refleksion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe8b2ffc56097ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysik/Brydnings opgaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ebd3e5bd606d7a1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fysik/Opgaver_brydning_refleksion.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Brydning.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Brydning.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Brydning.md"
+                "file": "Fysik/Brydnings opgaver.md"
               }
             }
           },
@@ -165,13 +197,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b08f6cfd9b1daa28",
+  "active": "fe8b2ffc56097ec1",
   "lastOpenFiles": [
-    "Matematik/Note math syntax ref.md",
-    "Fysik/Refleksion.md",
-    "Fysik/Untitled.canvas",
-    "Fysik/bølger og lys.md",
+    "Fysik/Opgaver_brydning_refleksion.pdf",
+    "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
+    "Fysik/Refleksion.md",
+    "Fysik/Unconfirmed 277129.crdownload",
+    "Fysik/Untitled.canvas",
+    "Matematik/Note math syntax ref.md",
+    "Fysik/bølger og lys.md",
     "Fysik/Bølgelængde.md",
     "Kemi/Basis Kemi B, side 7-12.md",
     "Kemi/Basis Kemi B, side 15-27.md",
@@ -203,9 +238,6 @@
     "Matematik/1.g års prøve noter.md",
     "Matematik",
     "Teknologi",
-    "English",
-    "Fysik/Interferens.md",
-    "Fysik",
     "Fysik/Bølgelængde.png",
     "mqdefault_6s.webp"
   ]
