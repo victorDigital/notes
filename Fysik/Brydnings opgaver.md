@@ -31,6 +31,7 @@ $$
 Ved af løse for be kan vi beregne at brydningsvinklen er ca. **46.30°**
 
 # opg_3
+_Bestem lysets hastighed i et glasprisme med brydningsindeks 1,48._
 vi kender formlen:
 $$
 v=\frac{c[m/s]}{n}
@@ -42,6 +43,20 @@ $$
 ved beregning har vi tilnærmet os at lysets hastighed igennem glasprismens er ca. $2.027\cdot10^8 m/s$
 
 # opg_4
+_Lysets hastighed i et glasprisme er $1,95\cdot10^{8} m/s$⋅ . Hvad er glassets brydningsindeks?_
+
+vi kender formlen:
+$$
+v=\frac{c[m/s]}{n}
+$$
+der fremgår derfor at:
+$$
+\frac{3,00\cdot10^8m/s}{b}=1,95\cdot10^{8} m/s
+$$
+ved beregning har vi tilnærmet os at glasprismens brydningsindeks er lig: ca. 1.53
+
+# opg_5
+_En tynd lysstråle kommer fra luft og rammer en vandoverflade med en indfaldsvinkel på 54°. Vands brydningsindeks er 1,33. Bestem brydningsvinklen._
 
 
 
