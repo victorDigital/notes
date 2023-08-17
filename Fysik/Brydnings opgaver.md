@@ -18,7 +18,7 @@ Ved af løse for be kan vi beregne at brydningsvinklen er ca. **34.10°**
 # opg_2
 _En tynd lysstråle rammer fra luft ind mod et glasprisme med brydningsindekset 1,54. Brydningsvinklen er 28°. Bestem indfaldsvinklen i._
 
-Brydningsforholdet mellem glasprisme til vander
+Brydningsforholdet mellem vand til glasprisme er
 $$
 n_{1,2} = \frac{1,54}{1} = 1,54
 $$
