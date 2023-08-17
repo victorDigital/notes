@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Opgaver_brydning_refleksion.pdf",
+                "file": "Fysik/Brydnings opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Opgaver_brydning_refleksion.pdf",
+                "file": "Fysik/Brydnings opgaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Opgaver_brydning_refleksion.pdf"
+                "file": "Fysik/Brydnings opgaver.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ebd3e5bd606d7a1",
+  "active": "fe8b2ffc56097ec1",
   "lastOpenFiles": [
-    "Fysik/Brydnings opgaver.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
+    "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
     "Fysik/Refleksion.md",
     "Fysik/Unconfirmed 277129.crdownload",
