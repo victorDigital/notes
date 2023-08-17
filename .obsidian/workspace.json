@@ -16,7 +16,7 @@
                 "file": "Fysik/Untitled.canvas",
                 "viewState": {
                   "x": -81.89450850510802,
-                  "y": 371.23070685629216,
+                  "y": 408.0460481518846,
                   "zoom": 0.33692364018410453
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Untitled.canvas",
+                "file": "Fysik/Brydning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Untitled.canvas",
+                "file": "Fysik/Brydning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Untitled.canvas"
+                "file": "Fysik/Brydning.md"
               }
             }
           },
