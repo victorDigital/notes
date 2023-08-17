@@ -1,0 +1,5 @@
+
+## Refleksionsloven
+$$
+i=u
+$$
