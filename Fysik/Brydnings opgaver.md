@@ -20,12 +20,23 @@ _En tynd lysstråle rammer fra luft ind mod et glasprisme med brydningsindekset 
 
 Brydningsforholdet mellem vand til glasprisme er
 $$
-n_{1,2} = \frac{1,54}{1} = 1,56
+n_{1,2} = \frac{1,54}{1} = 1,54
 $$
-vi ved at brydningsforholdet er 1,56
+vi ved at brydningsforholdet er 1,54
 
 $$
-\frac{\sin(b)}{\sin(28)}=1,56
+\frac{\sin(i)}{\sin(28)}=1,54
 $$
 
-Ved af løse for be kan vi beregne at brydningsvinklen er ca. **34.10°**
+Ved af løse for be kan vi beregne at brydningsvinklen er ca. **46.30°**
+
+# opg_3
+vi kender formlen:
+$$
+v=\frac{c}{n}
+$$
+der fremgår derfor at:
+$$
+\frac{3,00\cdot10^8}{1,48}=v
+$$
+ved beregning har vi tilnærmet os at lysets hastighed igennem glasprismens er ca. $$
