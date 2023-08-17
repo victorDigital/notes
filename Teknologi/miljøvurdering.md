@@ -12,3 +12,14 @@ en life-cycle assessment eller en miljøvurdering er altså en vurdering af alle
 _info i PowerPoint d. 10/08/2023_
 
 # MEKA analyse
+
+
+# vurderingsparameter
+- drivhuseffekt 
+- ozonnedbrydning
+- forsuring
+- næringssalte 
+- human toksicitet 
+- økotoksicitet
+- 
+

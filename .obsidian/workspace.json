@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md"
+                "file": "Teknologi/miljøvurdering.md"
               }
             }
           },
@@ -198,10 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f288e9c9f18c3097",
+  "active": "fe8b2ffc56097ec1",
   "lastOpenFiles": [
-    "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Brydnings opgaver.md",
+    "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Brydning.md",
     "Fysik/Refleksion.md",
     "Fysik/Unconfirmed 277129.crdownload",
