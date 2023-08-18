@@ -36,4 +36,23 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 	-  parametre bruges når en funktion defineres, argumenter bruges når funktionen kaldes
 - hvor anvender du primitive datatyper - og hvor anvender du objekt-typer? Og hvad er forskellen?
 	- i min bruges objekt-typen "String" til at opbevare taleboblens tekst, hvor mine andre variabler bruger datatypen `int` som er en primitive datatyper
-- 
+
+## 18/08/2023
+- længden og bredden af en rektangel er henholdsvis 5 og 7. Skriv et program til at beregne arealet og omkredsen af ​​rektanglen.
+```java
+int længde = 5;
+int bredde = 7;
+
+int areal = længde * bredde;
+int omkreds = 2 * (længde + bredde);
+
+println("Areal: " + areal);
+println("Omkreds: " + omkreds);
+```
+- skriv et program der beregner omkredsen og arealet af en retvinklet trekant.
+    
+- skriv et program der tager modulus 10 af frameCount og udskriver frameCount og resultatet. Hvordan fungerer modulus?
+    
+- skriv et program der tager division 100 af frameCount og udskriver frameCount og resultatet. Hvordan fungerer division i dette tilfælde?
+    
+- løs nu de ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
