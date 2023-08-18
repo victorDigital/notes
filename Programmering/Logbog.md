@@ -50,9 +50,43 @@ println("Areal: " + areal);
 println("Omkreds: " + omkreds);
 ```
 - skriv et program der beregner omkredsen og arealet af en retvinklet trekant.
-    
+```java
+int base = 5;
+int height = 7;
+int hypotenuse = int(sqrt(base*base + height*height)); //Pythagoras 
+
+int area = base * height / 2;
+int omkreds = base + height + hypotenuse;
+
+println("Area: " + area);
+println("Omkreds: " + omkreds);
+```
 - skriv et program der tager modulus 10 af frameCount og udskriver frameCount og resultatet. Hvordan fungerer modulus?
-    
+```java
+void setup() {
+  size(400, 100);
+  frameRate(10);
+}
+
+void draw() {
+  background(0);
+  int result = frameCount % 10;
+  text("frameCount: " + frameCount + ", result: " + result, 20, 20);
+}
+```
+_modulus er resten af en heltals division_
 - skriv et program der tager division 100 af frameCount og udskriver frameCount og resultatet. Hvordan fungerer division i dette tilfælde?
-    
+```java
+void setup() {
+  size(400, 100);
+  frameRate(10);
+}
+
+void draw() {
+  background(0);
+  int result = frameCount / 100;
+  text("frameCount: " + frameCount + ", result: " + result, 20, 20);
+}
+```
 - løs nu de ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
+__
