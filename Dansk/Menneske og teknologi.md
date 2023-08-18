@@ -4,7 +4,7 @@
 - væk fra det gamle
 - ophav i Italien 
 
-## **Filippo Tommaso Marinetti: Futurismens manifest (uddrag)**
+## **Filippo Tommaso Marinetti: Futurismens manifest (uddrag)** - makering af alle vigtige ting
 Vi ønsker at besynge dem, der elsker faren, dem, der bestandigt lever livet energisk og dristigt.
 
 De modige, de forvovne, de oprørske skal fremfor alt være motiverne for vor poesi.
@@ -28,7 +28,7 @@ Vi ønsker at forherlige krigen – verdens eneste hygiejne – militarismen, pa
 
 Vi vil besynge folkemassen, i arbejde, i fest eller i oprør; vi vil besynge revolutionens brænding, der i alle farver og toner skyller gennem de moderne storbyer. Vi vil besynge den ulmende ild, der om natten gløder i arsenalerne og på arbejdspladserne under de elektriske lampers skær; de grådige jernbanestationer, der sluger togenes røgslanger; fabrikkerne, der hænger ned fra himlen i tove af røg; broerne, der som vældige gymnaster slynger sig over floder, der lyser i solen som glimt af knive; de eventyrlystne dampere, der stønner i horisonten; de bredbringede lokomotiver, der stamper på deres skinner som vældige stålheste – metalrør er deres tømmer; og flyvemaskinerne i glidende flugt – hør deres propellers smælden som flag i vinden, som bifald fra en begejstret menneskemasse!
 
-Det er fra Italien, at vi med ***revolutionær lidenskab*** slynger dette vort manifest ud over den hele verden, dette manifest, hvormed vi i dag grundlægger futurismen – fordi vi ønsker at befri dette land for dets ***stinkende koldbrand af professorer, arkæologer, fremmedførere og antikvarer.***
+Det er fra Italien, at vi med ***revolutionær lidenskab*** slynger dette vort manifest ud over den hele verden, dette manifest, hvormed vi i dag grundlægger futurismen – fordi vi ***ønsker at befri*** dette land for dets ***stinkende koldbrand af professorer, arkæologer, fremmedførere og antikvarer.***
 
 ***Alt for længe har Italien været et loppetorv***. Vi ønsker at befri det fra de utallige museer, der dækker det hele land med utallige kirkegårde.
 
@@ -44,10 +44,9 @@ Jeg påstår, at disse daglige besøg på museer, biblioteker og akademier (diss
 
 Lad dem da komme, de muntre brandstiftere med deres forkullede fingre. Her er de! ***Kom, stik ild på bibliotekernes reoler;*** led kanalernes vand ned i museernes hvælvinger. Hvilken glæde at se de gamle berømte malerier flyde med strømmen. Grib hakker og økser og hamre og læg dem øde, læg dem uden barmhjertighed øde, alle vore ærværdige byer. [...]
 
-De ældste af os er ikke over 30 år. Og dog har vi allerede ødelagt skatte, skatte af kraft, kærlighed, mod og vilje. Vi har kastet dem bort uden tøven eller overvejelse, i utålmodigt raseri – for fuld kraft. Se på os. Endnu er vi ikke udmattede. Vore hjerter er uden træthed; de næres af ild og had og fart. Undrer det jer? Naturligvis! I husker jo ikke engang, at I har levet. Stående på verdens top slynger vi, endnu en gang, vor udfordring mod stjernerne.
+De ældste af os er ikke over 30 år. Og dog har vi allerede ødelagt skatte, skatte af kraft, kærlighed, mod og vilje. Vi har kastet dem bort uden tøven eller overvejelse, i utålmodigt raseri – for fuld kraft. Se på os. ***Endnu er vi ikke udmattede. Vore hjerter er uden træthed;*** de næres af ild og had og fart. Undrer det jer? Naturligvis! I husker jo ikke engang, at I har levet. Stående på verdens top slynger vi, endnu en gang, vor udfordring mod stjernerne.
 
-Kommer I med indvendinger? Tak, det er godt. Vi kender dem. Vi har forstået. Vor fortræffelige og falske forstand hævder, at vi kun er et resumé, en forlængelse af vore forfædre. Måske. Lad gå. Men hvad betyder  
-det? Vi hører ikke efter. Og ve den, der gentager disse afskyelige ord!
+Kommer I med indvendinger? Tak, det er godt. Vi kender dem. Vi har forstået. Vor fortræffelige og falske forstand hævder, at vi kun er et resumé, en forlængelse af vore forfædre. Måske. Lad gå. Men hvad betyder det? Vi hører ikke efter. Og ve den, der gentager disse afskyelige ord!
 
 Tag jer i vare. Stående på verdens top slynger vi, endnu en gang, vor udfordring mod stjernerne.
 
