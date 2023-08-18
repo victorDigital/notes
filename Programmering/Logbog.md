@@ -152,3 +152,5 @@ void blurCanvas() {
 }
 ```
 
+det skal siges at `loadPixels()` og farve striber ikke er nødvendig for opgaven :)
+
