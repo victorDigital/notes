@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d811c096ee02f484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dansk/Menneske og teknologi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ebd3e5bd606d7a1",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teknologi/miljøvurdering.md",
+                "file": "Dansk/Menneske og teknologi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teknologi/miljøvurdering.md",
+                "file": "Dansk/Menneske og teknologi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teknologi/miljøvurdering.md"
+                "file": "Dansk/Menneske og teknologi.md"
               }
             }
           },
@@ -198,8 +210,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe8b2ffc56097ec1",
+  "active": "d811c096ee02f484",
   "lastOpenFiles": [
+    "Teknologi/miljøvurdering.md",
+    "Dansk/Menneske og teknologi.md",
+    "Dansk",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Brydning.md",
@@ -232,13 +247,11 @@
     "Kemi/Pasted image 20230815112122.png",
     "Kemi",
     "Fag/Fag.md",
-    "Teknologi/miljøvurdering.md",
     "Fag/L 2di En.md",
     "How-to's.md",
     "README.md",
     "Matematik/1.g års prøve noter.md",
     "Matematik",
-    "Teknologi",
     "Fysik/Bølgelængde.png",
     "mqdefault_6s.webp"
   ]
