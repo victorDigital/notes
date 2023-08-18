@@ -21,3 +21,4 @@ $$
 b er altså lig 30,8 grader
 
 [[Brydnings opgaver]]
+[[Undersøgelse af lysets brydning og totalrefleksion]]

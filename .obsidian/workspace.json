@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2318160263078c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e9f079cbc4b7fb0",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/Menneske og teknologi.md",
+                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/Menneske og teknologi.md",
+                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/Menneske og teknologi.md"
+                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md"
               }
             }
           },
@@ -210,14 +222,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d811c096ee02f484",
+  "active": "6a0333c127c0a043",
   "lastOpenFiles": [
-    "Teknologi/miljøvurdering.md",
-    "Dansk/Menneske og teknologi.md",
-    "Dansk",
-    "Fysik/Brydnings opgaver.md",
-    "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Brydning.md",
+    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+    "Fysik/Brydnings opgaver.md",
+    "Dansk/Menneske og teknologi.md",
+    "Teknologi/miljøvurdering.md",
+    "Dansk",
+    "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Refleksion.md",
     "Fysik/Unconfirmed 277129.crdownload",
     "Fysik/Untitled.canvas",
@@ -250,7 +263,6 @@
     "Fag/L 2di En.md",
     "How-to's.md",
     "README.md",
-    "Matematik/1.g års prøve noter.md",
     "Matematik",
     "Fysik/Bølgelængde.png",
     "mqdefault_6s.webp"
