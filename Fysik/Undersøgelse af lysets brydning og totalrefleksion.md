@@ -1,4 +1,4 @@
-*Af: Victor Østergaard Nielsen 2di*
+*Af: Victor Østergaard Nielsen 2di*, 18/08/2023
 
 
 ## Teori
