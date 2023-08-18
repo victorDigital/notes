@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Programmering/Logbog.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -224,10 +224,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a0333c127c0a043",
+  "active": "b08f6cfd9b1daa28",
   "lastOpenFiles": [
-    "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Brydnings opgaver.md",
+    "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Brydning.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Dansk/Menneske og teknologi.md",
