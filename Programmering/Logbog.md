@@ -89,4 +89,8 @@ void draw() {
 }
 ```
 - løs nu de ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
-__
+_har anvendt tildelingsoperatorer hvor det giver mening_
+
+## Kodeopgave til logbogen 18/08/2023
+*I skal lave et program, der bevæger en firkant hen over skærmen på forskellige måder, uden brug af if-statements, men kun ved brug af **_modulus_** og **_division_** af frameCount!*
+
