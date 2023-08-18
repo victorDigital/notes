@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Brydning.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md"
+                "file": "Fysik/Brydnings opgaver.md"
               }
             }
           },
@@ -226,9 +224,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e01fb0aba3024d8c",
+  "active": "6a0333c127c0a043",
   "lastOpenFiles": [
+    "Fysik/Fysik opgave om bølger og interferens.md",
+    "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
+    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Dansk/Menneske og teknologi.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
     "Programmering/Logbog.md",
@@ -236,12 +237,9 @@
     "Fag/L 2di Fy.md",
     "Fysik/bølger og lys.md",
     "Fysik/Bølgelængde.md",
-    "Fysik/Fysik opgave om bølger og interferens.md",
     "Kemi/Basis Kemi B, side 7-12.md",
-    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
-    "Fysik/Brydnings opgaver.md",
     "Teknologi/miljøvurdering.md",
     "Dansk",
     "Fysik/Refleksion.md",
