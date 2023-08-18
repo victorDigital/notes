@@ -17,7 +17,6 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 
 - hvad bruger man semikolonner til i processing?
 	- afslutte en linje eller separere instruktioner 
-
 - hvad er datatyper og hvilke datatyper kender du?
 	- En data type en forskellige måder at opbevare data på bruges til forskellige typer af data. Der findes bl.a.: int, float, bool, double, "String", char.  
 - hvordan opretter man en variabel?
