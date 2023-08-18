@@ -1,3 +1,4 @@
+[[L 2di Pro]]
 # Programmerings logbog
 _Skrevet i Obsidian.md og hostes af GitHub_
 [link til hjemmeside](https://prog2di.github.io/)

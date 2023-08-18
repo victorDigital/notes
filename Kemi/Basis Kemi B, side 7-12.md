@@ -1,3 +1,4 @@
+[[L 2di Ke]]
 [[Reaktionshastighed]]
 //læs op 
 

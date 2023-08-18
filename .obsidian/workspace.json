@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Programmering/Logbog.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -222,8 +223,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2318160263078c0d",
+  "active": "a5a08c8391b7aaf5",
   "lastOpenFiles": [
+    "Fag/Fag.md",
+    "Fag/L 2di Fy.md",
+    "Fysik/bølger og lys.md",
+    "Fysik/Bølgelængde.md",
+    "Fysik/Fysik opgave om bølger og interferens.md",
+    "Kemi/Basis Kemi B, side 7-12.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
@@ -237,9 +244,6 @@
     "Fysik/Unconfirmed 277129.crdownload",
     "Fysik/Untitled.canvas",
     "Matematik/Note math syntax ref.md",
-    "Fysik/bølger og lys.md",
-    "Fysik/Bølgelængde.md",
-    "Kemi/Basis Kemi B, side 7-12.md",
     "Kemi/Basis Kemi B, side 15-27.md",
     "Kemi/Reaktionshastighed.md",
     "Pasted image 20230815135253.png",
@@ -261,9 +265,7 @@
     "Kemi/Pasted image 20230815123709.png",
     "Kemi/Pasted image 20230815112122.png",
     "Kemi",
-    "Fag/Fag.md",
     "Fag/L 2di En.md",
-    "How-to's.md",
     "Matematik",
     "Fysik/Bølgelængde.png",
     "mqdefault_6s.webp"
