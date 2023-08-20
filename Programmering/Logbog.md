@@ -92,7 +92,7 @@ void draw() {
 _har anvendt tildelingsoperatorer hvor det giver mening_
 
 ## Kodeopgave til logbogen 18/08/2023
-*I skal lave et program, der bevæger en firkant hen over skærmen på forskellige måder, uden brug af if-statements, men kun ved brug af **_modulus_** og **_division_** af frameCount!*
+*I skal lave et program, der bevæger en firkant hen over skærmen på forskellige måder, uden brug af if-statements, men kun ved brug af **modulus** og **division** af frameCount!*
 
 ```java
 void setup() {
@@ -152,5 +152,5 @@ void blurCanvas() {
 }
 ```
 
-det skal siges at `loadPixels()` og farve striber ikke er nødvendig for opgaven :)
+det skal siges at `blurCanvas()` og farve striberne ikke er nødvendig for opgaven :)
 

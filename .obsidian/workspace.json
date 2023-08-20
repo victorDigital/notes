@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Teknologi/miljøvurdering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Logbog.md"
+                "file": "Teknologi/miljøvurdering.md"
               }
             }
           },
@@ -226,13 +226,13 @@
   },
   "active": "b08f6cfd9b1daa28",
   "lastOpenFiles": [
+    "Programmering/Logbog.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Brydning.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Dansk/Menneske og teknologi.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
-    "Programmering/Logbog.md",
     "Fag/Fag.md",
     "Fag/L 2di Fy.md",
     "Fysik/bølger og lys.md",
