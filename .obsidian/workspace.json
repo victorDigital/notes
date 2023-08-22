@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "34f2928b8dc23c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematik/Vector latex syntax ref.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e01fb0aba3024d8c",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/Etik/etik A.md",
+                "file": "Matematik/Vector latex syntax ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/Etik/etik A.md",
+                "file": "Matematik/Vector latex syntax ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/Etik/etik A.md"
+                "file": "Matematik/Vector latex syntax ref.md"
               }
             }
           },
@@ -263,8 +275,10 @@
   },
   "active": "6a0333c127c0a043",
   "lastOpenFiles": [
-    "idehistorie/Etik/Etik - Forløbsforside.md",
+    "Matematik/Pasted image 20230822185716.png",
     "idehistorie/Etik/etik A.md",
+    "Matematik/Vector latex syntax ref.md",
+    "idehistorie/Etik/Etik - Forløbsforside.md",
     "idehistorie/Etik/Nytte og Pligt etik.md",
     "idehistorie/Etik/fyrtårne af etik.md",
     "idehistorie/Etik/etik vs. morale.md",
@@ -294,8 +308,6 @@
     "Pasted image 20230815135253.png",
     "Kemi/Basis Kemi B, side 7-12, opgave 1.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
-    "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
-    "English/sustainability.md",
     "Programmering",
     "idehistorie/Idé_historie-B-htx-august-2017.pdf",
     "idehistorie/Etik",
