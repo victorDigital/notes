@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teknologi/miljøvurdering.md",
+                "file": "idehistorie/Etik/Etik - Forløbsforside.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96830c26dba5355e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fyrtårne af etik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4338db2675a9fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nytte og pligt etik.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teknologi/miljøvurdering.md",
+                "file": "nytte og pligt etik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teknologi/miljøvurdering.md",
+                "file": "nytte og pligt etik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teknologi/miljøvurdering.md"
+                "file": "nytte og pligt etik.md"
               }
             }
           },
@@ -224,8 +249,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b08f6cfd9b1daa28",
+  "active": "c4338db2675a9fda",
   "lastOpenFiles": [
+    "fyrtårne af etik.md",
+    "nytte og pligt etik.md",
+    "idehistorie/Etik/Etik - Forløbsforside.md",
+    "idehistorie/Etik/etik vs. morale.md",
+    "idehistorie/Etik/Dilemma 1.md",
+    "Teknologi/miljøvurdering.md",
     "Programmering/Logbog.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Fysik opgave om bølger og interferens.md",
@@ -240,7 +271,6 @@
     "Kemi/Basis Kemi B, side 7-12.md",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
-    "Teknologi/miljøvurdering.md",
     "Dansk",
     "Fysik/Refleksion.md",
     "Fysik/Unconfirmed 277129.crdownload",
@@ -255,10 +285,6 @@
     "English/sustainability.md",
     "English/Aktiv og passiv.md",
     "Programmering",
-    "idehistorie/Etik/Dilemma 1.md",
-    "idehistorie/Etik/Etik - Forløbsforside.md",
-    "Idé_historie-B-htx-august-2017.pdf.md",
-    "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Idé_historie-B-htx-august-2017.pdf",
     "idehistorie/Etik",
     "idehistorie/Unconfirmed 441635.crdownload",
