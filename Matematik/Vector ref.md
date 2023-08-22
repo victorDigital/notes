@@ -1,4 +1,4 @@
-
+[[L 2di MA]]
 ### PIL!!!
 $$
 \vec{a}
@@ -22,3 +22,11 @@ $$
 
 ![[Pasted image 20230822185716.png]]
 
+### Vektorkoordinater
+$$
+\vec{v} = \left(\frac{x_1}{y_1}\right)
+$$
+
+$$
+\vec{v} = \left(\spalignvector{2}{-4}\right)
+$$

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematik/Vector latex syntax ref.md",
+                "file": "Matematik/Vector ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Vector latex syntax ref.md",
+                "file": "Matematik/Vector ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Vector latex syntax ref.md",
+                "file": "Matematik/Vector ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Vector latex syntax ref.md"
+                "file": "Matematik/Vector ref.md"
               }
             }
           },
@@ -273,23 +273,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a0333c127c0a043",
+  "active": "34f2928b8dc23c0a",
   "lastOpenFiles": [
-    "Matematik/Pasted image 20230822185716.png",
-    "idehistorie/Etik/etik A.md",
-    "Matematik/Vector latex syntax ref.md",
     "idehistorie/Etik/Etik - Forløbsforside.md",
-    "idehistorie/Etik/Nytte og Pligt etik.md",
     "idehistorie/Etik/fyrtårne af etik.md",
+    "idehistorie/Etik/etik A.md",
+    "Matematik/Vector ref.md",
+    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+    "Programmering/Logbog.md",
+    "Dansk/Menneske og teknologi.md",
+    "Teknologi/miljøvurdering.md",
+    "Fysik/Refleksion.md",
+    "Matematik/Pasted image 20230822185716.png",
+    "idehistorie/Etik/Nytte og Pligt etik.md",
     "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Etik/Dilemma 1.md",
-    "Teknologi/miljøvurdering.md",
-    "Programmering/Logbog.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Brydning.md",
-    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
-    "Dansk/Menneske og teknologi.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fag/Fag.md",
     "Fag/L 2di Fy.md",
@@ -299,7 +300,6 @@
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
     "Dansk",
-    "Fysik/Refleksion.md",
     "Fysik/Unconfirmed 277129.crdownload",
     "Fysik/Untitled.canvas",
     "Matematik/Note math syntax ref.md",
