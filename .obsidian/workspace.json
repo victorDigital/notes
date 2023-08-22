@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/Etik/Nytte og Pligt etik.md",
+                "file": "idehistorie/Etik/Etik - Forløbsforside.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63c9cec270eec6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idehistorie/Etik/etik A.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/Etik/Nytte og Pligt etik.md",
+                "file": "idehistorie/Etik/etik A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/Etik/Nytte og Pligt etik.md",
+                "file": "idehistorie/Etik/etik A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/Etik/Nytte og Pligt etik.md"
+                "file": "idehistorie/Etik/etik A.md"
               }
             }
           },
@@ -251,9 +263,10 @@
   },
   "active": "6a0333c127c0a043",
   "lastOpenFiles": [
-    "idehistorie/Etik/fyrtårne af etik.md",
-    "idehistorie/Etik/Nytte og Pligt etik.md",
     "idehistorie/Etik/Etik - Forløbsforside.md",
+    "idehistorie/Etik/etik A.md",
+    "idehistorie/Etik/Nytte og Pligt etik.md",
+    "idehistorie/Etik/fyrtårne af etik.md",
     "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Etik/Dilemma 1.md",
     "Teknologi/miljøvurdering.md",
@@ -283,7 +296,6 @@
     "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
     "English/sustainability.md",
-    "English/Aktiv og passiv.md",
     "Programmering",
     "idehistorie/Idé_historie-B-htx-august-2017.pdf",
     "idehistorie/Etik",

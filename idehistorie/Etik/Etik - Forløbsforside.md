@@ -6,3 +6,4 @@
 [[Dilemma 1]]
 [[fyrtårne af etik]]
 ## Materialer
+[[etik A]]
