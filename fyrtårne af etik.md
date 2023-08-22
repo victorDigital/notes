@@ -1,5 +1,5 @@
 - Nytte etik
 - pligts etik
-[[nytte og pligt etik]]
+[[Nytte og Pligt etik]]
 
 - dyds etik
