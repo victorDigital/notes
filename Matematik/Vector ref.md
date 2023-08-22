@@ -24,9 +24,10 @@ $$
 
 ### Vektorkoordinater
 $$
-\vec{v} = \left(\frac{x_1}{y_1}\right)
+\vec{v} = \left({x_1 \atop y_1}\right)
 $$
 
 $$
-\vec{v} = \left(\spalignvector{2}{-4}\right)
+\vec{v} = \left({2 \atop -4}\right)
 $$
+
