@@ -40,4 +40,10 @@ $$
 $$
 
 
- := <2, 5>
+## tværs vektor
+_90 grader imod uret af vector b_
+$$
+\hat{\vec{b}} =  ({-b_y\atop b_x})
+$$
+er lig vector b hat
+
