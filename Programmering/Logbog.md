@@ -154,3 +154,10 @@ void blurCanvas() {
 
 det skal siges at `blurCanvas()` og farve striberne ikke er nødvendig for opgaven :)
 
+
+# operatorer
+## if-else, relations-operatorer og logiske-operatorer
+## 2. del - små fælles-eksempler
+
+
+
