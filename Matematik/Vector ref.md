@@ -36,5 +36,8 @@ $$
 
 ## addition af vector
 $$
-\vec{c} + \vec{d} = \left({3\cdot\cos(37°) + 8\cdot\cos(153°)\atop3\cdot\sin(37°) + 8\cdot\sin(153°}\right)
+\vec{c} + \vec{d} = \left({3\cdot\cos(37°) + 8\cdot\cos(153°)\atop3\cdot\sin(37°) + 8\cdot\sin(153°)}\right)
 $$
+
+
+ := <2, 5>
