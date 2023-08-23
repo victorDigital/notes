@@ -157,7 +157,46 @@ det skal siges at `blurCanvas()` og farve striberne ikke er nødvendig for opgav
 
 # operatorer
 ## if-else, relations-operatorer og logiske-operatorer
-## 2. del - små fælles-eksempler
+
+## Kodeopgaver til logbogen
+
+Løsningen til nedenstående opgaver skal beskrives i jeres logbog.
+
+- I skal i nedenstående opgaver tænke over hvordan i undgår at gentage jer selv “DRY”:  
+```java
+if (keyPressed == true) {
+    if (key == 'a') {
+        kSpeed = -kSpeed;
+    } else {
+        kSpeed = kSpeed;
+    }
+}
+if (keyPressed == true) {
+    if (key == 'd') {
+        k2Speed = -k2Speed;
+    } else {
+        k2Speed = k2Speed;
+    }
+}
+if (keyPressed == true) {
+    if (key == 'a') {
+        color1 = color(0);
+    } else {
+        color1 = color1;
+    }
+}
+
+//samme som ovenfor, bare forkortet ved brug af inline conditionel operator
+
+if (keyPressed == true) {
+    key = 'a' == true ? kSpeed = -kSpeed : kSpeed = kSpeed;
+    key = 'd' == true ? k2Speed = -k2Speed : k2Speed = k2Speed;
+    key = 'a' == true ? color1 = color(0) : color1 = color1;
+}
+```
 
 
+    
+- Det er ikke et krav at anvende et baggrundsbilleder eller billeder i dine programmer. Men hvis du ønsker det, læs da følgende:  
+    [https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
 
