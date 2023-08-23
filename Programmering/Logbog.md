@@ -189,14 +189,30 @@ if (keyPressed == true) {
 //samme som ovenfor, bare forkortet ved brug af inline conditionel operator
 
 if (keyPressed == true) {
-    key = 'a' == true ? kSpeed = -kSpeed : kSpeed = kSpeed;
-    key = 'd' == true ? k2Speed = -k2Speed : k2Speed = k2Speed;
-    key = 'a' == true ? color1 = color(0) : color1 = color1;
+    key == 'a' ? kSpeed = -kSpeed : kSpeed = kSpeed;
+    key == 'd' ? k2Speed = -k2Speed : k2Speed = k2Speed;
+    key == 'a' ? color1 = color(0) : color1 = color1;
 }
 ```
 
 
     
 - Det er ikke et krav at anvende et baggrundsbilleder eller billeder i dine programmer. Men hvis du ønsker det, læs da følgende:  
-    [https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
+```java
+PImage photo;
 
+void setup() {
+  size(400, 400);
+  photo = loadImage("Toyokawa-city.jpg");
+}
+
+void draw() {
+  image(photo, 0, 0);
+}
+```
+
+### 3. del - Kvadrant-opgaven
+#### Krav til opgaven
+- tegn firkanter
+- find kvadrant musen befinder sig i
+- skriv 
