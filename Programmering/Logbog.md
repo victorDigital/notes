@@ -215,4 +215,4 @@ void draw() {
 #### Krav til opgaven
 - tegn firkanter
 - find kvadrant musen befinder sig i
-- skriv 
+- skriv kvadranten musen befinder sig i
