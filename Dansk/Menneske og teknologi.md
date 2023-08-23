@@ -1,4 +1,4 @@
-
+[[L 2di DA]]
 # Futurisme
 - kunstnerisk bevægelse
 - væk fra det gamle
