@@ -24,7 +24,7 @@ $$
 
 ### Vektorkoordinater
 $$
-\vec{v} = \left({x_1 \atop y_1}\right)
+\vec{v} = \left({v_x \atop v_y}\right)
 $$
 
 $$

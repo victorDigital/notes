@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Matematik/Vector ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Matematik/Vector ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Matematik/Vector ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Logbog.md"
+                "file": "Matematik/Vector ref.md"
               }
             }
           },
@@ -166,11 +166,11 @@
   },
   "active": "588e02bc80e793b7",
   "lastOpenFiles": [
+    "Programmering/Logbog.md",
     "Untitled.md",
     "Dansk/Menneske og teknologi.md",
     "Teknologi/miljøvurdering.md",
     "Fysik/Refleksion.md",
-    "Programmering/Logbog.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Matematik/Vector ref.md",
     "Fag/L 2di MA.md",
