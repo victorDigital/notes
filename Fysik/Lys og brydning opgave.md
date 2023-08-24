@@ -28,4 +28,4 @@ i:=solve\biggr(\frac{\sin(36.4°)}{\sin(b)}=\frac{1.5}{1}\biggr)≈23.30
 $$
 
 ## e) Kan der være totalrefleksion for lys, der falder ind mod en glasoverflade fra luft?
-brydnings indekset skal altid gå fra højre til lavere
+brydnings indekset skal altid gå fra højre til lavere for at totalrefleksion forekommer
