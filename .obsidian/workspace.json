@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "Fysik/Lys og brydning opgave.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Lys og brydning opgave.md",
+                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e503a2b8b636c115",
+  "active": "588e02bc80e793b7",
   "lastOpenFiles": [
+    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+    "Fysik/Lys og brydning opgave.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
     "Fysik/Refleksion.md",
-    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
-    "Fysik/Lys og brydning opgave.md",
     "Matematik/Vector ref.md",
     "Programmering/Logbog.md",
     "Dansk/Menneske og teknologi.md",
