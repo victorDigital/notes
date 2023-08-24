@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Fysik/Brydnings opgaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e503a2b8b636c115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysik/Lys og brydning opgave.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Fysik/Lys og brydning opgave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+                "file": "Fysik/Lys og brydning opgave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md"
+                "file": "Fysik/Lys og brydning opgave.md"
               }
             }
           },
@@ -164,15 +177,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "588e02bc80e793b7",
+  "active": "e503a2b8b636c115",
   "lastOpenFiles": [
-    "Matematik/Vector ref.md",
-    "Programmering/Logbog.md",
-    "Untitled.md",
-    "Dansk/Menneske og teknologi.md",
-    "Teknologi/miljøvurdering.md",
+    "Fysik/Brydnings opgaver.md",
+    "Fysik/Brydning.md",
     "Fysik/Refleksion.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+    "Fysik/Lys og brydning opgave.md",
+    "Matematik/Vector ref.md",
+    "Programmering/Logbog.md",
+    "Dansk/Menneske og teknologi.md",
+    "Teknologi/miljøvurdering.md",
     "Fag/L 2di MA.md",
     "idehistorie/Etik/etik A.md",
     "idehistorie/Etik/Etik - Forløbsforside.md",
@@ -183,9 +198,7 @@
     "idehistorie/Etik/Nytte og Pligt etik.md",
     "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Etik/Dilemma 1.md",
-    "Fysik/Brydnings opgaver.md",
     "Fysik/Fysik opgave om bølger og interferens.md",
-    "Fysik/Brydning.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fag/L 2di Fy.md",
     "Fysik/bølger og lys.md",
