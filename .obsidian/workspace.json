@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +201,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c70cdd9edd5bece0",
+  "active": "f288e9c9f18c3097",
   "lastOpenFiles": [
     "Pasted image 20230828141751.png",
     "Pasted image 20230828141512.png",
