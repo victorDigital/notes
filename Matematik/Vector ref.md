@@ -47,4 +47,7 @@ $$
 $$
 er lig vector b hat
 
-lidt det samme som 
+## Vinkel mellem vektorer 
+![[Pasted image 20230828141512.png]]
+<3,2>, <7,2>
+![[Pasted image 20230828141751.png]]
