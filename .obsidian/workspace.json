@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dansk/Analyse, vurdering, og diskussion.md",
+                "file": "Matematik/Vector ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/Analyse, vurdering, og diskussion.md",
+                "file": "Matematik/Vector ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/Analyse, vurdering, og diskussion.md",
+                "file": "Matematik/Vector ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/Analyse, vurdering, og diskussion.md"
+                "file": "Matematik/Vector ref.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "c70cdd9edd5bece0",
   "lastOpenFiles": [
-    "Fysik/lysets bølgemodel.md",
     "Dansk/Analyse, vurdering, og diskussion.md",
+    "Fysik/lysets bølgemodel.md",
     "Fysik/Lys og brydning opgave.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Fysik/Brydnings opgaver.md",

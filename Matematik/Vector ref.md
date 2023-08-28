@@ -47,3 +47,4 @@ $$
 $$
 er lig vector b hat
 
+lidt det samme som 
