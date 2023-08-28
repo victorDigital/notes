@@ -20,6 +20,8 @@ R: (det er der mange eksempler på)
 
 G: (med mindre)
 
+H: (folk der ikke laver sine lektier dumper)
+kunstig intelligens kan hjelpe med samfu
 
 S: (helt sikkert)
 _eneste redning_
