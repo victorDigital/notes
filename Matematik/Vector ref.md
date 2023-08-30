@@ -51,3 +51,11 @@ er lig vector b hat
 ![[Pasted image 20230828141512.png]]
 <3,2>, <7,2>
 ![[Pasted image 20230828141751.png]]
+
+## skalarprodukt 
+$$
+\vec{a} \bullet \vec{b} = |\vec{a}| \cdot |\vec{b}| \cdot \cos(v)
+$$
+$$
+\vec{a} \bullet \vec{b} = a_1\cdot b_1 + a_2 \cdot b_2
+$$

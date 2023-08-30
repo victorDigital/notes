@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/One world down the drain.md",
+                "file": "Matematik/Vector ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Lys og brydning opgave.md",
+                "file": "Matematik/Vector ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Lys og brydning opgave.md",
+                "file": "Matematik/Vector ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Lys og brydning opgave.md"
+                "file": "Matematik/Vector ref.md"
               }
             }
           },
@@ -213,15 +213,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a0333c127c0a043",
+  "active": "acb0183fd38f4bfe",
   "lastOpenFiles": [
+    "Fysik/Lys og brydning opgave.md",
     "Matematik/Vector ref.md",
     "English/One world down the drain.md",
     "Pasted image 20230828141751.png",
     "Pasted image 20230828141512.png",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Fysik/lysets bølgemodel.md",
-    "Fysik/Lys og brydning opgave.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
