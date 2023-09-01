@@ -241,13 +241,36 @@ int determineQuadrant() {
 ## Kodeopgave til logbogen 01/09/2023
 
 - Skriv en for og while-løkke, der udskriver tal fra 1 til 10.
-- ``````
+```java
+for (int i = 1; i =< 10; i++) {
+	println(i);
+}
 ```
 - Lav en for og while-løkke, der udskriver de første 5 lige tal (2, 4, 6, osv.).
+```java
+for (int i = 1; i =< 10; i+=2) {
+	println(i);
+}
+```
 - Lav en for og while-løkke, der udskriver summen af tal fra 1 til 100.
 - Skriv en for og while-løkke, der tæller ned fra 10 til 1 og udskriver tallene.
+```java
+for (int i = 10; i > 0; i--) {
+	println(i);
+}
+```
 - Lav en for og while-løkke, der udskriver gangetabellen for tallet 5 (5, 10, 15, osv. op til 50).
+```java
+for (int i = 5; i <= 50; i+=5) {
+    println(i);
+}
+```
 - Lav en for og while-løkke, der udskriver de første 5 potenser af 2 (2^1, 2^2, 2^3, osv.).
+```java
+for (int i = 1; i <= 5; i++) {
+	println(pow(2, i));
+}
+```
 - Tegn en for og serie af lodrette linjer ved hjælp af en while-løkke, der ændrer deres x-koordinat for hver gentagelse.
 - Skriv en for og while-løkke, der tegner en spiral ved at ændre både x- og y-koordinaterne for hver gentagelse.
 - Lav en for og while-løkke, der tegner en regnbue af farverige linjer ved at ændre farverne gradvist for hver gentagelse.
