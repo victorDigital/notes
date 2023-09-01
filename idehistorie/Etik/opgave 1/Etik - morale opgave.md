@@ -1,7 +1,9 @@
 - Hvad er forskellen mellem Etik og Moral?
 	- morale er _adfærd_, etik er _bagtæppet_. Hvad der menes med det er morale er mere individuel end etik som er mere fælleskab eller kulturelt bestemt.
 - Hvad er menneskets væsen ifølge Aristoteles, og hvad har det med hans etik at gøre?
+	- menneskets væsen ifølge Aristoteles er et rationelt væsen der kan dyde, og opleve fornuftigt.  han mender at vi skal leve med fornuft for at opnå eudaimonia (lykke og vellykkethed).
 - Gør rede for Aritoteles’ tanke om den rette midte (den gyldne middelvej).
+	- den gyldne middelvej betyder at man skal stræbe hvor hverken at være utilstrækkelig eller overdreven i sin adfærd 
 - Hvad forstår Aristoteles ved en dyd og hvordan bliver vi dydige mennesker?
 - Hvordan finder vi ud af, hvad vi skal gøre i en konkret situation?
 - Hvad har etik og politik med hinanden at gøre ifølge Aristoteles?
