@@ -253,6 +253,12 @@ for (int i = 1; i =< 10; i+=2) {
 }
 ```
 - Lav en for og while-løkke, der udskriver summen af tal fra 1 til 100.
+```java
+for (int i = 1, sum = 0; i <= 100; i++) {
+    sum += i; println(sum);
+}
+
+```
 - Skriv en for og while-løkke, der tæller ned fra 10 til 1 og udskriver tallene.
 ```java
 for (int i = 10; i > 0; i--) {
@@ -272,6 +278,11 @@ for (int i = 1; i <= 5; i++) {
 }
 ```
 - Tegn en for og serie af lodrette linjer ved hjælp af en while-løkke, der ændrer deres x-koordinat for hver gentagelse.
+```java
+for (int x = 0, y = 0;x <= width;x += 10) {
+    line(x, y, x, y + 50);
+}
+```
 - Skriv en for og while-løkke, der tegner en spiral ved at ændre både x- og y-koordinaterne for hver gentagelse.
 - Lav en for og while-løkke, der tegner en regnbue af farverige linjer ved at ændre farverne gradvist for hver gentagelse.
 - Tegn en for og slags “trappe” ved at bruge en while-løkke til at skabe forskellige brede rektangler ved hvert trin.
