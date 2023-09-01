@@ -152,10 +152,9 @@ void blurCanvas() {
 }
 ```
 
-det skal siges at `blurCanvas()` og farve striberne ikke er nødvendig for opgaven :)
+det skal siges at `blurCanvas()` og farve striberne ikke er nødvendig for opgaven :)  
 
-
-# operatorer
+## Operatorer
 ## if-else, relations-operatorer og logiske-operatorer
 
 ## Kodeopgaver til logbogen
@@ -237,5 +236,34 @@ int determineQuadrant() {
     int q = 0;
     q = mouseX < width / 2 ? mouseY < height / 2 ? q + 1 : q + 2 : mouseY < height / 2 ? q : q + 3;
     return q + 1;
+}
+```
+## Kodeopgave til logbogen 01/09/2023
+
+- Skriv en for og while-løkke, der udskriver tal fra 1 til 10.
+- ``````
+```
+- Lav en for og while-løkke, der udskriver de første 5 lige tal (2, 4, 6, osv.).
+- Lav en for og while-løkke, der udskriver summen af tal fra 1 til 100.
+- Skriv en for og while-løkke, der tæller ned fra 10 til 1 og udskriver tallene.
+- Lav en for og while-løkke, der udskriver gangetabellen for tallet 5 (5, 10, 15, osv. op til 50).
+- Lav en for og while-løkke, der udskriver de første 5 potenser af 2 (2^1, 2^2, 2^3, osv.).
+- Tegn en for og serie af lodrette linjer ved hjælp af en while-løkke, der ændrer deres x-koordinat for hver gentagelse.
+- Skriv en for og while-løkke, der tegner en spiral ved at ændre både x- og y-koordinaterne for hver gentagelse.
+- Lav en for og while-løkke, der tegner en regnbue af farverige linjer ved at ændre farverne gradvist for hver gentagelse.
+- Tegn en for og slags “trappe” ved at bruge en while-løkke til at skabe forskellige brede rektangler ved hvert trin.
+
+_lav 10x10 små firkanter i midten af skærmen hvor firkanterne bliver gradvist mere røde nedad og gradvist mere grønne mod højre_
+
+```java
+size(500, 500);
+background(0);
+noStroke();
+
+for (int i = 0; i < 10; i++) {
+    for (int j = 0; j < 10; j++) {
+        fill(255 * j / 10, 255 * i / 10, 0);
+        rect(50 + 40 * i, 50 + 40 * j, 40, 40);
+    }
 }
 ```
