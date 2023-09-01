@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematik/Vector ref.md",
+                "file": "idehistorie/Etik/etik vs. morale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb884267f5d600c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Vector ref.md",
+                "file": "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Vector ref.md",
+                "file": "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Vector ref.md"
+                "file": "idehistorie/Etik/opgave 1/Etik - morale opgave.md"
               }
             }
           },
@@ -213,16 +225,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "acb0183fd38f4bfe",
+  "active": "1bb884267f5d600c",
   "lastOpenFiles": [
-    "Fysik/Lys og brydning opgave.md",
+    "idehistorie/Etik/etik vs. morale.md",
+    "idehistorie/Etik/Etik - Forløbsforside.md",
+    "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
+    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
+    "idehistorie/Etik/opgave 1/Etik A, side 2.pdf",
+    "idehistorie/Etik/opgave 1/~$ik A - opgave.docx",
+    "idehistorie/Etik/opgave 1/Etik A, side 1.pdf",
     "Matematik/Vector ref.md",
+    "Fysik/Lys og brydning opgave.md",
     "English/One world down the drain.md",
     "Pasted image 20230828141751.png",
     "Pasted image 20230828141512.png",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Fysik/lysets bølgemodel.md",
-    "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
     "Fysik/Refleksion.md",
@@ -231,20 +249,16 @@
     "Teknologi/miljøvurdering.md",
     "Fag/L 2di MA.md",
     "idehistorie/Etik/etik A.md",
-    "idehistorie/Etik/Etik - Forløbsforside.md",
     "idehistorie/Etik/fyrtårne af etik.md",
     "Fag/Fag.md",
     "English/Environmental ethics.md",
     "Matematik/Pasted image 20230822185716.png",
     "idehistorie/Etik/Nytte og Pligt etik.md",
-    "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Etik/Dilemma 1.md",
     "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fag/L 2di Fy.md",
     "Fysik/bølger og lys.md",
-    "Fysik/Bølgelængde.md",
-    "Kemi/Basis Kemi B, side 7-12.md",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
     "Dansk",
@@ -255,11 +269,8 @@
     "idehistorie/Idé_historie-B-htx-august-2017.pdf",
     "idehistorie/Etik",
     "idehistorie/Unconfirmed 441635.crdownload",
-    "idehistorie",
     "Kemi/Pasted image 20230815123709.png",
     "Kemi/Pasted image 20230815112122.png",
-    "Kemi",
-    "Matematik",
     "Fysik/Bølgelængde.png",
     "mqdefault_6s.webp"
   ]

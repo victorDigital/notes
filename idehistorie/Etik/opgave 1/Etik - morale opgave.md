@@ -1,0 +1,7 @@
+- Hvad er forskellen mellem Etik og Moral?
+	- morale er _adfærd_, etik er _bagtæppet_. Hvad der menes med det er morale er mere individuel end etik som er mere fælleskab eller kulturelt bestemt.
+- Hvad er menneskets væsen ifølge Aristoteles, og hvad har det med hans etik at gøre?
+- Gør rede for Aritoteles’ tanke om den rette midte (den gyldne middelvej).
+- Hvad forstår Aristoteles ved en dyd og hvordan bliver vi dydige mennesker?
+- Hvordan finder vi ud af, hvad vi skal gøre i en konkret situation?
+- Hvad har etik og politik med hinanden at gøre ifølge Aristoteles?
