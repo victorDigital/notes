@@ -11,6 +11,7 @@ mening: giver sin holdning
 ___Det gør argumentet stærkere at flere eksempler på det samme___
 ***hans misforståelse af GPT-3 som GTP-3 nedsætter hans etos gevaldigt*** 
 ***Der er ikke nogen gendrivelse, det gør hele teksten mindre stærkt imod modargumenter***
+***ALTID OVERVEJ HVORDAN ARGUMENTTYPEN SPILLER IND***
 
 ## Toulmin's argumentationsmodel  
 P: (Søren dumper til eksamen)
@@ -37,7 +38,6 @@ Kunstig intelligens er vores eneste redning. Men vi har brug for et wakeupcall
 	- B l. 152-157
 	- H: "fordi vi skal overveje vores tid"
 
-
 B: (Søren laver ikke sine lektier)
 Tværtimod tror jeg at kunstig intelligens er vores eneste redning mod både klimaforandringer, krig, sult og radikalisering.
 
@@ -52,3 +52,23 @@ ting der kan hjælpe med samfundets udvikling og udfordringer er gode
 
 S: (helt sikkert)
 _eneste redning_
+
+
+PATOS: kærestebrev l. 176 + retorisk spg.
+hvorfor er denne brug a patos nyttig for formålet?
+	personligt spor på nettet, føler sig vigtig
+
+LOGOS: sammenligninger med andre produkter
+
+Rykdækninger
+
+ETOS: han har en kandidat i filosofi
+	ødelægger det ved at lave fejl, dog har han gode og relevante pointer, det er der man kan se at han ikke er teknologi ekspert.
+
+Rykdækninger
+
+
+### Sproglige billeder
+
+
+### Sproglige figurer
