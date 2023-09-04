@@ -69,6 +69,14 @@ Rykdækninger
 
 
 ### Sproglige billeder
-
+metafor på linje 153-154 "et spadestik dybere"
+Sammenligning på linje 86-87 "GTP ikke giver stof til eftertanke"
 
 ### Sproglige figurer
+massere af retoriske spg.
+
+
+___Der er ikke flere___
+
+hvad er effekten
+hvad er formålet 
