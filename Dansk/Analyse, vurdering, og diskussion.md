@@ -13,8 +13,13 @@ P: (Søren dumper til eksamen)
 Kunstig intelligens er vores eneste redning. Men vi har brug for et wakeupcall
 *underpåstande:*
 - l. 8-12 "vi skal overveje"
+	- B l. 117-124
+	- H ""
 - l. 94-95 "jura og etik"
+	- B l. 133-143
+	- H "vi bør ikke forbyde ting da alt kan være farligti de forkerte hænder"
 - l. 112-117 "risici for manipulation"
+	- B l. 
 - l. 131-133 "bør ikke forbyde"
 - l. 185-193 "kunstig intelligens er vores eneste redning"
 
@@ -29,7 +34,7 @@ G: (med mindre)
 _legit hele teksten_
 
 H: (folk der ikke laver sine lektier dumper)
-kunstig intelligens kan hjælpe med samfundets udvikling og udfordringer 
+ting der kan hjælpe med samfundets udvikling og udfordringer er gode 
 
 S: (helt sikkert)
 _eneste redning_
