@@ -80,3 +80,10 @@ ___Der er ikke flere___
 
 hvad er effekten
 hvad er formålet 
+
+## diskussions cirklen
+- synspunkt fra teksten
+	- argumentationsformen
+- eksempel fra teksten som viser synspunktet
+- for og imod, hvilke andre synpunkter kunne man have?
+	- 
