@@ -75,7 +75,6 @@ Sammenligning på linje 86-87 "GTP ikke giver stof til eftertanke"
 ### Sproglige figurer
 massere af retoriske spg.
 
-
 ___Der er ikke flere___
 
 hvad er effekten
@@ -85,5 +84,7 @@ hvad er formålet
 - synspunkt fra teksten
 	- argumentationsformen
 - eksempel fra teksten som viser synspunktet
+	- hvordan påvirker det emmet?
 - for og imod, hvilke andre synpunkter kunne man have?
-	- 
+	- kort forklaring af disse
+- egen holding / synspunkt derefter konklusion
