@@ -19,7 +19,7 @@ Kunstig intelligens er vores eneste redning. Men vi har brug for et wakeupcall
 - l. 8-12 "vi skal overveje"
 	- B l. 18-25
 	- H "Vi bør overveje hvordan vi integrere det kan den nemt kan efterligne et menneske"
-	- GENNERALISERINGSARGUMA
+	- GENNERALISERINGSARGUMENT
 - l. 94-95 "jura og etik"
 	- B l. 106-111
 	- H "det hander om jura og etik fordi men ikke kan kende forskel mellem menneske og ai"
