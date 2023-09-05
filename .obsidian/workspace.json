@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "bd409382b8f1c908",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "e503a2b8b636c115",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +235,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1bb884267f5d600c",
+  "active": "bd409382b8f1c908",
   "lastOpenFiles": [
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Programmering/Logbog.md",
