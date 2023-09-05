@@ -9,6 +9,6 @@ det underliggene princip belæggene i Kants etik er at  konsekvenserne af denne 
 4)  Hvad mener Kant med, det er den gode vilje, der er afgørende ?
 
 5)  Hvorfor lægger Kant vægten på pligten fremfor tilbøjeligheden ?
-tilbø
+tilbøjelighed tjener vore egne interesser, hvorimod sand moral tjener alle ligeligt, han mender at vi kan "overtrumfe" vores personlige tilbøjeligheder, det skal gøre ved hjælp af pligten som kommer fra fornuften.
 
 7) Genfortæl meningen med Kant to imperativer
