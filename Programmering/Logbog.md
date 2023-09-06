@@ -284,8 +284,41 @@ for (int x = 0, y = 0;x <= width;x += 10) {
 }
 ```
 - Skriv en for og while-løkke, der tegner en spiral ved at ændre både x- og y-koordinaterne for hver gentagelse.
+```java
+size(500, 500);
+background(0);
+
+for (int i = 0; i < 200; i++) {
+    float x = width / 2 + i * cos(i / 10.0);
+    float y = height / 2 + i * sin(i / 10.0);
+    circle(x, y, 10);
+}
+```
 - Lav en for og while-løkke, der tegner en regnbue af farverige linjer ved at ændre farverne gradvist for hver gentagelse.
+```java
+size(500, 500);
+background(0);
+for (int i = 0; i < 500; i++) {
+    colorMode(HSB);
+    stroke(i/2, 255, 255);
+    line(i, 0, i, 500);
+}
+```
 - Tegn en for og slags “trappe” ved at bruge en while-løkke til at skabe forskellige brede rektangler ved hvert trin.
+```java
+size(500,500);
+background(0);
+
+int i = 0;
+while(i < 50) {
+    int j = 0;
+    while(j < i) {
+        rect(j * 10, i * 10, 10, 10);
+        j++;
+    }
+    i++;
+}
+```
 
 _lav 10x10 små firkanter i midten af skærmen hvor firkanterne bliver gradvist mere røde nedad og gradvist mere grønne mod højre_
 
