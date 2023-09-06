@@ -303,9 +303,31 @@ for (int i = 0; i < 10; i++) {
 ```
 
 ## Nestede for-loops
-### opg_1 //todo
+### opg_1 
+```java
+size(500,500);
+background(0);
 
-### opg_2 //todo
+for(int i = 0; i < 50; i++) {
+    for(int j = 0; j < 50; j++) {
+        circle(i*10+5, j*10+5, 10);
+    }
+}
+```
+
+### opg_2
+```java
+size(500,500);
+background(0);
+
+for(int i = 0; i < 50*50; i++) {
+    int x = i % 50;
+    int y = i / 50;
+    noStroke();
+    fill((x+y)%2*255);
+    rect(x*10, y*10, 10, 10);
+}
+```
 ### opg_3
 ```java
 size(500,500);
