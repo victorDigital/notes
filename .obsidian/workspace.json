@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84cf4f5609d54ae6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Matematik/Pasted image 20230828141512.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +176,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b194bb9a1b56fff9",
+  "active": "6a0333c127c0a043",
   "lastOpenFiles": [
-    "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
+    "Matematik/Pasted image 20230828141751.png",
+    "English/Pasted image 20230906083311.png",
+    "English/Analysis of non-fiction text.md",
     "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+    "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Programmering/Logbog.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
@@ -180,8 +194,7 @@
     "Matematik/Vector ref.md",
     "Fysik/Lys og brydning opgave.md",
     "English/One world down the drain.md",
-    "Pasted image 20230828141751.png",
-    "Pasted image 20230828141512.png",
+    "Matematik/Pasted image 20230828141512.png",
     "Fysik/lysets bølgemodel.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
@@ -198,8 +211,6 @@
     "idehistorie/Etik/Dilemma 1.md",
     "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
-    "Fag/L 2di Fy.md",
-    "Fysik/bølger og lys.md",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
     "Dansk",
@@ -212,7 +223,6 @@
     "idehistorie/Unconfirmed 441635.crdownload",
     "Kemi/Pasted image 20230815123709.png",
     "Kemi/Pasted image 20230815112122.png",
-    "Fysik/Bølgelængde.png",
-    "mqdefault_6s.webp"
+    "Fysik/Bølgelængde.png"
   ]
 }
