@@ -13,5 +13,7 @@ Kants objektive moral leder efter de "absolute værdier" eller rigtigt eller for
 tilbøjelighed tjener vore egne interesser, hvorimod sand moral tjener alle ligeligt, han mender at vi kan "overtrumfe" vores personlige tilbøjeligheder, det skal gøre ved hjælp af pligten som kommer fra fornuften.
 
 7) Genfortæl meningen med Kant to imperativer
-Kants katagoriske imperativ
-Kants praktiske imperativ
+__Kants katagoriske imperativ__
+alle handlinger skal kunne reduceres til almene love, uden at samfundet bryder sammen. 
+__Kants praktiske imperativ__
+vi skal stræbe om at opfatte andre som mål ikke som middel til at forbedre sig selv. man skal stræbe mod hjælpsomhed aldrig udnyttelse.
