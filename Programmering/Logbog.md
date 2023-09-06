@@ -301,3 +301,22 @@ for (int i = 0; i < 10; i++) {
     }
 }
 ```
+
+## Nestede for-loops
+### opg_1 //todo
+
+### opg_2 //todo
+### opg_3
+```java
+size(500,500);
+background(0);
+
+for(int i = 0; i < 50; i++) {
+    for(int j = 0; j < i; j++) {
+        stroke(255);
+        strokeWeight(1);
+        fill(i * 3);
+        rect(j * 10, i * 10, 10, 10);
+    }
+}
+```

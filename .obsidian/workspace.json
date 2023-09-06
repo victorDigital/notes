@@ -23,9 +23,11 @@
             "id": "84cf4f5609d54ae6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Matematik/Pasted image 20230828141512.png"
+                "file": "Programmering/Logbog.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -176,12 +178,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a0333c127c0a043",
+  "active": "84cf4f5609d54ae6",
   "lastOpenFiles": [
+    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "English/Analysis of non-fiction text.md",
-    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Programmering/Logbog.md",
