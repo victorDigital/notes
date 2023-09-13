@@ -403,9 +403,31 @@ for (int i = 0; i < temperaturer.Length; i++) {
 println("Gennemsnitet er " + sum / temperaturer.Length);
 ```
 7. Lav et array af boolean-værdier, der repræsenterer tilstanden af ​​10 lamper (tændt/slukket). Skriv en løkke, der tænder alle lamperne. (prøv at se om du kan gøre det grafisk)
-```
-
+```java
+size(500, 500);
+boolean[] lamper = new boolean[10];
+for (int i = 0; i < lamper.length; i++)
+{
+    lamper[i] = true;
+    rect(10 + i * 20, 10, 10, 10);
+}
 ```
 9. Byt om på det første og sidste element i et array. (uanset indhold)
-10. Opret et array af strenge med navnene på forskellige frugter. Brug en for-løkke til at finde og udskrive indekset (positionen) for den første forekomst af “æble” i arrayet.
-11. Opret et array af strenge med navnene på månederne i den korrekte rækkefølge (januar, februar, marts, osv.). Skriv en for-løkke, der bytter om på rækkefølgen, så arrayet nu indeholder månederne i omvendt rækkefølge (december, november, oktober, osv.).
+```java
+boolean[] array = {true, false};
+boolean temp = array[0];
+array[0] = array[array.length-1];
+array[array.length-1] = temp;
+println(array[0] + " " + array[1]);
+```
+11. Opret et array af strenge med navnene på forskellige frugter. Brug en for-løkke til at finde og udskrive indekset (positionen) for den første forekomst af “æble” i arrayet.
+```java
+String[] frugter = {"æble", "pære", "banan", "æble", "melon", "æble", "kiwi", "æble", "appelsin", "æble"};
+for (int i = 0; i < frugter.length; i++) {
+    if (frugter[i] == "æble") {
+        println(i);
+        break;
+    }
+}
+```
+13. Opret et array af strenge med navnene på månederne i den korrekte rækkefølge (januar, februar, marts, osv.). Skriv en for-løkke, der bytter om på rækkefølgen, så arrayet nu indeholder månederne i omvendt rækkefølge (december, november, oktober, osv.).
