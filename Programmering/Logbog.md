@@ -375,3 +375,37 @@ for(int i = 0; i < 50; i++) {
     }
 }
 ```
+
+
+## Diverse opgaver i arrays
+1. Opret et array af heltal med 5 elementer og tildel det værdierne 1, 2, 3, 4 og 5. Udskriv arrayet.
+```java
+int[] array = new int[5];
+for (int i = 0; i < array.length; i++) {
+    array[i] = i + 1;
+}
+println(array);
+```
+3. Lav et array af strenge, der indeholder navnene på dine yndlingsfarver. Udskriv alle farverne i arrayet.
+```java
+String[] list = {"gul", "pisgul", "mørkegul"};
+for (int i = 0; i < list.length; i++) {
+    println(list[i]);
+}
+```
+5. Opret et array af kommatal, der indeholder temperaturen for hver dag i en uge. Beregn gennemsnittet af temperaturerne.
+```java
+float[] temperaturer = { 30, 20, 14, 16, 19, 23, 30 };
+float sum = 0;
+for (int i = 0; i < temperaturer.Length; i++) {
+    sum += temperaturer[i];
+}
+println("Gennemsnitet er " + sum / temperaturer.Length);
+```
+7. Lav et array af boolean-værdier, der repræsenterer tilstanden af ​​10 lamper (tændt/slukket). Skriv en løkke, der tænder alle lamperne. (prøv at se om du kan gøre det grafisk)
+```
+
+```
+9. Byt om på det første og sidste element i et array. (uanset indhold)
+10. Opret et array af strenge med navnene på forskellige frugter. Brug en for-løkke til at finde og udskrive indekset (positionen) for den første forekomst af “æble” i arrayet.
+11. Opret et array af strenge med navnene på månederne i den korrekte rækkefølge (januar, februar, marts, osv.). Skriv en for-løkke, der bytter om på rækkefølgen, så arrayet nu indeholder månederne i omvendt rækkefølge (december, november, oktober, osv.).

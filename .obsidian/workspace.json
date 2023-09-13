@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "Programmering/Logbog.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "74e84e39a186bbb1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -197,10 +187,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "74e84e39a186bbb1",
+  "active": "84cf4f5609d54ae6",
   "lastOpenFiles": [
-    "Programmering/Logbog.md",
     "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+    "Programmering/Logbog.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "English/Analysis of non-fiction text.md",
