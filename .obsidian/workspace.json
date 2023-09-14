@@ -23,11 +23,9 @@
             "id": "84cf4f5609d54ae6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Programmering/Logbog.md",
-                "mode": "source",
-                "source": false
+                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Logbog.md"
+                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf"
               }
             }
           },
@@ -189,8 +187,10 @@
   },
   "active": "84cf4f5609d54ae6",
   "lastOpenFiles": [
-    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Programmering/Logbog.md",
+    "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
+    "Fysik/Unconfirmed 707574.crdownload",
+    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "English/Analysis of non-fiction text.md",
@@ -230,8 +230,6 @@
     "Pasted image 20230815135253.png",
     "Programmering",
     "idehistorie/Idé_historie-B-htx-august-2017.pdf",
-    "idehistorie/Etik",
-    "idehistorie/Unconfirmed 441635.crdownload",
     "Kemi/Pasted image 20230815123709.png",
     "Kemi/Pasted image 20230815112122.png",
     "Fysik/Bølgelængde.png"
