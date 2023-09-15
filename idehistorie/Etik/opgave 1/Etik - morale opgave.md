@@ -1,3 +1,5 @@
+[[Etik - Forløbsforside]]
+
 - Hvad er forskellen mellem Etik og Moral?
 	- morale er _adfærd_ og handlinger, etik er _bagtæppet_ eller mere teoretisk. Hvad der menes med det er morale er mere individuel end etik som er mere fælleskab eller kulturelt bestemt.
 

@@ -1,4 +1,6 @@
 # Det kategoriske imperativ
+[[Nytte og Pligt etik]]
+[[Etik - Forløbsforside]]
 
 1) Overtager Kant den kristne etik ?
 Immanuel Kant var et troende menneske, med som filosof begrundede han sin etik rationelt, den kristne etik hander i bund og grund om gud, vi skylder gud vores liv, derfor er vi tilbøjelige til at indrette os efter gud og kristendommens bud. Kant var af den overbevisning at der findes "absolute værdier" som forpligter os alle, han overtager ikke den kristne etik da han tror at disse "absolutte værdier" stammer som en del af os og ikke fra gud. 
