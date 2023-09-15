@@ -23,9 +23,11 @@
             "id": "84cf4f5609d54ae6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf"
+                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
+                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
+                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Ekstra opgaver til lys og kvantefysik.pdf"
+                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md"
               }
             }
           },
@@ -187,8 +189,8 @@
   },
   "active": "84cf4f5609d54ae6",
   "lastOpenFiles": [
-    "Programmering/Logbog.md",
     "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
+    "Programmering/Logbog.md",
     "Fysik/Unconfirmed 707574.crdownload",
     "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Matematik/Pasted image 20230828141751.png",
