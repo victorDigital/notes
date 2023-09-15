@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
+                "file": "Fysik/Brint kvantefysik opgave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
+                "file": "Fysik/Brint kvantefysik opgave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf"
+                "file": "Fysik/Brint kvantefysik opgave.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2835812b030cba3b",
+  "active": "bea136c5d04db24e",
   "lastOpenFiles": [
-    "Fysik/Brint kvantefysik opgave.md",
     "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
+    "Fysik/Brint kvantefysik opgave.md",
     "idehistorie/opgave om nytte etik.md",
     "Fysik/Unconfirmed 359645.crdownload",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
