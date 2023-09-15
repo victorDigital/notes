@@ -10,3 +10,4 @@ Nytte etik siger vi skal maksimere glæde, selvom du måske skal ofre dig self f
 
 Nytte etik forslår at for at ikke introduce bias i ens beslutning skal man se situationen fra en hvis distance for at undgå bias.
 
+[[opgave om nytte etik]]
