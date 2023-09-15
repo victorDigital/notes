@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "idehistorie/Etik/opgave 3/Nytte etik.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "right": {
     "id": "159669103febb794",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "idehistorie/Etik/opgave 3/Nytte etik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+                "file": "idehistorie/Etik/opgave 3/Nytte etik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md"
+                "file": "idehistorie/Etik/opgave 3/Nytte etik.md"
               }
             }
           },
@@ -189,10 +189,13 @@
   },
   "active": "84cf4f5609d54ae6",
   "lastOpenFiles": [
+    "bentham.md",
+    "idehistorie/Etik/opgave 3/Nytte etik.md",
+    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
+    "idehistorie/Etik/opgave 3",
     "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
     "Programmering/Logbog.md",
     "Fysik/Unconfirmed 707574.crdownload",
-    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "English/Analysis of non-fiction text.md",
@@ -222,7 +225,6 @@
     "Matematik/Pasted image 20230822185716.png",
     "idehistorie/Etik/Nytte og Pligt etik.md",
     "idehistorie/Etik/Dilemma 1.md",
-    "Fysik/Fysik opgave om bølger og interferens.md",
     "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
@@ -231,7 +233,6 @@
     "Fysik/Untitled.canvas",
     "Pasted image 20230815135253.png",
     "Programmering",
-    "idehistorie/Idé_historie-B-htx-august-2017.pdf",
     "Kemi/Pasted image 20230815123709.png",
     "Kemi/Pasted image 20230815112122.png",
     "Fysik/Bølgelængde.png"
