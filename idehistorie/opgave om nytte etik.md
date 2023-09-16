@@ -12,10 +12,10 @@
 - Intensitet, *jo større behag er lig en større nytteværdi*
 - Varighed, *behag i længere til er lig en større nytteværdi*
 - Sikkerhed, *et mere sikkert udfald er lig en større nytteværdi*
-ved overvejelser af disse 3 faktorer kan man fremføre et konkret svar om ét udfald er bedre end et andet 
+*ved overvejelser af disse 3 faktorer kan man fremføre et konkret svar om ét udfald er bedre end et andet *
 
 9. Gengiv indvendingerne mod nytteetikken
-
+*en af indvendingerne mod nytteetikken er at nytteetikken strider imod vores moralske intuition, det vil sige at nytteetikken mener at det er etisk korrekt at gøre noget forkert, vi det vil skabe mere behag og lykke, eller endda redde menneskeliv.*
 
 11. Gengiv nytte-etikkens forsvar over for indvendingerne.
 
