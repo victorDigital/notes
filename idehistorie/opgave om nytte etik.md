@@ -18,5 +18,5 @@
 *en af indvendingerne mod nytteetikken er at nytteetikken strider imod vores moralske intuition, det vil sige at nytteetikken mener at det er etisk korrekt at gøre noget forkert, vi det vil skabe mere behag og lykke, eller endda redde menneskeliv.*
 
 11. Gengiv nytte-etikkens forsvar over for indvendingerne.
-
+nytte-etikkens forsvare sin påstand ved at sætte spørgsmålstegn ved menneskets moralske intuition, det er af den grund ikke en ringe ting hvis nytte-etikken strider imod den moralske intuition, hvis nytte-etikken er mere pålidelig og fastlagt end den moralske intuition.
 
