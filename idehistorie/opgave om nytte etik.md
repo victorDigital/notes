@@ -1,5 +1,5 @@
 1. Hvad går nytteprincippet hos Bentham ud på?
-*Jeremy Benthams etiske teori handler i modsætning til Kants pligt etik om konsekvenserne frem for hensigten at en handling, Benthams etiske teori, nytte etik handler om at maksimere glæde og gavn for ikke blot den individuelle men for også for dens næste og samfundet generelt, når en skal træffe et valg skal denne glæde og gavn bør ikke overvæges med bias, i nogle tilfælde bør man "ofre" sig selv for sanfundes gavn.*
+*Jeremy Benthams etiske teori handler i modsætning til Kants pligt etik om konsekvenserne frem for hensigten af en handling, Benthams etiske teori, nytte etik, handler om at maksimere glæde og gavn for ikke blot den individuelle men for også for dens næste og samfundet generelt, når en skal træffe et valg skal denne glæde og gavn ikke overvæges med bias, man skal derfor se situationen fra et neutralt perspektiv, i nogle tilfælde bør man "ofre" sig selv for sanfundes gavn, hvis det slatså er dette der skaber mest nytte.*
 
 3. Hvordan ser nytte-etikken på forholdet mellem mellem idealer (fx retfærdighed) og nyttevirkning (konsekvenser)?
 

@@ -6,7 +6,6 @@
       {
         "id": "b0d581ab5d3a74db",
         "type": "tabs",
-        "dimension": 34.86943164362519,
         "children": [
           {
             "id": "b194bb9a1b56fff9",
@@ -15,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "idehistorie/Etik/opgave 3/Nytte etik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a12cc31d370c37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idehistorie/opgave om nytte etik.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,23 +69,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b866c1d675837cee",
-        "type": "tabs",
-        "dimension": 65.13056835637481,
-        "children": [
-          {
-            "id": "2835812b030cba3b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kemi/formatter.md",
+                "file": "idehistorie/opgave om nytte etik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kemi/formatter.md",
+                "file": "idehistorie/opgave om nytte etik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kemi/formatter.md"
+                "file": "idehistorie/opgave om nytte etik.md"
               }
             }
           },
@@ -229,17 +223,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bea136c5d04db24e",
+  "active": "2a12cc31d370c37f",
   "lastOpenFiles": [
-    "Matematik/Note math syntax ref.md",
+    "idehistorie/Etik/opgave 3/Nytte etik.md",
+    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Kemi/formatter.md",
+    "Matematik/Note math syntax ref.md",
     "Fysik/Brint kvantefysik opgave.md",
     "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
     "idehistorie/opgave om nytte etik.md",
     "Fysik/Unconfirmed 359645.crdownload",
-    "idehistorie/Etik/opgave 3/Nytte etik.md",
     "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
-    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "idehistorie/Etik/Nytte og Pligt etik.md",
     "bentham.md",
     "idehistorie/Etik/opgave 3",
