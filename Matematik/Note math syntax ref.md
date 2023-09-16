@@ -12,7 +12,7 @@ $$
 
 # Normale ting
 
-$x^2$
+$\underbrace{x + \cdots + x}_{n\rm\ times}$
 $x_i$
 $x_{i,j}$
 

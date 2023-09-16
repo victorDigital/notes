@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Brint kvantefysik opgave.md",
+                "file": "Matematik/Note math syntax ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Brint kvantefysik opgave.md",
+                "file": "Matematik/Note math syntax ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Brint kvantefysik opgave.md",
+                "file": "Matematik/Note math syntax ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Brint kvantefysik opgave.md"
+                "file": "Matematik/Note math syntax ref.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "bea136c5d04db24e",
   "lastOpenFiles": [
-    "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
     "Fysik/Brint kvantefysik opgave.md",
+    "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
     "idehistorie/opgave om nytte etik.md",
     "Fysik/Unconfirmed 359645.crdownload",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
