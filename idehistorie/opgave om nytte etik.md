@@ -2,7 +2,7 @@
 *Jeremy Benthams etiske teori handler i modsætning til Kants pligt etik om konsekvenserne frem for hensigten af en handling, Benthams etiske teori, nytte etik, handler om at maksimere glæde og gavn for ikke blot den individuelle men for også for dens næste og samfundet generelt, når en skal træffe et valg skal denne glæde og gavn ikke overvæges med bias, man skal derfor se situationen fra et neutralt perspektiv, i nogle tilfælde bør man "ofre" sig selv for sanfundes gavn, hvis det slatså er dette der skaber mest nytte.*
 
 3. Hvordan ser nytte-etikken på forholdet mellem mellem idealer (fx retfærdighed) og nyttevirkning (konsekvenser)?
-
+nytteetikken
 
 5. Hvorfor er nytteetikken praktisk anvendelig?
 *nytteetikken tillader sammenligning af 2 eller flere situationer ved brug af "nytteberegning" som er en slags objektiv måde at fortolke et dilemma for at finde det bedste udfald ved beregning af forskellige faktorer ifølge nytteetikken.*
@@ -18,5 +18,5 @@
 *en af indvendingerne mod nytteetikken er at nytteetikken strider imod vores moralske intuition, det vil sige at nytteetikken mener at det er etisk korrekt at gøre noget forkert, vi det vil skabe mere behag og lykke, eller endda redde menneskeliv.*
 
 11. Gengiv nytte-etikkens forsvar over for indvendingerne.
-nytte-etikkens forsvare sin påstand ved at sætte spørgsmålstegn ved menneskets moralske intuition, det er af den grund ikke en ringe ting hvis nytte-etikken strider imod den moralske intuition, hvis nytte-etikken er mere pålidelig og fastlagt end den moralske intuition.
+*nytte-etikkens forsvare sin påstand ved at sætte spørgsmålstegn ved menneskets moralske intuition, det er af den grund ikke en ringe ting hvis nytte-etikken strider imod den moralske intuition, hvis nytte-etikken er mere pålidelig og fastlagt end den moralske intuition.*
 
