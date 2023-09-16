@@ -5,7 +5,7 @@
 
 
 5. Hvorfor er nytteetikken praktisk anvendelig?
-
+fordi den nytteetikken tillader sammenligning af 2 eller flere situationer ved brug at "nytteberegning" som er en slags objektiv måde at fortolke 
 
 7. Hvordan måler Bentham en handlings moralske værdi?
 
