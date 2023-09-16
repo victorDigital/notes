@@ -2,7 +2,7 @@
 *Jeremy Benthams etiske teori handler i modsætning til Kants pligt etik om konsekvenserne frem for hensigten af en handling, Benthams etiske teori, nytte etik, handler om at maksimere glæde og gavn for ikke blot den individuelle men for også for dens næste og samfundet generelt, når en skal træffe et valg skal denne glæde og gavn ikke overvæges med bias, man skal derfor se situationen fra et neutralt perspektiv, i nogle tilfælde bør man "ofre" sig selv for sanfundes gavn, hvis det slatså er dette der skaber mest nytte.*
 
 3. Hvordan ser nytte-etikken på forholdet mellem mellem idealer (fx retfærdighed) og nyttevirkning (konsekvenser)?
-nytteetikken
+*nytteetikken fokuserer på at bedømme handlingers moralske værdi baseret på deres konsekvenser. den klassiske nytteetik prioriterer maksimering af samlet nytte over ideelle principper som retfærdighed, medmindre retfærdighed bidrager til at øge den samlede nytte. men andre former for nytteetik forsøger at integrere idealer som retfærdighed som en del af vurderingen af nytteberegningen. *
 
 5. Hvorfor er nytteetikken praktisk anvendelig?
 *nytteetikken tillader sammenligning af 2 eller flere situationer ved brug af "nytteberegning" som er en slags objektiv måde at fortolke et dilemma for at finde det bedste udfald ved beregning af forskellige faktorer ifølge nytteetikken.*
