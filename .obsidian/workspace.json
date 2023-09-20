@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/opgave om nytte etik.md",
+                "file": "Dansk/dansk opgave om.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6658f8915d311b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/opgave om nytte etik.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/opgave om nytte etik.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/opgave om nytte etik.md"
+                "file": "Dansk/Analyse, vurdering, og diskussion.md"
               }
             }
           },
@@ -223,33 +235,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a12cc31d370c37f",
+  "active": "d6658f8915d311b6",
   "lastOpenFiles": [
+    "Dansk/Analyse af sagprosa - oversigt over fagbegreber.pdf",
+    "Dansk/dansk opgave om.md",
+    "Dansk/Analyse vurdering og diskussion - opgavebeskrivelse og tekster (1).pdf",
+    "Dansk/Unconfirmed 502323.crdownload",
+    "Dansk/Pasted image 20230918125522.png",
+    "Dansk/Kortfilm analyse spørgsmål.md",
+    "Dansk/Unconfirmed 47743.crdownload",
+    "Dansk/Analyse, vurdering, og diskussion.md",
+    "idehistorie/opgave om nytte etik.md",
+    "Fysik/JetBrainsMono/readme.md",
+    "Fysik/JetBrainsMono/OFL.txt",
+    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontMono-Medium.ttf",
+    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFont-Medium.ttf",
+    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontPropo-Medium.ttf",
+    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFont-SemiBold.ttf",
+    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontPropo-SemiBold.ttf",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
     "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Kemi/formatter.md",
     "Matematik/Note math syntax ref.md",
     "Fysik/Brint kvantefysik opgave.md",
-    "Fysik/Eksamensopgave Brintatomet og Bohrs atommodel (1).pdf",
-    "idehistorie/opgave om nytte etik.md",
-    "Fysik/Unconfirmed 359645.crdownload",
     "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
     "idehistorie/Etik/Nytte og Pligt etik.md",
     "bentham.md",
-    "idehistorie/Etik/opgave 3",
-    "Fysik/Ekstra opgaver til lys og kvantefysik.pdf",
     "Programmering/Logbog.md",
-    "Fysik/Unconfirmed 707574.crdownload",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "English/Analysis of non-fiction text.md",
-    "Dansk/Analyse, vurdering, og diskussion.md",
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Etik/Etik - Forløbsforside.md",
-    "idehistorie/Etik/opgave 1/Etik A, side 2.pdf",
-    "idehistorie/Etik/opgave 1/~$ik A - opgave.docx",
-    "idehistorie/Etik/opgave 1/Etik A, side 1.pdf",
     "Matematik/Vector ref.md",
     "Fysik/Lys og brydning opgave.md",
     "English/One world down the drain.md",
@@ -258,19 +276,12 @@
     "Fysik/Brydnings opgaver.md",
     "Fysik/Brydning.md",
     "Fysik/Refleksion.md",
-    "Dansk/Menneske og teknologi.md",
-    "Teknologi/miljøvurdering.md",
-    "Fag/L 2di MA.md",
-    "idehistorie/Etik/etik A.md",
     "Matematik/Pasted image 20230822185716.png",
-    "Fysik/Opgaver_brydning_refleksion.pdf",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
-    "Dansk",
     "Fysik/Untitled.canvas",
     "Pasted image 20230815135253.png",
     "Kemi/Pasted image 20230815123709.png",
-    "Kemi/Pasted image 20230815112122.png",
-    "Fysik/Bølgelængde.png"
+    "Kemi/Pasted image 20230815112122.png"
   ]
 }
