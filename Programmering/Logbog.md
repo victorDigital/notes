@@ -462,8 +462,16 @@ int[][] liste = new int[3][4];
 for (int i = 0; i < liste.length; i++) {
     for (int j = 0; j < liste[i].length; j++) {
         liste[i][j] = (int) (Math.random() * 100);
-        println(liste[i][j]);
     }
+}
+
+//sum
+for (int i = 0; i < liste.length; i++) {
+    int sum = 0;
+    for (int j = 0; j < liste[i].length; j++) {
+        sum += liste[i][j];
+    }
+    println("Summen af række " + i + " er " + sum);
 }
 ```
 
@@ -529,4 +537,33 @@ for (int i = 0; i < matrix1.length; i++) {
 ```
 
 1. Skriv program der kan multiplicere to matricer
+```java
+int[][] matrix1 = {
+    {1, 2},
+    {4, 5}
+};
 
+int[][] matrix2 = {
+    {2, 8},
+    {5, 5}
+};
+
+int[][] result = new int[matrix1.length][matrix2[0].length];
+
+for (int i = 0; i < result.length; i++) {
+    for (int j = 0; j < result[0].length; j++) {
+        // k er lig kollonner i matrix1 og rækker i matrix2 jeg jeg under 2 hjerneceller tilbage
+        for (int k = 0; k < matrix1[0].length; k++) {
+            result[i][j] += matrix1[i][k] * matrix2[k][j];
+        }
+    }
+}
+
+// Display result
+for (int i = 0; i < result.length; i++) {
+    for (int j = 0; j < result[0].length; j++) {
+        print(result[i][j] + " ");
+    }
+    println();
+}
+```
