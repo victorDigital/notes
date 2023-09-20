@@ -442,3 +442,36 @@ for (int i = 0; i < 12; i++) {
   println(months[i]);
 }
 ```
+
+## Flerdimensionelle arrays opgaver
+1. Opret en 3x3 matrix og find værdien i midten (anden række, anden kolonne).
+```java
+int[][] liste = {
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+};
+
+println(liste[1][1]);
+```
+
+3. Opret en 2D matrix med 3 rækker og 4 kolonner, fyld den med tilfældige tal og beregn summen af hver række. Udskriv resultaterne.
+```java
+int[][] liste = new int[3][4];
+
+for (int i = 0; i < liste.length; i++) {
+    for (int j = 0; j < liste[i].length; j++) {
+        liste[i][j] = (int) (Math.random() * 100);
+        println(liste[i][j]);
+    }
+}
+```
+
+1. Opret en 2D matrix, og transponer den, dvs. skift rækker og kolonner. Udskriv både den oprindelige og transponerede matrix
+
+
+1. Opret to 2D matricer og find en metode der kan sammenligne om de har ens indhold
+
+
+1. Skriv program der kan multiplicere to matricer
+
