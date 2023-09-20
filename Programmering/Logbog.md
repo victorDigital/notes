@@ -468,10 +468,65 @@ for (int i = 0; i < liste.length; i++) {
 ```
 
 1. Opret en 2D matrix, og transponer den, dvs. skift rækker og kolonner. Udskriv både den oprindelige og transponerede matrix
+```java
+int[][] matrix = {
+  {1, 2, 3},
+  {4, 5, 6},
+  {7, 8, 9}
+};
 
+//transponer matrix
+int[][] transponeredeMatrix = new int[matrix[0].length][matrix.length];
+for (int i = 0; i < matrix.length; i++) {
+  for (int j = 0; j < matrix[0].length; j++) {
+    transponeredeMatrix[j][i] = matrix[i][j];
+  }
+}
+
+//udskriv
+for (int i = 0; i < matrix.length; i++) {
+  for (int j = 0; j < matrix[0].length; j++) {
+    print(matrix[i][j] + " ");
+  }
+  println();
+}
+
+println();
+
+for (int i = 0; i < transponeredeMatrix.length; i++) {
+  for (int j = 0; j < transponeredeMatrix[0].length; j++) {
+    print(transponeredeMatrix[i][j] + " ");
+  }
+  println();
+}
+```
 
 1. Opret to 2D matricer og find en metode der kan sammenligne om de har ens indhold
+```java
+int[][] matrix1 = {
+    {1, 2, 3} ,
+    {4, 5, 6} ,
+    {7, 8, 9}
+};
 
+int[][] matrix2 = {
+    {2, 2, 3} ,
+    {6, 5, 7} ,
+    {7, 8, 6}
+};
+
+if (matrix1.length != matrix2.length || matrix1[0].length != matrix2[0].length) {
+    println("The matrices cannot be compared.");
+    System.exit(1);
+}
+
+for (int i = 0; i < matrix1.length; i++) {
+    for (int j = 0; j < matrix1[0].length; j++) {
+        print(matrix1[i][j] == matrix2[i][j] ? "T " : "F ");
+    }
+    println();
+}
+```
 
 1. Skriv program der kan multiplicere to matricer
 
