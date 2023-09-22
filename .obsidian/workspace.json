@@ -6,7 +6,6 @@
       {
         "id": "b0d581ab5d3a74db",
         "type": "tabs",
-        "dimension": 47.31182795698925,
         "children": [
           {
             "id": "b194bb9a1b56fff9",
@@ -105,6 +104,18 @@
             }
           },
           {
+            "id": "e0955725138bef03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmering/Logbog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "84cf4f5609d54ae6",
             "type": "leaf",
             "state": {
@@ -129,26 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "32324251eea06300",
-        "type": "tabs",
-        "dimension": 52.68817204301075,
-        "children": [
-          {
-            "id": "e0955725138bef03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/analysis of 1984.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/analysis of 1984.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/analysis of 1984.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/analysis of 1984.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -305,8 +297,8 @@
   },
   "active": "e0955725138bef03",
   "lastOpenFiles": [
-    "English/1984 (excerpt).md",
     "English/analysis of 1984.md",
+    "English/1984 (excerpt).md",
     "English/dystopia.md",
     "Fag/L 2di En.md",
     "Matematik/Pasted image 20230920123547.png",
