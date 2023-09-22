@@ -48,4 +48,9 @@ not much is known from the short text [[1984 (excerpt)]]
 
 Values important to the main character
 ha values freedom and not being watched 
-likely order ass well 
+likely order as well idk
+
+Static or dynamic
+**Static**
+
+
