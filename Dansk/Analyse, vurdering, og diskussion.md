@@ -8,7 +8,7 @@ situation: samfundsrelevant
 info: oplysning om dataspor
 mening: giver sin holdning
 
-___Det gør argumentet stærkere at flere eksempler på det samme___
+___Det gør argumentet stærkere at have flere eksempler på det samme___
 ***hans misforståelse af GPT-3 som GTP-3 nedsætter hans etos gevaldigt*** 
 ***Der er ikke nogen gendrivelse, det gør hele teksten mindre stærkt imod modargumenter***
 ***ALTID OVERVEJ HVORDAN ARGUMENTTYPEN SPILLER IND***
@@ -45,7 +45,7 @@ R: (det er der mange eksempler på)
 jeg er filosof (stol på mig)
 
 G: (med mindre)
-_legit hele teksten_
+ikke noget
 
 H: (folk der ikke laver sine lektier dumper)
 ting der kan hjælpe med samfundets udvikling og udfordringer er gode 

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Logbog.md"
+                "file": "Dansk/Analyse, vurdering, og diskussion.md"
               }
             }
           },
@@ -297,6 +297,7 @@
   },
   "active": "e0955725138bef03",
   "lastOpenFiles": [
+    "Programmering/Logbog.md",
     "English/analysis of 1984.md",
     "English/1984 (excerpt).md",
     "English/dystopia.md",
@@ -306,7 +307,6 @@
     "Fysik/Ø10.5.md",
     "Matematik/projektion af vektor på vektor.md",
     "Matematik/vektor beviser.md",
-    "Programmering/Logbog.md",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Dansk/Analyse af sagprosa - oversigt over fagbegreber.pdf",
     "Dansk/dansk opgave om.md",
