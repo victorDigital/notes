@@ -68,6 +68,16 @@ likely order as well idk
 Static or dynamic
 **Static**
 
+
+## Winston Smith
+Winston Smith $\Rightarrow$ Winston Churchill
+is a normal person
+is a small frail person
+he wears the uniform of the party
+he wears blue overalls 
+is weak - maybe starving
+he is mistser "nobody"
+
 ## Themes
 A theme is the underlying topic or the universal idea which the author wants to pass on to the reader through the literary text. Often, the theme is not expressed directly in the text but the reader has to read between the lines to guess the theme through reading and analysing especially setting and characters. A theme can be the moral of the story. It can be about universal ideas, general human conditions such as love, hate and relationships or about conditions concerning specific groups such as immigrants, children or cultures.
 
