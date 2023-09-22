@@ -20,9 +20,15 @@ You have to consider what role the physical setting plays in the story. Is it a
 However, setting is not only a physical description of a place connected to the story. It can also set the mood of the story. Mood is the feeling the story creates in the reader such as happy, sad or scared. It is created by giving the reader images of the setting and creating a certain feeling/mood in the reader. By choosing specific words and by weaving their [connotations](https://theenglishhandbook.systime.dk/index.php?id=167#c413) together, it is possible for the author to give the setting a particular atmosphere. Look at the following two descriptions of a rose.
 
 1984 - predicting the future
-midday spring
+midday spring (1 PM)
 in the city, in an apartment complex
 second class (not upper) - smelly
+
+time is set in military time, could mean less focus on the individual and more on the collective
+
+no privacy - for the greater good - relates to big brother
+
+no working elevators, worn down
 
 
 ## Characterization
@@ -71,3 +77,4 @@ Totalitarianism - *is a form of government and a political system that prohibits
 
 ## Symbolism
 INGSOG
+13 is an unlucky number
