@@ -1,5 +1,9 @@
 [[1984 (excerpt)]] [[L 2di En]]
 
+## Narrator/Point Of View (POV)
+Narrator/POV is important in a literary text because it determines through whose eyes the reader experiences the story. Therefore, the type of narrator/POV chosen for a story influences what you as a reader get to know about especially the characters in the story. The two most common types of narrator/POV are first person narrator and third person narrator. The following overview shows the main characteristics of the two types of narrator/POV.
+
+we see the excerpt from a 3. person POV, it primarily focuses on the thoughts of Winston Smith which is the protagonist in [[1984 (excerpt)]]
 
 ## Setting
 Setting is a description of where and when the story takes place. In a short story there are fewer settings compared to a novel. This is due to the fact that a short story is inherently a shorter story than the one told in a novel.
@@ -18,7 +22,7 @@ However, setting is not only a physical description of a place connected to the 
 1984 - predicting the future
 midday spring
 in the city, in an apartment complex
-second class
+second class (not upper)
 
 
 ## Characterization
@@ -38,16 +42,17 @@ age: 39
 male
 
 *internal*
-fearing of big brother, anxiety
+fearing of **big brother**, anxiety
 
 Personal characteristics
 fearful
+**does not like surveillance**
 
 Social characteristics
-not much is known from the short text [[1984 (excerpt)]] 
+not much is known from the short excerpt [[1984 (excerpt)]] 
 
 Values important to the main character
-ha values freedom and not being watched 
+he values freedom and not being watched / under surveillance
 likely order as well idk
 
 Static or dynamic
@@ -61,4 +66,6 @@ dystopia
 future
 dark 
 surveillance and control
-Totalitarianism - *is a form of government and a political system that prohibits all opposition parties, outlaws individual and group opposition to the state and its claims, and exercises an extremely high if not complete degree of control and regulation over public and private life.*
+Totalitarianism - *is a form of government and a political system that prohibits all opposition parties, outlaws individual and group opposition to the state and its claims, and exercises an extremely high if not complete degree of control and regulation over public and private life.* https://en.wikipedia.org/wiki/Totalitarianism
+
+
