@@ -22,7 +22,7 @@ However, setting is not only a physical description of a place connected to the 
 1984 - predicting the future
 midday spring
 in the city, in an apartment complex
-second class (not upper)
+second class (not upper) - smelly
 
 
 ## Characterization
@@ -69,3 +69,5 @@ surveillance and control
 Totalitarianism - *is a form of government and a political system that prohibits all opposition parties, outlaws individual and group opposition to the state and its claims, and exercises an extremely high if not complete degree of control and regulation over public and private life.* https://en.wikipedia.org/wiki/Totalitarianism
 
 
+## Symbolism
+INGSOG
