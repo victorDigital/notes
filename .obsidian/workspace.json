@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Key characteristics of dystopian fiction.md",
+                "file": "English/1984 (excerpt).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a7c130dd99201e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dystopia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16a011aa142817f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/1984 (excerpt).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +128,34 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "32324251eea06300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0955725138bef03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fag/L 2di En.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c172e2472cda120",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Key characteristics of dystopian fiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +237,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Key characteristics of dystopian fiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +258,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Key characteristics of dystopian fiction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,10 +307,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "004e58a74c0ed340",
+  "active": "6c172e2472cda120",
   "lastOpenFiles": [
-    "Fysik/Ø10.5.md",
+    "analysis of 1984.md",
+    "dystopia.md",
+    "Fag/L 2di En.md",
     "English/Key characteristics of dystopian fiction.md",
+    "English/1984 (excerpt).md",
+    "Fysik/Ø10.5.md",
     "projektion af vektor på vektor.md",
     "Pasted image 20230920123547.png",
     "Matematik/vektor beviser.md",
@@ -297,11 +349,7 @@
     "Fysik/Undersøgelse af lysets brydning og totalrefleksion.md",
     "idehistorie/Etik/etik vs. morale.md",
     "idehistorie/Etik/Etik - Forløbsforside.md",
-    "Matematik/Vector ref.md",
-    "Fysik/Lys og brydning opgave.md",
-    "English/One world down the drain.md",
     "Matematik/Pasted image 20230828141512.png",
-    "Fysik/lysets bølgemodel.md",
     "Matematik/Pasted image 20230822185716.png",
     "Fysik/Pasted image 20230818094737.png",
     "Fysik/Pasted image 20230818094421.png",
