@@ -30,6 +30,10 @@ no privacy - for the greater good - relates to big brother
 
 no working elevators, worn down
 
+no color - lifeless - devoid of life, except for the posters - hollow
+
+
+
 
 ## Characterization
 haracterization deals with how the characters in the story are described and develop. A main character in a text is called a protagonist. In some cases, the main character can be an antagonist. Short stories have fewer characters than novels and they usually focus on one central character or protagonist. Novels, on the other hand, may have more than one important main character. Characterization is crucial in literary works because the characters move the story forward and make it interesting to read and relate to. When you analyse important characters in a text, it is essential that you look beyond their physical appearance. The way you get to know the true nature of the characters is often through their actions and relations to others. An author can choose to write a direct characterization (_Sally was kind and helpful to other people_) or indirect by showing what the character is like through the character's actions and relations to others (_Sally helped the old woman finding her way home_). Often, the main character(s) will go through a development in a story. Thus, when analyzing a character in a literary text, you should look for the following:
