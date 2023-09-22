@@ -54,6 +54,11 @@ Static or dynamic
 **Static**
 
 ## Themes
+A theme is the underlying topic or the universal idea which the author wants to pass on to the reader through the literary text. Often, the theme is not expressed directly in the text but the reader has to read between the lines to guess the theme through reading and analysing especially setting and characters. A theme can be the moral of the story. It can be about universal ideas, general human conditions such as love, hate and relationships or about conditions concerning specific groups such as immigrants, children or cultures.
 
-
-
+"big brother"
+dystopia
+future
+dark 
+surveillance and control
+Totalitarianism - *is a form of government and a political system that prohibits all opposition parties, outlaws individual and group opposition to the state and its claims, and exercises an extremely high if not complete degree of control and regulation over public and private life.*
