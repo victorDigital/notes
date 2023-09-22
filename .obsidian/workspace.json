@@ -6,6 +6,7 @@
       {
         "id": "b0d581ab5d3a74db",
         "type": "tabs",
+        "dimension": 38.01597869507324,
         "children": [
           {
             "id": "b194bb9a1b56fff9",
@@ -133,6 +134,7 @@
       {
         "id": "32324251eea06300",
         "type": "tabs",
+        "dimension": 61.98402130492676,
         "children": [
           {
             "id": "e0955725138bef03",
@@ -150,8 +152,12 @@
             "id": "6c172e2472cda120",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "analysis of 1984.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -221,6 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "analysis of 1984.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,6 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "analysis of 1984.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +266,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "analysis of 1984.md"
+              }
             }
           },
           {
@@ -309,9 +319,9 @@
   },
   "active": "6c172e2472cda120",
   "lastOpenFiles": [
+    "Fag/L 2di En.md",
     "analysis of 1984.md",
     "dystopia.md",
-    "Fag/L 2di En.md",
     "English/Key characteristics of dystopian fiction.md",
     "English/1984 (excerpt).md",
     "Fysik/Ø10.5.md",
