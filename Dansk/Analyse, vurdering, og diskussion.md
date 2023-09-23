@@ -31,12 +31,13 @@ Kunstig intelligens er vores eneste redning. Men vi har brug for et wakeupcall
 - l. 131-133 "bør ikke forbyde"
 	- B l. 133-143
 	- H "vi bør ikke forbyde ting da alt kan være farligti de forkerte hænder"
-- l. 185-193 "kunstig intelligens er vores **eneste** redning"
-	- IKKE B l. 195-197
-	- bruger retorisk spg.
 - l. 149-152 "etik + eksistentialisme"
 	- B l. 152-157
 	- H: "fordi vi skal overveje vores tid"
+- l. 185-193 "kunstig intelligens er vores **eneste** redning"
+	- IKKE B l. 195-197
+	- bruger retorisk spg.
+
 
 B: (Søren laver ikke sine lektier)
 Tværtimod tror jeg at kunstig intelligens er vores eneste redning mod både klimaforandringer, krig, sult og radikalisering.
