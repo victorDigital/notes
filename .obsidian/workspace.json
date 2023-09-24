@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
+                "file": "Dansk/Analyse, vurdering, og diskussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md"
+                "file": "Dansk/Analyse, vurdering, og diskussion.md"
               }
             }
           },
@@ -297,8 +297,8 @@
   },
   "active": "e0955725138bef03",
   "lastOpenFiles": [
-    "Dansk/Analyse, vurdering, og diskussion.md",
     "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
+    "Dansk/Analyse, vurdering, og diskussion.md",
     "Kemi/formatter.md",
     "Programmering/Logbog.md",
     "English/analysis of 1984.md",
