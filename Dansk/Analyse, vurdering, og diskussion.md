@@ -30,7 +30,7 @@ Kunstig intelligens er vores eneste redning. Men vi har brug for et wakeupcall
 	- H ""
 - l. 131-133 "bør ikke forbyde"
 	- B l. 133-143
-	- H "vi bør ikke forbyde ting da alt kan være farligti de forkerte hænder"
+	- H "vi bør ikke forbyde ting da alt kan være farligt de forkerte hænder"
 - l. 149-152 "etik + eksistentialisme"
 	- B l. 152-157
 	- H: "fordi vi skal overveje vores tid"
