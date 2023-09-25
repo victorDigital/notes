@@ -41,7 +41,7 @@ $$
 \vec{b}_a=\frac{|\vec{b}_a|}{|\vec{a}|}\cdot\vec{a}=\frac{|\vec{b}|\cdot\cos(v)}{|\vec{a}|}\cdot\vec{a} =\frac{|\vec{a}|\cdot |\vec{b}|\cdot\cos(v)}{|\vec{a}|^2}\cdot\vec{a}
 $$
 
-da tælleren er lig definitionen for skalarproduket kan vi omskrive:
+da tælleren er lig definitionen for skalarproduktet kan vi omskrive:
 # 6
 $$
 \vec{b}_a=\frac{|\vec{a}|\cdot |\vec{b}|\cdot\cos(v)}{|\vec{a}|^2}\cdot\vec{a}=\frac{\vec{a}\bullet\vec{b}}{|\vec{a}|^2}\cdot\vec{a}
