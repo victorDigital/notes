@@ -128,25 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "1ee13b8c008ff787",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "004e58a74c0ed340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/1984 (excerpt).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/analysis of 1984.md",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/analysis of 1984.md",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/analysis of 1984.md"
+                "file": "Matematik/projektion af vektor på vektor.md"
               }
             }
           },
@@ -301,10 +283,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "16a011aa142817f1",
+  "active": "1b45842a6f0b3a01",
   "lastOpenFiles": [
-    "English/1984 (excerpt).md",
     "English/analysis of 1984.md",
+    "English/1984 (excerpt).md",
     "Dansk/hvad skal vi med digte.md",
     "Kemi/formatter.md",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
