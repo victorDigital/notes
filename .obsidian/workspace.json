@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/1984 (excerpt).md",
+                "file": "English/analysis of 1984.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/1984 (excerpt).md",
+                "file": "English/analysis of 1984.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/1984 (excerpt).md"
+                "file": "English/analysis of 1984.md"
               }
             }
           },
@@ -301,10 +301,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "004e58a74c0ed340",
+  "active": "16a011aa142817f1",
   "lastOpenFiles": [
-    "English/analysis of 1984.md",
     "English/1984 (excerpt).md",
+    "English/analysis of 1984.md",
     "Dansk/hvad skal vi med digte.md",
     "Kemi/formatter.md",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",

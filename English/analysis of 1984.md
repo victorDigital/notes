@@ -36,8 +36,6 @@ no color - lifeless - devoid of life, except for the posters - hollow
 ## Mood
 "The hallway smelt of boiled cabbage and old rag mats"
 
-meagreness
-
 coarse soap and blunt razor blades
 
 the world looked cold
