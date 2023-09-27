@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "004e58a74c0ed340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/1984 (excerpt).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13a7c130dd99201e",
             "type": "leaf",
             "state": {
@@ -85,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/1984 (excerpt).md",
+                "file": "English/analysis of 1984.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +128,25 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "1ee13b8c008ff787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004e58a74c0ed340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/1984 (excerpt).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/hvad skal vi med digte.md",
+                "file": "English/1984 (excerpt).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/hvad skal vi med digte.md",
+                "file": "English/1984 (excerpt).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/hvad skal vi med digte.md"
+                "file": "English/1984 (excerpt).md"
               }
             }
           },
@@ -295,10 +301,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bea136c5d04db24e",
+  "active": "004e58a74c0ed340",
   "lastOpenFiles": [
-    "Kemi/formatter.md",
+    "English/analysis of 1984.md",
+    "English/1984 (excerpt).md",
     "Dansk/hvad skal vi med digte.md",
+    "Kemi/formatter.md",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
     "Matematik/Unconfirmed 384114.crdownload",
@@ -308,11 +316,9 @@
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
     "Programmering/Logbog.md",
-    "English/analysis of 1984.md",
     "English/dystopia.md",
     "Fag/L 2di En.md",
     "English/sustainability.md",
-    "English/1984 (excerpt).md",
     "Matematik/Pasted image 20230920123547.png",
     "English/Key characteristics of dystopian fiction.md",
     "Fysik/Ø10.5.md",
