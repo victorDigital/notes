@@ -21,7 +21,7 @@ $$
 $$
 t=\frac{-|\vec{b}_a|}{|\vec{a}|}\;\text{, hvis}\; v\;\text{er en stump vinkel}
 $$
-vi kan nu indsætte $\frac{-|\vec{b}_a|}{|\vec{a}|}$ istedet for $t$
+vi kan nu indsætte $\frac{|\vec{b}_a|}{|\vec{a}|}$ istedet for $t$
 
 # 3
 $$
