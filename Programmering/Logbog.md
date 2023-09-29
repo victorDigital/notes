@@ -569,16 +569,71 @@ for (int i = 0; i < result.length; i++) {
 ```
 ## Opgaver i funktioner
 1. Hvad bruges krølle-parenteser til i en funktion (og hvad bruges krølle-parenteser til generelt…)
+Krølle-parenteser bruges til at definere en funktion, og til at definere sub-rutiner i koden
+
 2. Hvad anvendes almindelige parenteser til i en funktion
+Parenteser bruges til at definere parametre i en funktion
+
+
 3. Hvad betyder “returtype” og hvor skrives den i en funktion
+Returtype er den type data som funktionen returnere, den skrives før funktionens navn F.eks. `int funktion() { ... }`
+
 4. Hvad er forskellen på argumenter og parametre
+Parametre bruges når en funktion defineres, argumenter bruges når funktionen kaldes
+
 5. Hvornår er det smart at bruge funktioner
+funktioner er brugbare når der er brug for at gentage en bestemt opgave flere gange, eller når der er brug for at opdele koden i mindre dele
+
 6. Hvad betyder “return” og hvordan anvendes det
+return bruges til at returnere en værdi fra en funktion, f.eks. `return 5;`. Dog skal denne værdi være af samme type som funktionens returtype
+
 7. Hvad betyder “void” og hvordan anvendes det
+void betyder at funktionen ikke returnere noget, f.eks. `void funktion() { ... }`
+
 8. Lav en funktion med navnet “udskriv10”, der kan udskrive 10-tabellen.
-9. Lav en funktion med navnet “gangMed10”, der modtager et tal som parameter og returnere tallet multipliceret med 10
+```java
+void udskriv10() {
+    for (int i = 1; i <= 10; i++) {
+        println(i * 10);
+    }
+}
+```
+
+9.  Lav en funktion med navnet “gangMed10”, der modtager et tal som parameter og returnere tallet multipliceret med 10
+```java
+// denne funktion returnere kun hele tal (int) da funktionen kun tager imod hele tal i parameteren tal 
+int gangMed10(int tal) {
+    return tal * 10;
+}
+```
 10. Lav en funktion med navnet “udskrivTabel”, der modtager et tal og udskriver de første 10 tal af den tabel, der svarer til inputtet
+```java
+void udskrivTabel(int tal) {
+    for (int i = 1; i <= 10; i++) {
+        println(i * tal);
+    }
+}
+```
 11. Lav en funktion “mult”, der modtager to tal som parametre, og returnere resultatet som er de to tal ganget sammen
+```java
+int mult(int tal1, int tal2) {
+    return tal1 * tal2;
+}
+```
 12. Lav en ny funktion med samme navn “mult”, der modtager tre tal som parametre. Den nye funktion skal anvende funktionen fra spørgsmål 2 til at gange 3 tal sammen
+```java
+int mult3(int tal1, int tal2, int tal3) {
+    return mult(tal1, tal2) * tal3;
+}
+```
 13. (frivillig) Hvad betyder rekursion - prøv at slå det op
-14. (frivillig) Give et eksempel på en funktion, der anvender rekursion. Funktionen skal modtage et tal som parameter og returnere fakultet af tallet. F.eks. beregnes fakultet af 5 således 5! = 5x4x3x2x1
+rekursion er når en funktion kalder sig selv, f.eks. `void funktion() { funktion(); }` dette er et eksempel på en uendelig løkke som vil resultere i et crash af systemet :(
+1.  (frivillig) Give et eksempel på en funktion, der anvender rekursion. Funktionen skal modtage et tal som parameter og returnere fakultet af tallet. F.eks. beregnes fakultet af 5 således 5! = 5x4x3x2x1
+```java
+int fakultet(int tal) {
+    if (tal == 1) {
+        return 1;
+    }
+    return tal * fakultet(tal - 1);
+}
+```
