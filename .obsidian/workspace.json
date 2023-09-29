@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newspeak.md",
+                "file": "Programmering/Logbog.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newspeak.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newspeak.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newspeak.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -297,8 +297,8 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
-    "English/dystopia.md",
     "Newspeak.md",
+    "English/dystopia.md",
     "Fysik/Det skrå kast.md",
     "Matematik/projektion af vektor på vektor.md",
     "English/analysis of 1984.md",
