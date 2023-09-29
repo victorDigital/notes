@@ -638,6 +638,31 @@ int fakultet(int tal) {
 }
 ```
 
+## Opgaver:
+
+1. Arbejde med Primitiver: Opret to variabler af typen int og tildel dem samme værdi. Prøv at ændre værdien af den ene variabel og se, hvordan det påvirker den anden.
+```java	
+int a = 5;
+int b = a;
+a = 10;
+println(b); // b er stadig 5
+```
+2. Arbejde med Primitiv Arrays: Opret et primitivt array, f.eks. int[], og tildel det til en anden reference. Prøv at ændre værdierne i det originale array og se, om det påvirker den anden reference.
+```java
+int[] a = {1, 2, 3};
+int[] b = a;
+a[0] = 10;
+println(b[0]); // b[0] er nu 10
+```
+3. Arbejde med Arrays: Opret et array af strenge og tildel det til en anden reference. Fjern eller tilføj elementer til det originale array og se, hvordan det påvirker den anden reference.
+```java
+String[] a = {"a", "b", "c"};
+String[] b = a;
+a[0] = "d";
+println(b[0]); // b[0] er nu "d"
+```
+
+
 ## Meget svære opgaver i funktioner
 1. Lav en rekursiv funktion “int fib(int t)” der kan retunere et bestemt tal i fibonacci-talrækken. F.eks. fib(6) = 5 og fib(8) = 13.  
     https://da.wikipedia.org/wiki/Fibonacci-tal  
@@ -657,12 +682,6 @@ int fib(int t) {
 2. Lav en anden funktion, som vha. “fib” tegner følgende mønster:  
     https://da.wikipedia.org/wiki/Fibonacci-tal#/media/Fil:FibonacciBlocks.svg
 ```java
-void setup() {
-    size(500, 500);
-    background(0);
-    stroke(255);
-    strokeWeight(2);
-    noFill();
-    translate(width / 2, height / 2);
-    fib(10);
-}
+
+```
+
