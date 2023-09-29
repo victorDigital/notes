@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "2fd6e9649360f314",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "13a7c130dd99201e",
             "type": "leaf",
             "state": {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,7 +293,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1b45842a6f0b3a01",
+  "active": "2fd6e9649360f314",
   "lastOpenFiles": [
     "Matematik/projektion af vektor på vektor.md",
     "Fysik/Det skrå kast.md",
