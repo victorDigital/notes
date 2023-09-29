@@ -637,3 +637,11 @@ int fakultet(int tal) {
     return tal * fakultet(tal - 1);
 }
 ```
+
+## Meget svære opgaver i funktioner
+1. Lav en rekursiv funktion “int fib(int t)” der kan retunere et bestemt tal i fibonacci-talrækken. F.eks. fib(6) = 5 og fib(8) = 13.  
+    https://da.wikipedia.org/wiki/Fibonacci-tal  
+    https://en.wikipedia.org/wiki/Recursion
+    
+2. Lav en anden funktion, som vha. “fib” tegner følgende mønster:  
+    https://da.wikipedia.org/wiki/Fibonacci-tal#/media/Fil:FibonacciBlocks.svg
