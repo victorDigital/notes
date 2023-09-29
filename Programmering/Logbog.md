@@ -683,5 +683,29 @@ int fib(int t) {
     https://da.wikipedia.org/wiki/Fibonacci-tal#/media/Fil:FibonacciBlocks.svg
 ```java
 
-```
+int fib(int t) {
+    if (t == 0) {
+        return 0;
+    }
+    if (t == 1) {
+        return 1;
+    }
+    return fib(t - 1) + fib(t - 2);
+}
+void setup() {
+    size(500, 500);
+    background(0);
+    stroke(255);
+    strokeWeight(2);
+    noFill();
+    translate(250, 250);
 
+    
+    for(int i = 0; i < 15 ; i++) {
+        rect(0,0,fib(i),fib(i));
+        rotate(radians(90));
+        translate(-fib(i)*0.61803398875,0);
+    }
+}
+```
+NOTE: 0.61803398875 er den gyldne ratio -1 (jeg startede med at approksimere denne værdi før jeg kiggede på Wikipedia 🤠 som var klogere end mig)
