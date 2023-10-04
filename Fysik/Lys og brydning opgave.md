@@ -1,3 +1,4 @@
+[[L 2di Fy]]
 ## a) Beregn lysets fart i glasset. 
 vi kender formlen:
 $$

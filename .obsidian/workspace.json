@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Det skrå kast.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Det skrå kast.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Det skrå kast.md",
+                "file": "Fysik/Brydnings opgaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Det skrå kast.md"
+                "file": "Fysik/Brydnings opgaver.md"
               }
             }
           },
@@ -297,6 +297,10 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
+    "Fysik/lysets bølgemodel.md",
+    "Fysik/Lys og brydning opgave.md",
+    "Kemi/formatter.md",
+    "Fysik/Det skrå kast.md",
     "English/One world down the drain.md",
     "English/Newspeak.md",
     "English/dystopia.md",
@@ -305,12 +309,10 @@
     "Matematik/Sammensatte funktioner.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
     "Programmering/Logbog.md",
-    "Fysik/Det skrå kast.md",
     "Matematik/projektion af vektor på vektor.md",
     "English/analysis of 1984.md",
     "English/1984 (excerpt).md",
     "Dansk/hvad skal vi med digte.md",
-    "Kemi/formatter.md",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
     "Matematik/Unconfirmed 384114.crdownload",
@@ -334,8 +336,6 @@
     "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontMono-Medium.ttf",
     "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFont-Medium.ttf",
     "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
-    "Matematik/Note math syntax ref.md",
-    "Fysik/Brint kvantefysik opgave.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",

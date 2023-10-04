@@ -1,0 +1,1 @@
+[[L 2di Fy]] [[Bølgelængde]] [[bølger og lys]] [[Fysik opgave om bølger og interferens]]

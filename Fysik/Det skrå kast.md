@@ -1,4 +1,4 @@
-
+[[L 2di Fy]]
 $$
 y=-\frac{1}{2}g\cdot t^2 + v_{0y}\cdot t+y_0
 $$
