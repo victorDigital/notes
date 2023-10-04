@@ -1,3 +1,4 @@
+[[Environmental ethics]] [[L 2di En]]
 WHILE-READING 1 
 In groups: Share your answers to preparation question 2 on the tone of the poem. Read the poem in the various tones you have suggested, and discuss if you understand the poem differently depending on the way in which it is read aloud. Also discuss the effect of the rhythm of the poem. 
 

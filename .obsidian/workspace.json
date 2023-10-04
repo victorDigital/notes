@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematik/Sammensatte funktioner.md",
+                "file": "Fysik/Det skrå kast.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Sammensatte funktioner.md",
+                "file": "Fysik/Det skrå kast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Sammensatte funktioner.md",
+                "file": "Fysik/Det skrå kast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Sammensatte funktioner.md"
+                "file": "Fysik/Det skrå kast.md"
               }
             }
           },
@@ -297,11 +297,14 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
-    "idehistorie/Etik/opgave 3/Nytte etik.md",
-    "Matematik/Sammensatte funktioner.md",
-    "Programmering/Logbog.md",
-    "Newspeak.md",
+    "English/One world down the drain.md",
+    "English/Newspeak.md",
     "English/dystopia.md",
+    "Kemi/Pasted image 20230925100619.png",
+    "Kemi/pH & pOH.md",
+    "Matematik/Sammensatte funktioner.md",
+    "idehistorie/Etik/opgave 3/Nytte etik.md",
+    "Programmering/Logbog.md",
     "Fysik/Det skrå kast.md",
     "Matematik/projektion af vektor på vektor.md",
     "English/analysis of 1984.md",
@@ -311,7 +314,6 @@
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
     "Matematik/Unconfirmed 384114.crdownload",
-    "Pasted image 20230925100619.png",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
     "Fag/L 2di En.md",
@@ -334,8 +336,6 @@
     "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Matematik/Note math syntax ref.md",
     "Fysik/Brint kvantefysik opgave.md",
-    "idehistorie/Etik/opgave 1/Etik - morale opgave.md",
-    "idehistorie/Etik/Nytte og Pligt etik.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",
