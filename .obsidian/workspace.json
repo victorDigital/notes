@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "English/The Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "English/The Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md",
+                "file": "English/The Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik/Brydnings opgaver.md"
+                "file": "English/The Matrix.md"
               }
             }
           },
@@ -297,6 +297,8 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
+    "Fysik/Brydnings opgaver.md",
+    "English/The Matrix.md",
     "Fysik/lysets bølgemodel.md",
     "Fysik/Lys og brydning opgave.md",
     "Kemi/formatter.md",
@@ -331,11 +333,9 @@
     "Dansk/Kortfilm analyse spørgsmål.md",
     "Dansk/Unconfirmed 47743.crdownload",
     "idehistorie/opgave om nytte etik.md",
-    "Fysik/JetBrainsMono/readme.md",
     "Fysik/JetBrainsMono/OFL.txt",
     "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontMono-Medium.ttf",
     "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFont-Medium.ttf",
-    "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",
