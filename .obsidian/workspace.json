@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematik/Vector ref.md",
+                "file": "idehistorie/kilder/Opgave A.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Vector ref.md",
+                "file": "idehistorie/kilder/Opgave A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Vector ref.md",
+                "file": "idehistorie/kilder/Opgave A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Vector ref.md"
+                "file": "idehistorie/kilder/Opgave A.md"
               }
             }
           },
@@ -297,6 +297,9 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
+    "Matematik/Vector ref.md",
+    "idehistorie/kilder/Opgave A.md",
+    "idehistorie/kilder",
     "English/The Matrix.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/lysets bølgemodel.md",
@@ -330,12 +333,9 @@
     "Dansk/Analyse vurdering og diskussion - opgavebeskrivelse og tekster (1).pdf",
     "Dansk/Unconfirmed 502323.crdownload",
     "Dansk/Pasted image 20230918125522.png",
-    "Dansk/Kortfilm analyse spørgsmål.md",
     "Dansk/Unconfirmed 47743.crdownload",
-    "idehistorie/opgave om nytte etik.md",
     "Fysik/JetBrainsMono/OFL.txt",
     "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontMono-Medium.ttf",
-    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFont-Medium.ttf",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",
