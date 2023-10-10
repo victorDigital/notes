@@ -16,4 +16,4 @@ I kilde 1 og 2 er der mange ligheder, men de er ikke uden uenigheder. I kilde 1 
 
 3) Hvilken kilde vil I stole mest på? Hvorfor?
 
-Jeg stoler mest på kilde 2 da det er den der er mest detaljeret, samt den er hovedtrækkene op bakket at kilde 1
+Jeg stoler mest på kilde 3 da kilden har en vist mængde autoritet, udover det er det en førstehånds kilde. udover det er kilden helt lavpraktisk en meget velformuleret og detaljeret.
