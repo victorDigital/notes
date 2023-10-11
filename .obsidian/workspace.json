@@ -71,9 +71,11 @@
             "id": "760818dd9b4eb802",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Matematik/Pasted image 20230920123547.png"
+                "file": "Matematik/projektion af vektor på vektor.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -204,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematik/Pasted image 20230920123547.png",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematik/Pasted image 20230920123547.png",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematik/Pasted image 20230920123547.png"
+                "file": "Matematik/projektion af vektor på vektor.md"
               }
             }
           },
@@ -295,6 +297,7 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
+    "Matematik/Pasted image 20230920123547.png",
     "Matematik/projektion af vektor på vektor.md",
     "Matematik/vektor beviser.md",
     "idehistorie/kilder/Opgave A.md",
@@ -324,9 +327,7 @@
     "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
     "Fag/L 2di En.md",
     "English/sustainability.md",
-    "Matematik/Pasted image 20230920123547.png",
     "English/Key characteristics of dystopian fiction.md",
-    "Fysik/Ø10.5.md",
     "Dansk/Analyse af sagprosa - oversigt over fagbegreber.pdf",
     "Dansk/Analyse vurdering og diskussion - opgavebeskrivelse og tekster (1).pdf",
     "Dansk/Unconfirmed 502323.crdownload",
