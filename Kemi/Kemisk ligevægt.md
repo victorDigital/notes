@@ -14,7 +14,7 @@ X \underset{exo}{\stackrel{endo}{\rightleftharpoons}} Y
 $$
 
 
-# Ligevægts brøken
+# Ligevægts brøken / ligevægtsloven
 $$
 K_c=\frac{\mbox{stofmængdekoncentrationen af produkter}}{\mbox{stofmængdekoncentrationen af reaktanter}}
 $$
