@@ -32,3 +32,17 @@ stofmængdekoncentrationen af dihydrogen og diiod vil vokse
 b)
 lav temperatur er optimalt hvis man ønsker at fremstille hydrogeniodid
 
+## Opgave 6
+a)
+![[Pasted image 20231011195919.png]]
+b)
+![[Pasted image 20231011195932.png]]
+c)
+Vi ved, at $[H_2] = 2,60 \times 10^{-3} \, M$ og $[I_2] = 2,60 \times 10^{-3} \, M$. 
+Indsæt disse værdier i ligningen og løs for $[HI]$: $$45.8 = \frac{[HI]^2}{(2.60 \times 10^{-3} \, M) \times (2.60 \times 10^{-3} \, M)}$$ $$[HI]^2 = 45.8 \times (2.60 \times 10^{-3} \, M)^2$$$$[HI] = \sqrt{45.8 \times (2.60 \times 10^{-3} \, M)^2}$$$$[HI] \approx \sqrt{45.8 \times 6.76 \times 10^{-6} \, M^2}$$$$[HI] \approx \sqrt{0.000308848} \, M$$$$[HI] \approx 0.01757 \, M$$ Så $[HI]$ ved starten af forsøget var cirka $0.01757 \, M$.
+
+d)
+**Le Chateliers princip**
+**Hastighed af reaktionen**
+
+
