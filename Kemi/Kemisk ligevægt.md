@@ -29,3 +29,6 @@ uden enhed, idet både tælleren og nævneren har enheden $\tiny{M}^2$
 ## Opgave 5
 a)
 stofmængdekoncentrationen af dihydrogen og diiod vil vokse
+b)
+lav temperatur er optimalt hvis man ønsker at fremstille hydrogeniodid
+
