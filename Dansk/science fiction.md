@@ -25,11 +25,8 @@ dystopi
 det der kommer efter mennesket
 
 dystopier og fremtid
-
 samfundet i fremtiden
-
 proteser / cyborgs
-
 ***hvad vil det sige at være et menneske?***
 
 **key points**
@@ -40,3 +37,4 @@ proteser / cyborgs
 	- etiske spørgsmål 
 - det nye menneske / efter vi bliver optimeret (bonnelykke)
 
+"Optimer min gener, ja tak!"

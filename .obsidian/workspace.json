@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dansk/science fiction.md",
+                "file": "Dansk/A-S Marionetter.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/science fiction.md",
+                "file": "Dansk/A-S Marionetter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/science fiction.md",
+                "file": "Dansk/A-S Marionetter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/science fiction.md"
+                "file": "Dansk/A-S Marionetter.md"
               }
             }
           },
@@ -296,10 +296,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f288e9c9f18c3097",
+  "active": "760818dd9b4eb802",
   "lastOpenFiles": [
-    "Kemi/Kemisk ligevægt.md",
+    "Dansk/Analyse, vurdering, og diskussion.md",
+    "Dansk/A-S Marionetter.md",
     "Dansk/science fiction.md",
+    "Kemi/Kemisk ligevægt.md",
     "Pasted image 20231011195932.png",
     "Pasted image 20231011195919.png",
     "Kemi/pH & pOH.md",
@@ -327,8 +329,6 @@
     "Kemi/Pasted image 20230925100619.png",
     "Matematik/Sammensatte funktioner.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
-    "Programmering/Logbog.md",
-    "English/analysis of 1984.md",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
     "Matematik/Unconfirmed 384114.crdownload",
