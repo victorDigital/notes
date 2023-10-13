@@ -1,4 +1,5 @@
 [[L 2di DA]]
+#da
 
 det er fiktivt
 fremtidsscenarie
@@ -38,3 +39,10 @@ proteser / cyborgs
 - det nye menneske / efter vi bliver optimeret (bonnelykke)
 
 "Optimer min gener, ja tak!"
+
+
+# Isaac Asimovs robotlove
+et par love for at sikre den menneskelige rase:
+
+ift: [[A-S Marionetter]]
+den bryder 0, 1 og 2 lov, men ikke 3 lov.

@@ -71,12 +71,8 @@
             "id": "760818dd9b4eb802",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dansk/A-S Marionetter.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -186,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/A-S Marionetter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +219,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/A-S Marionetter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,9 +240,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dansk/A-S Marionetter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -298,9 +291,9 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
-    "Dansk/Analyse, vurdering, og diskussion.md",
-    "Dansk/A-S Marionetter.md",
     "Dansk/science fiction.md",
+    "Dansk/A-S Marionetter.md",
+    "Dansk/Analyse, vurdering, og diskussion.md",
     "Kemi/Kemisk ligevægt.md",
     "Pasted image 20231011195932.png",
     "Pasted image 20231011195919.png",
