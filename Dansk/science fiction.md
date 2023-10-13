@@ -18,3 +18,25 @@ dystopi
 - en fremtid verden hvor:
 - teknologien har overtaget / gjort noget dårligt 
 - begrænset frihed
+
+
+
+## det posthumane litteratur
+det der kommer efter mennesket
+
+dystopier og fremtid
+
+samfundet i fremtiden
+
+proteser / cyborgs
+
+***hvad vil det sige at være et menneske?***
+
+**key points**
+- robotter
+- dyr kan snakke
+- fremtid
+- sammenfiltret med teknologien
+	- etiske spørgsmål 
+- det nye menneske / efter vi bliver optimeret (bonnelykke)
+
