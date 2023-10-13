@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kemisk ligevægt.md",
+                "file": "Dansk/science fiction.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kemi/Kemisk ligevægt.md",
+                "file": "Dansk/science fiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kemi/Kemisk ligevægt.md",
+                "file": "Dansk/science fiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kemi/Kemisk ligevægt.md"
+                "file": "Dansk/science fiction.md"
               }
             }
           },
@@ -281,7 +281,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,12 +296,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "760818dd9b4eb802",
+  "active": "f288e9c9f18c3097",
   "lastOpenFiles": [
+    "Kemi/Kemisk ligevægt.md",
+    "Dansk/science fiction.md",
     "Pasted image 20231011195932.png",
     "Pasted image 20231011195919.png",
     "Kemi/pH & pOH.md",
-    "Kemi/Kemisk ligevægt.md",
     "Kemi/Basis Kemi B, side 7-12.md",
     "Kemi/Basis Kemi B, side 15-27.md",
     "Kemi/Reaktionshastighed.md",
@@ -342,7 +344,6 @@
     "Matematik/Pasted image 20230828141512.png",
     "Matematik/Pasted image 20230822185716.png",
     "Fysik/Pasted image 20230818094737.png",
-    "Fysik/Pasted image 20230818094421.png",
     "Fysik/Untitled.canvas"
   ]
 }
