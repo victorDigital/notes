@@ -61,4 +61,9 @@ https://www.netflix.com/watch/70279173?trackId=255824129
 
 robot love:
 - 0. Lov: en robot må ikke skade menneskeligheden
-Robotten gør det meget tydeligt, at den er en robot, f.eks. ved at referere til ejeren som ""
+Robotten gør det meget tydeligt, at den er en robot, f.eks. ved ofte at referere til ejeren som "administrator" - dette kan ændres efter menneskets behov
+1 lov: Skader ikke menneske. Dens formål er at hjælpe mennesker med sorg. Den udøver ikke vold.
+2. lov: Tager ordrer. Den skulle til at hoppe af en klippe pga. ordrer
+3. lov: Beskytter sin egen eksistens såfremt dette ikke bryder love 1 og 2. Har et vist overlevelsesinstinkt, men kaster det væk, når administratoren siger, den skal.
+Alle robotlove er overholdt
+Selvom det er en trist historie, er det et utopisk samfundsscenarie - overvej en gammel dame, der kun har et par år tilbage, der lige får en makker at være sammen med det sidst stykke tid.
