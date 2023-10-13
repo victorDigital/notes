@@ -46,3 +46,19 @@ et par love for at sikre den menneskelige rase:
 
 ift: [[A-S Marionetter]]
 den bryder 0, 1 og 2 lov, men ikke 3 lov.
+
+
+# opgave
+https://www.netflix.com/watch/70279173?trackId=255824129
+"Be right back" - Black Mirror
+
+- fiktiv
+- fremtidsscenarie, kan godt ske
+- blød science fiction, 1 ny opfindelse
+- novum: robotter efterligner de døde, for at hjælpe de bekendte
+- fokus på teknologi: robotter
+- overholder de fysiske love
+
+robot love:
+- 0. Lov: en robot må ikke skade menneskeligheden
+Robotten gør det meget tydeligt, at den er en robot, f.eks. ved at referere til ejeren som ""

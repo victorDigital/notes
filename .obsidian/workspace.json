@@ -71,8 +71,12 @@
             "id": "760818dd9b4eb802",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dansk/science fiction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -203,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dansk/science fiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dansk/science fiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +246,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dansk/science fiction.md"
+              }
             }
           },
           {
@@ -270,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
