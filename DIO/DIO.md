@@ -14,6 +14,9 @@ undgå jeg, men metasprog er tilladt
 begrunde for hvorfor metoden er tilvalgt eller hvorfor en metode er fravalgt
 hvordan hjælper den med at forstå verden
 
+## Dansk delen
+[[DIO danskdelen]]
+
 ## FEEDBACK
 - formalia
 - kilder 
