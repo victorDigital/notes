@@ -10,7 +10,9 @@ APA kilder
 
 undgå jeg, men metasprog er tilladt 
 
-
+**METODISKE OVERVEJELSER**
+begrunde for hvorfor metoden er tilvalgt eller hvorfor en metode er fravalgt
+hvordan hjælper den med at forstå verden
 
 ## FEEDBACK
 - formalia
@@ -24,4 +26,12 @@ undgå jeg, men metasprog er tilladt
 	- komma, forståeligt sprog
 - process 
 - brug af vejledning
+
+
+kjartans og sofies guide
+læs lidt teori først
+vælg noget der er fedt og relevant 
+se filmen den fokuseret øjne
+(brugs hints)
+
 
