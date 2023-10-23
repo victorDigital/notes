@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dansk/science fiction.md",
+                "file": "DIO/DIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dca7299ac719be6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIO opgavebeskrivelse.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/science fiction.md",
+                "file": "DIO/DIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/science fiction.md",
+                "file": "DIO/DIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/science fiction.md"
+                "file": "DIO/DIO.md"
               }
             }
           },
@@ -299,7 +310,10 @@
   },
   "active": "760818dd9b4eb802",
   "lastOpenFiles": [
+    "DIO opgavebeskrivelse.md",
+    "DIO/DIO.md",
     "Dansk/science fiction.md",
+    "DIO",
     "Dansk/A-S Marionetter.md",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Kemi/Kemisk ligevægt.md",
@@ -328,8 +342,6 @@
     "English/Newspeak.md",
     "English/dystopia.md",
     "Kemi/Pasted image 20230925100619.png",
-    "Matematik/Sammensatte funktioner.md",
-    "idehistorie/Etik/opgave 3/Nytte etik.md",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
     "Matematik/Unconfirmed 384114.crdownload",
@@ -339,7 +351,6 @@
     "Dansk/Pasted image 20230918125522.png",
     "Dansk/Unconfirmed 47743.crdownload",
     "Fysik/JetBrainsMono/OFL.txt",
-    "Fysik/JetBrainsMono/JetBrainsMonoNLNerdFontMono-Medium.ttf",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",
