@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO opgavebeskrivelser.md",
+                "file": "DIO danskdelen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO opgavebeskrivelser.md",
+                "file": "DIO danskdelen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO opgavebeskrivelser.md"
+                "file": "DIO danskdelen.md"
               }
             }
           },
@@ -344,10 +344,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dca7299ac719be6e",
+  "active": "e9ef35a9010f6d01",
   "lastOpenFiles": [
-    "DIO danskdelen.md",
     "DIO opgavebeskrivelser.md",
+    "DIO danskdelen.md",
     "DIO/DIO.md",
     "DIO opgavestruktur.md",
     "Dansk/science fiction.md",
