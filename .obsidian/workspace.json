@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "07dbd6b0243dd30a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIO opgavestruktur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e33c43dda1530dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIO/DIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dca7299ac719be6e",
             "type": "leaf",
             "state": {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -308,10 +332,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "760818dd9b4eb802",
+  "active": "e33c43dda1530dd4",
   "lastOpenFiles": [
-    "DIO opgavebeskrivelser.md",
+    "DIO opgavestruktur.md",
     "DIO/DIO.md",
+    "DIO opgavebeskrivelser.md",
     "Dansk/science fiction.md",
     "DIO",
     "Dansk/A-S Marionetter.md",
@@ -340,7 +365,6 @@
     "Fysik/Det skrå kast.md",
     "English/One world down the drain.md",
     "English/Newspeak.md",
-    "English/dystopia.md",
     "Kemi/Pasted image 20230925100619.png",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
