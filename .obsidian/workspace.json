@@ -116,6 +116,16 @@
             }
           },
           {
+            "id": "17ae801912b9ca72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "dca7299ac719be6e",
             "type": "leaf",
             "state": {
@@ -188,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -344,7 +354,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e9ef35a9010f6d01",
+  "active": "17ae801912b9ca72",
   "lastOpenFiles": [
     "DIO opgavebeskrivelser.md",
     "DIO danskdelen.md",
