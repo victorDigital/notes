@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIO opgavebeskrivelser.md",
+                "file": "Kemi/Carbonhydrider.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO opgavebeskrivelser.md",
+                "file": "Kemi/Carbonhydrider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO opgavebeskrivelser.md",
+                "file": "Kemi/Carbonhydrider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO opgavebeskrivelser.md"
+                "file": "Kemi/Carbonhydrider.md"
               }
             }
           },
@@ -358,17 +358,19 @@
   },
   "active": "ae31ba6a02598725",
   "lastOpenFiles": [
+    "Matematik/Pasted image 20231011195919.png",
+    "Matematik/Pasted image 20231011195932.png",
+    "Kemi/Pasted image 20231025144220.png",
+    "Kemi/Carbonhydrider.md",
+    "DIO opgavebeskrivelser.md",
     "DIO/DIO.md",
     "DIO danskdelen.md",
-    "DIO opgavebeskrivelser.md",
     "DIO opgavestruktur.md",
     "Dansk/science fiction.md",
     "DIO",
     "Dansk/A-S Marionetter.md",
     "Dansk/Analyse, vurdering, og diskussion.md",
     "Kemi/Kemisk ligevægt.md",
-    "Pasted image 20231011195932.png",
-    "Pasted image 20231011195919.png",
     "Kemi/pH & pOH.md",
     "Kemi/Basis Kemi B, side 7-12.md",
     "Kemi/Basis Kemi B, side 15-27.md",
@@ -387,8 +389,6 @@
     "Fysik/lysets bølgemodel.md",
     "Fysik/Lys og brydning opgave.md",
     "Kemi/formatter.md",
-    "Fysik/Det skrå kast.md",
-    "English/One world down the drain.md",
     "Kemi/Pasted image 20230925100619.png",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
@@ -403,7 +403,6 @@
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",
     "Matematik/Pasted image 20230822185716.png",
-    "Fysik/Pasted image 20230818094737.png",
     "Fysik/Untitled.canvas"
   ]
 }
