@@ -1,7 +1,9 @@
 [[L 2di Pro]]
 # Programmerings logbog
-_Skrevet i Obsidian.md og hostes af GitHub_
-[link til hjemmeside](https://prog2di.github.io/)
+_Skrevet i Obsidian.md og hostes af Netlify_
+hjemmeside lavet i SvelteKit med Prisim.js. Hjemmesiden kan køre udvalgte scripts ved brug af processing.js blibloteket
+[link til logbog hjemmeside](https://victornielsen.netlify.app/logbog)
+[link til forløb hjemmeside](https://prog2di.github.io/)
 
 ## Logbog-opgave 1: Opret jeres logbog
 
