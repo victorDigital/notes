@@ -16,6 +16,8 @@ undgå jeg, men metasprog er tilladt
 begrunde for hvorfor metoden er tilvalgt eller hvorfor en metode er fravalgt
 hvordan hjælper den med at forstå verden
 
+***HVER PUNKT SKAL HAVE EN DEL INDLEDING***
+
 ## Dansk delen
 [[DIO danskdelen]]
 
