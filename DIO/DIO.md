@@ -4,6 +4,8 @@
 
 [[DIO opgavestruktur]]
 
+[[Analysemetoder]]
+
 underoverskrifter er påkrævet, de kan laves ud fra [[DIO opgavebeskrivelser]] punkter, de skal altså ikke hede "redegørelse, analyse og diskussion"
 
 APA kilder 

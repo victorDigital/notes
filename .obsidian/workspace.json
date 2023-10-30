@@ -4,203 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d581ab5d3a74db",
+        "id": "de4dd5278a1b589d",
         "type": "tabs",
         "children": [
           {
-            "id": "b194bb9a1b56fff9",
+            "id": "0c9c57831e83c5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/Etik/opgave 3/Nytte etik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a12cc31d370c37f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dansk/dansk opgave, Analyse, vurdering, og diskussion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6658f8915d311b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematik/vektor beviser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b45842a6f0b3a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fysik/Det skrå kast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13a7c130dd99201e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/dystopia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "760818dd9b4eb802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIO/DIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07dbd6b0243dd30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIO opgavestruktur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33c43dda1530dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIO/DIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9ef35a9010f6d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIO danskdelen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae31ba6a02598725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmering/Logbog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca7299ac719be6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIO opgavebeskrivelser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16a011aa142817f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/analysis of 1984.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bea136c5d04db24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dansk/hvad skal vi med digte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0955725138bef03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematik/projektion af vektor på vektor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84cf4f5609d54ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idehistorie/Etik/opgave 2/Det kategoriske imperativ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a87d6db13903ec74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idehistorie/Etik/Nytte og Pligt etik.md",
+                "file": "DIO/Analysemetoder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "DIO/Analysemetoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "DIO/Analysemetoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Logbog.md"
+                "file": "DIO/Analysemetoder.md"
               }
             }
           },
@@ -355,16 +174,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f288e9c9f18c3097",
+  "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
+    "idehistorie/Etik/opgave 3/Nytte etik.md",
+    "DIO/Analysemetoder.md",
+    "DIO/DIO.md",
+    "Programmering/Logbog.md",
     "Kemi/Carbonhydrider.md",
     "Matematik/Pasted image 20231011195919.png",
     "Matematik/Pasted image 20231011195932.png",
     "Kemi/Pasted image 20231025144220.png",
-    "DIO opgavebeskrivelser.md",
-    "DIO/DIO.md",
-    "DIO danskdelen.md",
-    "DIO opgavestruktur.md",
+    "DIO/DIO opgavebeskrivelser.md",
+    "DIO/DIO danskdelen.md",
+    "DIO/DIO opgavestruktur.md",
     "Dansk/science fiction.md",
     "DIO",
     "Dansk/A-S Marionetter.md",
@@ -386,8 +208,6 @@
     "English/The Matrix.md",
     "Fysik/Brydnings opgaver.md",
     "Fysik/lysets bølgemodel.md",
-    "Fysik/Lys og brydning opgave.md",
-    "Kemi/formatter.md",
     "Kemi/Pasted image 20230925100619.png",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
