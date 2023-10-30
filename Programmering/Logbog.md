@@ -1,7 +1,7 @@
 [[L 2di Pro]]
 # Programmerings logbog
 _Skrevet i Obsidian.md og hostes af Netlify_
-hjemmeside lavet i SvelteKit med Prisim.js. Hjemmesiden kan køre udvalgte scripts ved brug af processing.js blibloteket
+hjemmeside lavet i SvelteKit med Prisim.js. Hjemmesiden kan køre udvalgte scripts kan køres ved brug af processing.js biblioteket
 [link til logbog hjemmeside](https://victornielsen.netlify.app/logbog)
 [link til forløb hjemmeside](https://prog2di.github.io/)
 

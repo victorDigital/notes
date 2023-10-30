@@ -337,12 +337,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,7 +355,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae31ba6a02598725",
+  "active": "f288e9c9f18c3097",
   "lastOpenFiles": [
     "Kemi/Carbonhydrider.md",
     "Matematik/Pasted image 20231011195919.png",
