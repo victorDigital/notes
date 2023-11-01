@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIO/Analysemetoder.md",
+                "file": "DIO/DIO opgavebeskrivelser.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO/Analysemetoder.md",
+                "file": "DIO/DIO opgavebeskrivelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO/Analysemetoder.md",
+                "file": "DIO/DIO opgavebeskrivelser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO/Analysemetoder.md"
+                "file": "DIO/DIO opgavebeskrivelser.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   "active": "c4575c6208552fa1",
   "lastOpenFiles": [
     "DIO/DIO.md",
-    "DIO/DIO opgavebeskrivelser.md",
     "DIO/Analysemetoder.md",
+    "DIO/DIO opgavebeskrivelser.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
     "Programmering/Logbog.md",
     "Kemi/Carbonhydrider.md",
