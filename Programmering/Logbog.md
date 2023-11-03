@@ -742,4 +742,7 @@ int largest(int n){
 }
 ```
 
-### opgave
+### Opgave 2.2 : Count in string
+```
+
+```
