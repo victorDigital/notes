@@ -711,3 +711,35 @@ void setup() {
 }
 ```
 NOTE: 0.61803398875 er den gyldne ratio -1 (jeg startede med at approksimere denne værdi før jeg kiggede på Wikipedia 🤠 som var klogere end mig)
+
+## Opgaver
+### Opgave 2.1 : Largest number
+```java
+void setup(){
+	//fejrnelse af en enkelt char
+	println(removeNr("3412",1));//udskriver strengen 312
+	println(removeNr("4990",3));//udskriver strengen 499
+	println(removeNr("8193",2));//udskriver strengen 813
+  
+	//opnåelse af størst mulige tal ved at fjernelse af et enkelt ciffer
+	println(largest(3412));     //udskriver 412
+	println(largest(4990));     //udskriver 990
+	println(largest(8193));     //udskriver 893
+}
+
+String removeNr(String s, int i){
+	return s.substring(0,i)+s.substring(i+1);
+}
+
+int largest(int n){
+	String s = str(n);
+	int max = 0;
+	for(int i=0;i<s.length();i++){
+	    int nr = int(removeNr(s,i));
+	    if(nr>max) max = nr;
+	}
+	return max;
+}
+```
+
+### opgave
