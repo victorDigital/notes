@@ -743,6 +743,20 @@ int largest(int n){
 ```
 
 ### Opgave 2.2 : Count in string
+```java
+void setup(){
+    println(countChar("abcdahahaah",'a')); //udskriver 5
+    println(countChar("abcdahahaah",'h')); //udskriver 3
+    println(countChar("abcdahahaah",'d')); //udskriver 1
+}
+
+int countChar(String s, char c) {
+    int count = 0;
+    for (int i = 0; i < s.length(); i++) {
+        if (s.charAt(i) == c) count++;
+    }
+    return count;
+}
 ```
 
-```
+##
