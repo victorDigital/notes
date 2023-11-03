@@ -759,4 +759,38 @@ int countChar(String s, char c) {
 }
 ```
 
-##
+### Opgave 2.3 - Beauty factor
+```java
+void setup(){
+  //Beregner sum af cifre i et tal
+  println(beautifyOnce(123)); //udskriver tallet 6,  da 1+2+3=6
+  println(beautifyOnce(234)); //udskriver tallet 9,  da 2+3+4=9
+  println(beautifyOnce(444)); //udskriver tallet 12, da 4+4+4=12
+
+  //Beregner "beauty factor" ...
+  println(beautyFactor(444)); //udskriver tallet 3, da 4+4+4=12,og 1+2=3
+  println(beautyFactor(1987));//udskriver tallet 7, da 1+9+8+7=25, og 2+5=7
+}
+
+int beautifyOnce(int x) {
+    String s = str(x);
+    int sum = 0;
+    for(int i = 0 ; i < s.length() ; i++) {
+        sum += int(s.charAt(i) - '0'); //processing forum siger at man skal minus '0' for at få det rigtige tal IDK (HELP ME)
+    }
+    return sum;
+}
+
+int beautyFactor(int x) {
+    int sum = beautifyOnce(x);
+    while(sum >= 10) {
+        sum = beautifyOnce(sum);
+    }
+    return sum;
+}
+```
+
+### Opgave 2.4 - min max
+```
+
+```
