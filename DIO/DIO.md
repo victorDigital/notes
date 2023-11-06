@@ -8,7 +8,15 @@
 
 underoverskrifter er påkrævet, de kan laves ud fra [[DIO opgavebeskrivelser]] punkter, de skal altså ikke hede "redegørelse, analyse og diskussion"
 
-APA kilder 
+APA kilder (BibTeX)
+
+___FOKUS PÅ 4-5 filmiske virkemidler ___
+
+_CITIATER SKAL IKKE OVERSÆTTES_
+
+Stillbilleder 
+Tidskoder
+Citater fra Karakterer
 
 undgå jeg, men metasprog er tilladt 
 
