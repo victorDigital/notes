@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIO/DIO.md",
+                "file": "Programmering/Logbog.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO/DIO.md",
+                "file": "Programmering/Logbog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO/DIO.md",
+                "file": "Programmering/Logbog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO/DIO.md"
+                "file": "Programmering/Logbog.md"
               }
             }
           },
@@ -189,10 +189,10 @@
   },
   "active": "c4575c6208552fa1",
   "lastOpenFiles": [
+    "DIO/DIO.md",
     "DIO/DIO danskdelen.md",
     "DIO/DIO opgavebeskrivelser.md",
     "DIO/DIO opgavestruktur.md",
-    "DIO/DIO.md",
     "Programmering/Logbog.md",
     "DIO/Analysemetoder.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
