@@ -861,3 +861,4 @@ Video 2: [https://youtu.be/lmgcMPRa1qw](https://youtu.be/lmgcMPRa1qw)
 Video 3: [https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)
 
 - Hvad er en “constructor”
+	- en constructor bruges når et objekt skal konstrueres, altså der definereres nogle parameter i en constructor som efterfølgende kan blivet givet som argumenter når et objekt skal konstrueres, noget som start position f.eks.
