@@ -839,3 +839,24 @@ String min_max(int[] list) {
     return "YES";
 }
 ```
+
+## Opgave til logbog
+
+Se følgende tre videoer, der introducerer oop. Efter hver video skal i svare på spørgsmålene nedenfor og skrive udførlige svar i jeres log-bog.
+
+Video 1: [https://youtu.be/YcbcfkLzgvs](https://youtu.be/YcbcfkLzgvs)
+
+- Forklar hvad der menes med “class”
+	- en "class" eller klasse kan forklares som en sammensætning af både data, funktioner og andet, pakket sammen i en klasse og bruges som helhed i programmet.
+- Forklar hvad der menes med “object”
+	- et objekt er blot et eksemplar på denne klasse, oprettes med `new` keyword
+
+Video 2: [https://youtu.be/lmgcMPRa1qw](https://youtu.be/lmgcMPRa1qw)
+
+- Forklar hvordan og hvorfor man anvender “new”
+- Forklar hvad er “dot-syntax”
+	- hvis vi f.eks. har 
+
+Video 3: [https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)
+
+- Hvad er en “constructor”
