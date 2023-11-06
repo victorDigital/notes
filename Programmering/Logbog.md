@@ -854,8 +854,9 @@ Video 1: [https://youtu.be/YcbcfkLzgvs](https://youtu.be/YcbcfkLzgvs)
 Video 2: [https://youtu.be/lmgcMPRa1qw](https://youtu.be/lmgcMPRa1qw)
 
 - Forklar hvordan og hvorfor man anvender “new”
+	- bruges når vi skal instansiere en klasse til et objekt. 
 - Forklar hvad er “dot-syntax”
-	- hvis vi f.eks. har 
+	- hvis vi f.eks. har defineret variablen `s` man en datatype `Skib` som har melodeon `sejl()`. Så kan vi anvende denne metode ved brug at dot-syntax således: `s.sejl();` her fortæller vi altså objektet (skibet) `s` til at sejle.   
 
 Video 3: [https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)
 
