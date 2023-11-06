@@ -10,7 +10,7 @@ underoverskrifter er påkrævet, de kan laves ud fra [[DIO opgavebeskrivelser]] 
 
 APA kilder (BibTeX)
 
-___FOKUS PÅ 4-5 filmiske virkemidler ___
+___FOKUS PÅ 4-5 filmiske virkemidler 
 
 _CITIATER SKAL IKKE OVERSÆTTES_
 
