@@ -865,7 +865,7 @@ Video 3: [https://youtu.be/XwfOVFelLoo](https://youtu.be/XwfOVFelLoo)
 
 ## Kode-opgave - array af bubbles
 
-Nu med farve og kollision med væggene!
+Nu med farve og kollision med væggene! de kan også hoppe i alle retninger fordi vi befinder os på månen!!!
 
 ```java
 ArrayList<Ball> balls = new ArrayList<Ball>();
