@@ -60,3 +60,6 @@ se filmen den fokuseret øjne
 	- hvordan opstod begreberne 
 	- kinesiske rumargument 
 	- hvor dan spiller kinesiske rumargument ind i begreberne
+	- Svag AI” og ”Stærk AI” forskel
+- spg 2
+- 
