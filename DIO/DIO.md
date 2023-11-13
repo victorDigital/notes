@@ -50,3 +50,13 @@ se filmen den fokuseret øjne
 (brugs hints)
 
 
+
+
+
+
+## outline
+- spg 1
+	- hvad er ai
+	- hvordan opstod begreberne 
+	- kinesiske rumargument 
+	- hvor dan spiller kinesiske rumargument ind i begreberne

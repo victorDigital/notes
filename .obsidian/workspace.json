@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "DIO/DIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "DIO/DIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Logbog.md",
+                "file": "DIO/DIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Logbog.md"
+                "file": "DIO/DIO.md"
               }
             }
           },
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +190,11 @@
   },
   "active": "c4575c6208552fa1",
   "lastOpenFiles": [
+    "Programmering/Logbog.md",
     "DIO/DIO.md",
     "DIO/DIO danskdelen.md",
     "DIO/DIO opgavebeskrivelser.md",
     "DIO/DIO opgavestruktur.md",
-    "Programmering/Logbog.md",
     "DIO/Analysemetoder.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
     "Kemi/Carbonhydrider.md",
