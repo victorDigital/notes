@@ -921,3 +921,134 @@ void mousePressed() {
     balls.add(new Ball(mouseX, mouseY, random(-5, 5), random(-5, 5), random(10, 50), color(random(255), random(255), random(255))));
 }
 ```
+
+
+## Kode opgave OOP del 2
+```java
+Btn plusknap = new Btn(10, 100, 100, 20, "plus");
+Btn minusknap = new Btn(10, 130, 100, 20, "minus");
+Btn resetknap = new Btn(10, 160, 100, 20, "reset");
+
+Bar bar = new Bar(130, 100, 200, 20, 0, 0, 100);
+
+void setup() {
+    size(400,400);
+    background(0);
+    noStroke();
+}
+
+void draw() {
+    background(0);
+
+    if (mousePressed) {
+        if (plusknap.clicked()) {
+            bar.change(3);
+        }
+        if (minusknap.clicked()) {
+            bar.change(-3);
+        }
+        if (resetknap.clicked()) {
+            bar.reset();
+        }
+    }
+
+    plusknap.draw();
+    minusknap.draw();
+    resetknap.draw();
+
+    bar.draw();
+}
+
+void mouseReleased() {
+    plusknap.btnClicked = false;
+    minusknap.btnClicked = false;
+    resetknap.btnClicked = false;
+}
+
+
+
+class Btn {
+    float x;
+    float y;
+    float w;
+    float h;
+    float targetColor = 255;
+    float actualColor = 255;
+    String text;
+    boolean btnClicked = false; //internal state
+
+    Btn(float _x, float _y, float _w, float _h, String _text) {
+        x = _x;
+        y = _y;
+        w = _w;
+        h = _h;
+        text = _text;
+    }
+
+    void draw() {
+        if (btnClicked) {
+            targetColor = 50;
+        } else {
+            targetColor = 255;
+        }
+        actualColor += (targetColor - actualColor) * 0.3;
+        fill(actualColor);
+        rect(x, y, w, h, 5);
+        fill(0);
+        textAlign(CENTER, CENTER);
+        textSize(20);
+        text(text, x + w / 2, y + h / 2);
+    }
+
+    boolean clicked() {
+        if (mouseX > x && mouseX < x + w && mouseY > y && mouseY < y + h) {
+            btnClicked = true;
+            return true;
+        } else {
+            btnClicked = false;
+            return false;
+        }
+    }
+}
+
+class Bar {
+    float x;
+    float y;
+    float w;
+    float h;
+    float targetValue;
+    float value;
+    float min;
+    float max;
+
+    Bar(float _x, float _y, float _w, float _h, float _targetValue, float _min, float _max) {
+        x = _x;
+        y = _y;
+        w = _w;
+        h = _h;
+        targetValue = _targetValue;
+        min = _min;
+        max = _max;
+    }
+
+    void draw() {
+        stroke(255);
+        strokeWeight(2);
+        noFill();
+        rect(x-1, y-1, w+1, h+1, 5); //outline
+        noStroke();
+        fill(255);
+        value += (targetValue - value) * 0.1;
+        rect(x, y, map(value, min, max, 0, w), h, 5);
+    }
+
+    void change(float amount) {
+        targetValue += amount;
+        targetValue = constrain(targetValue, min, max);
+    }
+
+    void reset() {
+        targetValue = 0;
+    }
+}
+```
