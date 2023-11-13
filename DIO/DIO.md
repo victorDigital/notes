@@ -61,7 +61,7 @@ se filmen den fokuseret øjne
 	- kinesiske rumargument 
 	- hvordan spiller kinesiske rumargument ind i begreberne
 	- Svag AI” og ”Stærk AI” forskel
-	- kilder
+	- kulturprodukt 
 	- 
 - spg 2
 - 
