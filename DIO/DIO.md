@@ -69,6 +69,7 @@ se filmen den fokuseret øjne
 		- mother
 		- Én intelligens
 	- Vurder om kulturproduktet er udtryk for teknologioptimisme eller teknologipessimisme?
+		- **SKAL FYLDE MEGET?**
 		- er robotterne gode eller onde
 		- er de pre-programmeret til at dræbe
 	- Diskutér dit kulturprodukt med idéhistoriske begreber.
@@ -79,5 +80,7 @@ se filmen den fokuseret øjne
 		- ex machina
 		- as marinetter
 	- Inddrag gerne modsatrettede perspektiver (på den ene side… på den anden side…).
-	- 
+		- find noget teknologioptimistisk
 	- Perspektiver
+		- ex machina
+		- as marinetter
