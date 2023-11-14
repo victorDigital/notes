@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO/DIO.md",
+                "file": "DIO/DIO opgavebeskrivelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO/DIO.md",
+                "file": "DIO/DIO opgavebeskrivelser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO/DIO.md"
+                "file": "DIO/DIO opgavebeskrivelser.md"
               }
             }
           },
@@ -188,10 +187,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4575c6208552fa1",
+  "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
-    "Matematik/Diff.md",
     "DIO/DIO.md",
+    "Matematik/Diff.md",
     "Programmering/Logbog.md",
     "DIO/DIO danskdelen.md",
     "DIO/DIO opgavebeskrivelser.md",
