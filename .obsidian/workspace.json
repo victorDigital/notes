@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIO/DIO opgavebeskrivelser.md",
+                "file": "DIO/Analysemetoder.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO/DIO opgavebeskrivelser.md",
+                "file": "DIO/Analysemetoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO/DIO opgavebeskrivelser.md",
+                "file": "DIO/Analysemetoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO/DIO opgavebeskrivelser.md"
+                "file": "DIO/Analysemetoder.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
+    "DIO/DIO opgavebeskrivelser.md",
     "DIO/DIO.md",
     "Matematik/Diff.md",
     "Programmering/Logbog.md",
     "DIO/DIO danskdelen.md",
-    "DIO/DIO opgavebeskrivelser.md",
     "DIO/DIO opgavestruktur.md",
     "DIO/Analysemetoder.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
