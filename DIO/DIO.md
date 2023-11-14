@@ -73,7 +73,7 @@ se filmen den fokuseret øjne
 		- er robotterne gode eller onde
 		- er de pre-programmeret til at dræbe
 	- Diskutér dit kulturprodukt med idéhistoriske begreber.
-		- etik, moral, kant
+	d	- etik, moral, kant
 	- Forklar og begrund samt giv eksempler der kan underbygge dine pointer.
 		- fint noget etisk der er nice
 	- Inddrag gerne andre eksempler og viden fra samfund, medier, kultur, litteratur, sprog, eller hvad der er relevant i lige netop din diskussion.
