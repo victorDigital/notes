@@ -64,6 +64,28 @@ se filmen den fokuseret øjne
 	- kulturprodukt 
 	- 
 - spg 2
+	- Præsentation: Titel, premiereår, instruktør, filmselskab.
+
+	- Karakterer
+
+	- Tid og miljø
+
+	- Handling
+		+ Hvad sætter den i gang?
+		+ Hvilken konflikt er på spil (indre eller ydre konflikter)?
+
+	- *Den cirkulære model:*
+	- Aktantmodellen
+	- Symboler (SE DOKUMENT)
+	- Tema
+
+=================NOTE
+VIGTIGE BEGREBER I FILMANALYSEN
+**Frame
+Indstilling
+Scene
+Sekvens
+**================
 - opg 3
 	- Opsaml de vigtigste pointer om, hvordan dit kulturprodukt tematiserer enten AI/robotter.
 		- mother

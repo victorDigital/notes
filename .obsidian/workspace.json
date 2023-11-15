@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIO/DIO analyse.md",
+                "file": "DIO/DIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO/DIO analyse.md",
+                "file": "DIO/DIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO/DIO analyse.md",
+                "file": "DIO/DIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIO/DIO analyse.md"
+                "file": "DIO/DIO.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
-    "DIO/DIO opgavebeskrivelser.md",
     "DIO/DIO analyse.md",
+    "DIO/DIO opgavebeskrivelser.md",
     "DIO/DIO.md",
     "DIO/Analysemetoder.md",
     "Matematik/Diff.md",
