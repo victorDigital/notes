@@ -65,14 +65,11 @@ se filmen den fokuseret øjne
 	- 
 - spg 2
 	- Præsentation: Titel, premiereår, instruktør, filmselskab.
-
-	- Karakterer
-
-	- Tid og miljø
-
 	- Handling
 		+ Hvad sætter den i gang?
 		+ Hvilken konflikt er på spil (indre eller ydre konflikter)?
+	+ Karakterer
+	- Tid og miljø
 
 	- *Den cirkulære model:*
 	- Aktantmodellen
