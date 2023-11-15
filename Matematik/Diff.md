@@ -24,8 +24,19 @@ En sekant er en ret linje der skærer en kurve i to punkter.
 En tangens er en ret linje der rør en kurve i netop 1 punkt.
 
 
-### Differenskvotient
+### Differenskvotient (serkant)
 $$\alpha=\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}$$
+### Differentialkvotient (tangens)
 $$
-\frac{d}{}\lim_{\Delta x\to 0} \frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}
+f^{'}(x)=\frac{dy}{dx}=\lim_{\Delta x\to 0} \frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}
 $$
+### Tretrinsreglen
+1 find Differenskvotient
+$$
+\frac{\Delta y}{\Delta x} = \alpha = \frac{f(x_0 + \Delta x) - f(x_0)}{\Delta x}
+$$
+2
+Omskriv differenskvotienten, således at trin 3 bliver lettere at gennemføre.
+
+3
+Bestem grænseværdien for $\Delta x \rightarrow 0$
