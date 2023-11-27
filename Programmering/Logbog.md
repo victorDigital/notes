@@ -1253,3 +1253,18 @@ void connectPoints(PVector[] points) {
 }
 ```
 - **_Opgave 8:_** Frivillig: Udvikl en funktion, der kan tegne en vilkårlig N-kant med et valgfrit centrum.
+```java
+// tak til https://stackoverflow.com/questions/54639789/how-to-make-a-shape-move-while-keeping-a-shape-static-without-re-rendering-the-s
+void polygon(float n, float x, float y, float r) {
+    float angle = 2 * PI / n;
+    float x1 = x + r * cos(0);
+    float y1 = y + r * sin(0);
+    for (int i = 1; i <= n; i++) {
+        float x2 = x + r * cos(angle * i);
+        float y2 = y + r * sin(angle * i);
+        line(x1, y1, x2, y2);
+        x1 = x2;
+        y1 = y2;
+    }
+}
+```
