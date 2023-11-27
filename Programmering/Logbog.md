@@ -1225,12 +1225,31 @@ int sum(int a, int b) { // a og b er parametre
 }
 ```
 - **_Opgave 3:_** Forklar begrebet **_variabel-scope_** i programmering. Og forskellen på **_lokale variable_** og **_globale variable_**. Giv et eksempel
+En variable det defineres i en funktion er en lokal variable, og kan kun bruges i den funktion. En global variable kan bruges i hele programmet og den defineres i top-level eller i global scope.
 
 - **_Opgave 4:_** Definér **_returtype_** og **_returværdi_** i programmering.
-
+Returtype er den type værdi, som en funktion returnerer. Returværdien er den værdi, som funktionen returnerer.
 ## Opgaver i programmering af funktioner
 
 - **_Opgave 5:_** Skab “givHilsen”, en funktion med to inputparametre: en liste af hilsner og et tal, der bestemmer hvilken hilsen der skal returneres.
+```java
+String givHilsen(String[] hilsner, int index) {
+  return hilsner[index];
+}
+```
 - **_Opgave 6:_** Implementer “beregnAreal”, en funktion til at beregne og returnere arealet af en vilkårlig cirkel.
+```java
+Float beregnAreal(float radius) {
+    float areal = radius * radius * PI;
+    return areal;
+}
+```
 - **_Opgave 7:_** Skriv en funktion, der kan håndtere et vilkårligt antal punkter og skabe en tegning, der forbinder dem.
+```java
+void connectPoints(PVector[] points) {
+  for (int i = 0; i < points.length-1; i++) {
+    line(points[i].x, points[i].y, points[i+1].x, points[i+1].y);
+  }
+}
+```
 - **_Opgave 8:_** Frivillig: Udvikl en funktion, der kan tegne en vilkårlig N-kant med et valgfrit centrum.
