@@ -1205,3 +1205,32 @@ class Ship {
     }
 }
 ```
+
+# Opgaver i funktioner, syntaks og terminologi
+## Opgaver i funktions terminologi
+
+- **_Opgave 1:_** Forklar begrebet **_funktion_** i programmering, herunder betydningen af et **_funktionskald_**. Giv et eksempel.
+En funktion er en samling af kode, som kan kaldes fra andre steder i programmet.
+Et funktionskald er når en funktion bliver kaldt:
+```java
+minFunktion();
+```
+- **_Opgave 2:_** Definér **_parametre_**, **_argumenter_** og metode-krop i programmering. Giv et eksempel
+En parameter er når en funktion kaldes, og et argument bruges når en funktion defineres og metodes krop er det der står i funktionen.
+```java
+sum(2, 3); // 2 og 3 er argumenter
+
+int sum(int a, int b) { // a og b er parametre
+  return a + b; // return er metode-krop
+}
+```
+- **_Opgave 3:_** Forklar begrebet **_variabel-scope_** i programmering. Og forskellen på **_lokale variable_** og **_globale variable_**. Giv et eksempel
+
+- **_Opgave 4:_** Definér **_returtype_** og **_returværdi_** i programmering.
+
+## Opgaver i programmering af funktioner
+
+- **_Opgave 5:_** Skab “givHilsen”, en funktion med to inputparametre: en liste af hilsner og et tal, der bestemmer hvilken hilsen der skal returneres.
+- **_Opgave 6:_** Implementer “beregnAreal”, en funktion til at beregne og returnere arealet af en vilkårlig cirkel.
+- **_Opgave 7:_** Skriv en funktion, der kan håndtere et vilkårligt antal punkter og skabe en tegning, der forbinder dem.
+- **_Opgave 8:_** Frivillig: Udvikl en funktion, der kan tegne en vilkårlig N-kant med et valgfrit centrum.
