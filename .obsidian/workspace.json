@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/opgave B.md",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/opgave B.md",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/opgave B.md",
+                "file": "Matematik/projektion af vektor på vektor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/opgave B.md"
+                "file": "Matematik/projektion af vektor på vektor.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
-    "Programmering/Logbog.md",
+    "Matematik/vektor beviser.md",
     "idehistorie/opgave B.md",
+    "Programmering/Logbog.md",
     "Matematik/Diff.md",
     "DIO/DIO.md",
     "DIO/DIO analyse.md",
@@ -217,7 +218,6 @@
     "Matematik/Vector ref.md",
     "Matematik/projektion af vektor på vektor.md",
     "Matematik/Pasted image 20230920123547.png",
-    "Matematik/vektor beviser.md",
     "idehistorie/kilder/Opgave A.md",
     "idehistorie/kilder",
     "Kemi/Pasted image 20230925100619.png",
