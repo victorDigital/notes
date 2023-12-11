@@ -1,6 +1,6 @@
 [[L 2di En]] [[animal farm]]
 1. Describe the relationship between the farmers Mr. Jones, Mr. Frederick and Mr. Pilkington.
-Mr. Frederick and Mr. Pilkington had farms neighboring to the Animal Farm, 
+Mr. Frederick and Mr. Pilkington had farms neighboring to the Animal Farm. Nobody likes mr. Jones, and Mr. Frederick and Mr. Pilkington does not like each other either. Mr. Pilkington is laid back, Mr. Frederick is more strict. the 2 farmers dont want their animals to hear the song, and if they were caught singing it they would be punished.
 3. Discuss the meaning of the quote, "This was what came of rebelling against the laws of Nature."
 When he said "against the laws of Nature", he means that it's one of natures laws that animals are to be ruled by man. 
 5. Account for the importance of the song Beasts of England and its effect.
