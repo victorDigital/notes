@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/animal farm/chapter 4.md",
+                "file": "idehistorie/opgave B.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/animal farm/chapter 4.md",
+                "file": "idehistorie/opgave B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/animal farm/chapter 4.md",
+                "file": "idehistorie/opgave B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/animal farm/chapter 4.md"
+                "file": "idehistorie/opgave B.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
-    "Matematik/projektion af vektor på vektor.md",
     "English/animal farm/chapter 4.md",
+    "Matematik/projektion af vektor på vektor.md",
     "English/animal farm",
     "Matematik/vektor beviser.md",
     "idehistorie/opgave B.md",
