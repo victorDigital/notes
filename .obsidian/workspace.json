@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idehistorie/opgave B.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52f069d49eb52bf6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "c4575c6208552fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIO/DIO.md",
+                "file": "Dansk/kronikken/kronikken.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idehistorie/opgave B.md",
+                "file": "Dansk/kronikken/kronikken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idehistorie/opgave B.md",
+                "file": "Dansk/kronikken/kronikken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idehistorie/opgave B.md"
+                "file": "Dansk/kronikken/kronikken.md"
               }
             }
           },
@@ -199,13 +176,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52f069d49eb52bf6",
+  "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
+    "idehistorie/opgave B.md",
+    "Dansk/kronikken/kronikken.md",
+    "Dansk/kronikken",
     "English/animal farm/chapter 4.md",
     "Matematik/projektion af vektor på vektor.md",
     "English/animal farm",
     "Matematik/vektor beviser.md",
-    "idehistorie/opgave B.md",
     "Programmering/Logbog.md",
     "Matematik/Diff.md",
     "DIO/DIO.md",
@@ -231,7 +210,6 @@
     "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 1.md",
-    "Matematik/Vector ref.md",
     "Matematik/Pasted image 20230920123547.png",
     "idehistorie/kilder",
     "Kemi/Pasted image 20230925100619.png",
@@ -242,7 +220,6 @@
     "Dansk/Analyse vurdering og diskussion - opgavebeskrivelse og tekster (1).pdf",
     "Dansk/Unconfirmed 502323.crdownload",
     "Dansk/Pasted image 20230918125522.png",
-    "Dansk/Unconfirmed 47743.crdownload",
     "Matematik/Pasted image 20230828141751.png",
     "English/Pasted image 20230906083311.png",
     "Matematik/Pasted image 20230828141512.png",
