@@ -20,6 +20,10 @@ del B:
 
 ## Øvelse 2
 - hvad er hoved synspunkterne
+- tekst 1
+	- gaming er mest maskuline fællesskaber, firmare som Twitch er også delvis skyld i denne kultur. 
+- tekst 2
+	- generelt er internettet et "toxic" sted. Det er lige meget, hvilket køn du har, alle bliver trollet online. men det er kun tøserne der sommetider forventes at de betaler med deres krop.
 
 - citater
 - "Gaming bliver stadig betragtet som en maskulin aktivitet" l. 9
@@ -42,4 +46,5 @@ del B:
 - "Tit spørger de hende, om hun mangler noget, og lige meget hvad hun siger, hun mangler, så får hun det."
 - "Har været online-gamer, siden jeg var 12, og jeg tror snart ikke, at der er en mand på nettet, som ikke har har skrevet, at han vil kneppe min familie."
 - "Mange spiller ikke på deres eget sprog. Derfor virker det ikke ligeså hårdt at sige ”you fucking faggot” på engelsk, som hvis man sagde det på ens eget sprog (din fucking svans)."
+- "Stop til kommentarer som: "Jeg ønsker, at alle jeres spillere dør" og "Jeg håber, I får kræft, nybegyndere"."
 - 
