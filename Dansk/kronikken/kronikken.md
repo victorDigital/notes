@@ -10,4 +10,5 @@ del A:
 - der er godt hvis med ved noget on emmnet
 del B:
 - reflektionstekst (400-600 ord)
+- beskriv målgruppe, argumentation og virkemidler 
 - 
