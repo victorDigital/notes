@@ -34,7 +34,7 @@ del B:
 - "en gammeldags kønsrolleforventning"
 - "Metoo har lært os, at mænd i meget lav grad er bevidste om de seksuelle krænkelser,"
 - "”der ikke er mange kvinder, som er gode til spillet”"
-- "t han ikke bliver lige så vred på kvindelige spillere, der laver fejl, ”fordi man forventer alligevel ikke, at de ved, hvordan tastaturet fungerer”."
+- **"han ikke bliver lige så vred på kvindelige spillere, der laver fejl, ”fordi man forventer alligevel ikke, at de ved, hvordan tastaturet fungerer”."**
 - "er holdningen oftest, at man i en eller anden grad må klare ”den hårde tone” eller finde måder at undgå den på"
 - "t især kvinders vilkår i spilverdenen er et underprioriteret område"
 
@@ -42,9 +42,13 @@ del B:
 - "Mænd er også rimelig grove ved andre mænd."
 - "I artiklen står 15 kvindelige danske gamere frem og fortæller om deres oplevelser med sexisme og chikane, som de modtager på baggrund af deres køn"
 - "Alligevel er der en klar forskel på de bemærkninger, man som henholdsvis kvinde eller mand skal forholde sig til, siger ph.d. Torill Mortensen,"
-- "Og selvom mænd også oplever en hård tone, så er det sjældent deres seksualitet, de forventes at betale med:"
+- **"Og selvom mænd også oplever en hård tone, så er det sjældent deres seksualitet, de forventes at betale med"**
 - "Tit spørger de hende, om hun mangler noget, og lige meget hvad hun siger, hun mangler, så får hun det."
 - "Har været online-gamer, siden jeg var 12, og jeg tror snart ikke, at der er en mand på nettet, som ikke har har skrevet, at han vil kneppe min familie."
 - "Mange spiller ikke på deres eget sprog. Derfor virker det ikke ligeså hårdt at sige ”you fucking faggot” på engelsk, som hvis man sagde det på ens eget sprog (din fucking svans)."
 - "Stop til kommentarer som: "Jeg ønsker, at alle jeres spillere dør" og "Jeg håber, I får kræft, nybegyndere"."
-- 
+
+
+# START PÅ KRONIKKEN
+
+Online gaming har i mange år været et mødested for mennesker af alle slags. introduktionen af tekst og senere lyd samtale systemer gav online gaming verdenen en ny dimension af personlighed, 
