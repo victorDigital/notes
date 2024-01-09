@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "52f069d49eb52bf6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "c4575c6208552fa1",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -186,7 +199,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c9c57831e83c5c3",
+  "active": "52f069d49eb52bf6",
   "lastOpenFiles": [
     "English/animal farm/chapter 4.md",
     "Matematik/projektion af vektor på vektor.md",
