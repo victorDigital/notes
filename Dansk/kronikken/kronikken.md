@@ -17,3 +17,10 @@ del B:
 ## Viden fra elev eksempel
 - ikke "jeg" i stedet bruger han "vi" og holdnings ting som "derfor er ..."
 - ... mere lol 😂 
+
+## Øvelse 2
+- hvad er hoved synspunkterne
+
+- citater
+- "Gaming bliver stadig betragtet som en maskulin aktivitet" l. 9
+- 
