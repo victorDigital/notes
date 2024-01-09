@@ -17,8 +17,3 @@ del B:
 ## Viden fra elev eksempel
 - ikke "jeg" i stedet bruger han "vi" og holdnings ting som "derfor er ..."
 - ... mere lol 😂 
-
-
-
-
-vi kan se problemet fra begge vinkler
