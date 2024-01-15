@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dansk/kronikken/kronikken.md",
+                "file": "2024-01-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dansk/kronikken/kronikken.md",
+                "file": "2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dansk/kronikken/kronikken.md",
+                "file": "2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dansk/kronikken/kronikken.md"
+                "file": "2024-01-15.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "0c9c57831e83c5c3",
   "lastOpenFiles": [
-    "idehistorie/opgave B.md",
     "Dansk/kronikken/kronikken.md",
+    "2024-01-15.md",
+    "idehistorie/opgave B.md",
     "Dansk/kronikken",
     "English/animal farm/chapter 4.md",
     "Matematik/projektion af vektor på vektor.md",
@@ -208,7 +209,6 @@
     "Kemi/Reaktionshastighed.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 4.md",
     "Kemi/Basis Kemi B, side 7-12, opgave 2 + 3.md",
-    "Kemi/Basis Kemi B, side 7-12, opgave 1.md",
     "Matematik/Pasted image 20230920123547.png",
     "idehistorie/kilder",
     "Kemi/Pasted image 20230925100619.png",
