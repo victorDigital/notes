@@ -23,9 +23,11 @@
             "id": "9229b2fc83dd7070",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "My Blog IDEA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differentialkvotienten af en eksponentialfunktion er givet ved.md",
+                "file": "My Blog IDEA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differentialkvotienten af en eksponentialfunktion er givet ved.md",
+                "file": "My Blog IDEA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differentialkvotienten af en eksponentialfunktion er givet ved.md"
+                "file": "My Blog IDEA.md"
               }
             }
           },
@@ -186,6 +188,7 @@
   },
   "active": "9229b2fc83dd7070",
   "lastOpenFiles": [
+    "My Blog IDEA.md",
     "Dansk/kronikken/kronikken.md",
     "Differentialkvotienten af en eksponentialfunktion er givet ved.md",
     "Pasted image 20240123100956.png",
