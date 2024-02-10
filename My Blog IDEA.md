@@ -23,4 +23,4 @@ beautiful markdown based blog
 - code blocks with highlightjs
 - embla carousel (maybe)
 - time to read calc
-- cite support different 
+- cite support different formats (eg. bibtex, apa)
