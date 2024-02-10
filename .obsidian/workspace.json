@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9229b2fc83dd7070",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,9 +162,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           }
@@ -175,7 +184,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c9c57831e83c5c3",
+  "active": "9229b2fc83dd7070",
   "lastOpenFiles": [
     "Dansk/kronikken/kronikken.md",
     "Differentialkvotienten af en eksponentialfunktion er givet ved.md",
