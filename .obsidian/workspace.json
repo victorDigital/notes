@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e83d282093768f5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opgaver integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opgaver integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "opgaver integral.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +184,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e40147350cea8216",
+  "active": "9e83d282093768f5",
   "lastOpenFiles": [
-    "Dansk/kronikken/kronikken.md",
     "opgaver integral.md",
+    "conflict-files-obsidian-git.md",
+    "års prøve spg.2.md",
+    "års prøve spg.1.md",
+    "My Blog IDEA.md",
+    "KRONIK AHHHHH.md",
+    "Dansk/kronikken/kronikken.md",
     "eng notes.md",
     "Dansk/Analyse af sagprosa - oversigt over fagbegreber.pdf",
     "Dansk/Kortfilm analyse spørgsmål.md",
@@ -213,12 +226,7 @@
     "DIO/DIO danskdelen.md",
     "DIO/DIO opgavestruktur.md",
     "idehistorie/Etik/opgave 3/Nytte etik.md",
-    "Kemi/Carbonhydrider.md",
-    "Dansk/science fiction.md",
     "DIO",
-    "Dansk/A-S Marionetter.md",
-    "Kemi/Kemisk ligevægt.md",
-    "Kemi/pH & pOH.md",
     "idehistorie/kilder",
     "Matematik/~$nstig intelligens er vores eneste redning.docx",
     "Matematik/Kunstig intelligens er vores eneste redning.docx",
