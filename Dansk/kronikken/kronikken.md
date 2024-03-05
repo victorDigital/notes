@@ -51,4 +51,4 @@ del B:
 
 # START PÅ KRONIKKEN
 
-Online gaming har i mange år været et mødested for mennesker af alle slags. introduktionen af tekst og senere lyd samtale systemer gav online gaming verdenen en ny dimension af personlighed og nerver. selvom denne teknologi har opgraderet spilleoplevelsen, har den også skabt ny mulighed for drilleri og chikane. i nyere tid er dette fænomen blevet mere udbredt end nogensinde før. spillerne skal simpelthen tage sig sammen, vi bliver nød til sammen at skabe øgede opmærksomhed omkring drilleri og chikane i online gaming.
+Online gaming har i mange år været et mødested for mennesker af alle slags. Introduktionen af tekst- og senere lydsamtale-systemer gav online gaming-verdenen en ny dimension af personlighed og nærvær. Selvom denne teknologi har opgraderet spilleoplevelsen, har den også skabt nye muligheder for drilleri og chikane. I nyere tid er dette fænomen blevet mere udbredt end nogensinde før. Spillerne skal simpelthen tage sig sammen. Vi bliver nødt til sammen at skabe øget opmærksomhed omkring drilleri og chikane i online gaming.
