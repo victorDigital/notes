@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3904ffee1e2d9f21",
+        "id": "3323f596fc4bd120",
         "type": "tabs",
         "children": [
           {
-            "id": "e40147350cea8216",
+            "id": "ee7c25e4fb569aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e83d282093768f5",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "opgaver integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "opgaver integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "opgaver integral.md"
+              }
             }
           },
           {
@@ -184,7 +176,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9e83d282093768f5",
+  "active": "ee7c25e4fb569aba",
   "lastOpenFiles": [
     "opgaver integral.md",
     "conflict-files-obsidian-git.md",
