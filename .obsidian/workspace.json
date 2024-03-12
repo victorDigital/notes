@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db68300d5063e08e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +187,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ee7c25e4fb569aba",
+  "active": "db68300d5063e08e",
   "lastOpenFiles": [
     "opgaver integral.md",
     "conflict-files-obsidian-git.md",

@@ -226,6 +226,42 @@ Figuren viser et område, der er afgrænset af grafen for funktionerne ![f](htt
 ![g(x)=-x](https://matbhtx.systime.dk/typo3temp/gt3math/af54540d58c2e87e095b45e72fa25e74af26ed8c.svg)
 
 Bestem arealet af det tonede område.
+
+find skærings punkter:
 $\mathit{solve} (g (x)=f (x)) = -1~og~2$
+
+integral stuff:
 $\int_{-1}^{2}|g(x)-f(x)|~dx=\frac{9}{2}$
 
+
+
+### Opgave 10.33
+
+- ![](https://matbhtx.systime.dk/api/fileadmin/_processed_/0/1/csm_318_opgave_10-33_134px_2e177fd8e4.png)
+    
+    Figur 10.57
+    
+
+Figuren viser et tonet areal samt grafen for funktionen ![f](https://matbhtx.systime.dk/typo3temp/gt3math/8b8ee164e5f4eae69204a3e2b31dcee4cfec1eed.svg), der har forskriften
+
+![f(x)=x^2-2x+3](https://matbhtx.systime.dk/typo3temp/gt3math/dc0e9ebb7e4cf9777a38fe10d3615287c629f236.svg)
+
+Middelværdien over det tonede område kan bestemmes som
+
+$$h_m=\frac{1}{b-a}\int_a^b f(x) dx$$
+
+Bestem middelværdien af den tonede punktmængde.
+
+$$\frac{x^{3}}{3}-x^{2}+3x $$
+
+$$F (4)-F (0)$$
+
+$$\frac{\frac{4^{3}}{3}-4^{2}+3\cdot 4}{4}$$
+$$= \frac{13}{3}$$
+
+### ANDEN OPGAVE
+$$\mathit{fsolve}\left(230=\sqrt{\frac{1}{\pi-0}\cdot \int_{0}^{\pi}\left(V_{\max}\cdot \sin\left(x\right)\right)^{2}d x},V_{\max}\right)=325.2691193$$
+
+$$\sqrt{\frac{1}{\pi -0}\cdot \int_{0}^{\pi}\left(\%\cdot \sin\left(x\right)\right)^{2}d x}=230$$
+
+___HURRAAA___
