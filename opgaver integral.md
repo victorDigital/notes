@@ -265,3 +265,25 @@ $$\mathit{fsolve}\left(230=\sqrt{\frac{1}{\pi-0}\cdot \int_{0}^{\pi}\left(V_{\ma
 $$\sqrt{\frac{1}{\pi -0}\cdot \int_{0}^{\pi}\left(\%\cdot \sin\left(x\right)\right)^{2}d x}=230$$
 
 ___HURRAAA___
+
+
+### Opgave 10.34
+
+- ![](https://matbhtx.systime.dk/api/fileadmin/_processed_/4/f/csm_319_opgave_10-34_154px_7b24a9de28.png)
+    
+    Figur 10.58
+    
+
+Figuren viser et tonet areal smt grafen for funktionen ![f](https://matbhtx.systime.dk/typo3temp/gt3math/8b8ee164e5f4eae69204a3e2b31dcee4cfec1eed.svg).
+
+Funktionen ![f](https://matbhtx.systime.dk/typo3temp/gt3math/8b8ee164e5f4eae69204a3e2b31dcee4cfec1eed.svg) har forskriften
+
+![f(x)=\sqrt{1-x^2}](https://matbhtx.systime.dk/typo3temp/gt3math/5a29aac744ef08e2c4e93602da5697a29807e614.svg)
+
+1. Bestem arealet af det viste tonede område ![R](https://matbhtx.systime.dk/typo3temp/gt3math/663d3288caff64621cb5b082bb63f35037aa787a.svg).
+
+Middelværdien over det tonede område kan bestemmes som
+
+![h_m=\frac{1}{b-a}\int_a^b f(x) dx](https://matbhtx.systime.dk/typo3temp/gt3math/b56fd285003543bfb48b9042c7454d434bf6886b.svg)
+
+2. Bestem middelværdien _hm_ af den tonede punktmængde.
