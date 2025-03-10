@@ -46,3 +46,10 @@ ofte ender tragisk
 overnaturlige kræfter og væsner
 magi
 
+
+### folkeviser
+2-4 strofer
+tone, omkvæd
+morale
+
+formelsprog
